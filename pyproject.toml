@@ -1,0 +1,18 @@
+[project]
+name = "graph-hw"
+version = "0.1.0"
+description = "Local GraphRAG notebook for metallurgy documents"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "graphrag==3.1.0",
+    "litellm==1.86.2",
+    "jupyterlab",
+    "ipykernel",
+    "pyyaml",
+    "pandas",
+    "pyarrow",
+    "pyvis==0.3.2",
+]
+
+[tool.uv]
+package = false

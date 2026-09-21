@@ -1,0 +1,7 @@
+.venv/
+.uv-cache/
+.uv-python/
+.ipynb_checkpoints/
+local_runs/
+__pycache__/
+.ipython/

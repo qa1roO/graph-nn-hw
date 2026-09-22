@@ -7,13 +7,16 @@ import unicodedata
 import pandas as pd
 import networkx as nx
 
-VERSION = "metallurgy-v2"
+VERSION = "metallurgy-v3"
 TYPES = ["ХИМИЧЕСКИЙ_ЭЛЕМЕНТ", "МАТЕРИАЛ", "СОЕДИНЕНИЕ", "МИКРОСТРУКТУРА",
          "ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС", "СВОЙСТВО"]
-ALIASES = {"NB": "НИОБИЙ", "V": "ВАНАДИЙ", "TI": "ТИТАН", "NBC": "КАРБИД НИОБИЯ"}
+ALIASES = {"NB": "НИОБИЙ", "V": "ВАНАДИЙ", "TI": "ТИТАН", "NBC": "КАРБИД НИОБИЯ",
+           "ALN": "НИТРИД АЛЮМИНИЯ", "NBN": "НИТРИД НИОБИЯ", "VC": "КАРБИД ВАНАДИЯ", "VN": "НИТРИД ВАНАДИЯ"}
 PROCESS_NAMES = {"РЕКРИСТАЛЛИЗАЦИЯ", "РЕКРИСТАЛЛИЗАЦИЯ АУСТЕНИТА", "РОСТ ЗЕРНА",
-                 "ГОРЯЧАЯ ПРОКАТКА", "ТЕРМИЧЕСКАЯ ОБРАБОТКА"}
-SUSPICIOUS = {"РАСТ", "РАСТВОРЕХА ЗЕРНА"}
+                 "ГОРЯЧАЯ ПРОКАТКА", "ТЕРМИЧЕСКАЯ ОБРАБОТКА", "ДИСПЕРСИОННОЕ ТВЕРДЕНИЕ"}
+PROPERTY_NAMES = {"ПЛОТНОСТЬ ДИСЛОКАЦИЙ", "ТЕМПЕРАТУРА НАГРЕВА", "ТЕМПЕРАТУРА НОРМАЛИЗАЦИИ"}
+SUSPICIOUS = {"РАСТ", "РАСТВОРЕХА ЗЕРНА", "ГРОТКАЯ ПРОКАТКА", "ГАЗАУСТЕНИТНОЕ ЗЕРНО",
+              "ГАЛЬМА-АЛЬФА-ПРЕВРАЩЕНИЕ", "ТЕРМОВАЯ ОБРАБОТКА", "ДВУХКОМПОНЕНТНОЕ СООБЩЕНИЕ"}
 
 def canonical(value):
     name = re.sub(r"\s+", " ", unicodedata.normalize("NFC", str(value)).replace("_", " ")).strip().upper()
@@ -42,11 +45,17 @@ def normalize_graph(artifacts):
     for name, group in work.groupby("canonical", sort=True):
         original_types = sorted(set(group["type"].dropna().astype(str)))
         kind = "ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС" if name in PROCESS_NAMES else (original_types[0] if len(original_types) == 1 else "НЕОДНОЗНАЧНО")
+        if name in PROPERTY_NAMES:
+            kind = "СВОЙСТВО"
         reasons = []
         if kind not in TYPES:
             reasons.append("тип вне предметной области или конфликт типов")
         if name in SUSPICIOUS or not name:
             reasons.append("подозрительное название; проверить OCR")
+        if re.match(r"^[~≈<>≤≥]?\s*\d", name) and not re.search(r"[А-ЯA-Z]", name.split()[0]):
+            reasons.append("числовое значение вместо сущности; проверить марку материала")
+        if name == "АЛЮМИНИД НИОБИЯ" and re.search(r"\bAlN\b", descriptions(group["description"]), re.I):
+            reasons.append("название соединения не соответствует формуле AlN")
         for row in group.to_dict("records"):
             audit.append({"original": row["title"], "canonical": name, "original_type": row["type"],
                           "type": kind, "status": "review" if reasons else "kept", "reason": "; ".join(reasons)})
@@ -77,7 +86,8 @@ def normalize_graph(artifacts):
     checks = []
     compact = lambda s: re.sub(r"\s+", " ", str(s)).strip()
     for row in edges.to_dict("records"):
-        quotes = re.findall(r"Цитата:\s*«([^»]+)»", row["description"])
+        # Include additional guillemet quotes after a single marker in older runs.
+        quotes = re.findall(r"«([^»]+)»", row["description"]) if "Цитата:" in row["description"] else []
         texts = [units[x] for x in row["text_unit_ids"] if x in units]
         valid = sum(any(compact(q) in compact(t) for t in texts) for q in quotes)
         checks.append({**row, "quotes": quotes, "quotes_found": valid,
@@ -103,6 +113,8 @@ def normalize_graph(artifacts):
     stats = {"version": VERSION, "raw_nodes": len(entities), "nodes": len(nodes), "raw_edges": len(relationships),
              "edges": len(edges), "isolated_nodes": int((nodes["degree"] == 0).sum()),
              "nodes_to_review": int(nodes["review_reason"].ne("").sum()),
-             "edges_without_quotes": sum(not x["quotes"] for x in checks)}
+             "edges_without_quotes": sum(not x["quotes"] for x in checks),
+             "edges_with_unmatched_quotes": sum(bool(x["quotes"]) and x["quotes_found"] < len(x["quotes"]) for x in checks),
+             "warning": "Совпадение цитаты не подтверждает смысл связи; отсутствие флагов не означает отсутствие ошибок."}
     (output / "quality_report.json").write_text(json.dumps(stats, ensure_ascii=False, indent=2), encoding="utf-8")
     return output, stats

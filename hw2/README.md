@@ -21,12 +21,12 @@ uv run python resume_embeddings.py local_runs/vanadiy_review-full-0fea01adef45 -
 Скрипт запускает только эмбеддинги, проверяет неизменность таблиц графа,
 сохраняет исходную статистику и отдельный отчёт восстановления в recovery.
 После успеха выполните последнюю ячейку упаковки для этой папки запуска
-или откройте graph-viewer.ipynb. Строка Pipeline complete сама по себе
+или откройте `hw2/graph-viewer.ipynb`. Строка Pipeline complete сама по себе
 не означает успех: GraphRAG печатает её и после Pipeline error.
 
 ## Текущий режим запуска
 
-В `graphtheory-hw2-local.ipynb` установлено `SMOKE_TEST = False`:
+В `hw2/graphtheory-hw2-local.ipynb` установлено `SMOKE_TEST = False`:
 первый документ (`vanadiy_review.md`) обрабатывается полностью.
 `GENERATE_COMMUNITY_REPORTS = False` отключает генерацию текстовых отчётов
 по сообществам и эмбеддингов этих отчётов. Построение графа, выделение сообществ,
@@ -64,10 +64,10 @@ uv run python resume_embeddings.py local_runs/vanadiy_review-full-0fea01adef45 -
 
 ## Просмотр готового графа
 
-Откройте отдельный ноутбук `graph-viewer.ipynb`:
+Откройте отдельный ноутбук `hw2/graph-viewer.ipynb`:
 
 ```powershell
-uv run jupyter lab graph-viewer.ipynb
+uv run jupyter lab hw2/graph-viewer.ipynb
 ```
 
 Выберите ядро Python (graph-hw) и выполните все ячейки. Ollama не нужна.
@@ -76,7 +76,7 @@ uv run jupyter lab graph-viewer.ipynb
 Работает также экспорт `local_runs/<запуск>/graph.html`, который можно открыть в браузере.
 Просмотр не меняет таблицы графа. Для больших графов можно задать MAX_NODES.
 
-Локальный ноутбук: `graphtheory-hw2-local.ipynb`. Исходный Kaggle-ноутбук сохранён.
+Локальный ноутбук: `hw2/graphtheory-hw2-local.ipynb`. Исходный Kaggle-ноутбук сохранён как `hw2/graphtheory-hw2-kaggle.ipynb`.
 
 Используется отдельный Python 3.12: GraphRAG 3.1.0 требует Python >=3.11,<3.14.
 Системный Python 3.14 не заменяется. GraphRAG 3.1.0 и LiteLLM 1.86.2 закреплены;
@@ -93,7 +93,7 @@ $env:UV_PYTHON_INSTALL_DIR = Join-Path $PWD '.uv-python'
 uv python install 3.12
 uv sync --locked
 uv run python -m ipykernel install --prefix .venv --name graph-hw --display-name "Python (graph-hw)"
-uv run jupyter lab graphtheory-hw2-local.ipynb
+uv run jupyter lab hw2/graphtheory-hw2-local.ipynb
 ```
 
 Первые две строки задают локальные каталоги uv; повторяйте их в новом терминале.

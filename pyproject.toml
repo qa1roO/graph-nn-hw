@@ -12,6 +12,11 @@ dependencies = [
     "pandas",
     "pyarrow",
     "pyvis==0.3.2",
+    "pymorphy3>=2.0.6",
+    "pymorphy3-dicts-ru>=2.4.417150.4580142",
+    "razdel>=0.5.0",
+    "pint>=0.26.1",
+    "beautifulsoup4>=4.15.0",
 ]
 
 [tool.uv]

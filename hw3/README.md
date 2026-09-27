@@ -9,6 +9,8 @@
 - SHA-256 входа: `3876cc0e01e5ce9591c8da7f2c761b7807db0879982011cbd2584ed021d0d2ff`.
 - Весь сценарий находится в `hw3/HW3_pipeline.ipynb`. Проверки входа и целостности встроены в ячейки ноутбука. Зависимости записаны в `pyproject.toml` и `uv.lock`.
 
+Полные рабочие папки `local_runs/` и `hw3_runs/` исключены из Git. Итоговые графы и метрики текущего запуска сохранены в [`hw3/results/ganoshenko/`](results/ganoshenko/README.md); после нового запуска их экспортирует `HW3_export_results.ipynb`.
+
 Запуск из корня проекта в PowerShell:
 
 ```powershell

@@ -1,0 +1,315 @@
+{
+  "chunking": {
+    "chunks": 111,
+    "table_chunks": 11,
+    "mean_tokens": 592.6,
+    "median_tokens": 742,
+    "std_tokens": 302.3,
+    "max_tokens": 1770,
+    "over_1024_tokens": 4,
+    "over_1024_table_chunks": 4,
+    "broken_formulas": 0,
+    "broken_tables": 0,
+    "source_paragraphs": 700,
+    "paragraphs_across_multiple_chunks": 29,
+    "split_paragraph_fraction": 0.0414,
+    "sentence_atoms": 1429,
+    "split_sentence_atoms": 0,
+    "split_sentence_fraction": 0.0,
+    "overlap_tokens": 0,
+    "interpretation": "Границы восстановлены из тех же защищённых абзацев и предложений; это структурная проверка, не ручная оценка семантики."
+  },
+  "cleaning": {
+    "image_placeholders_removed": 93,
+    "control_characters_removed": 0,
+    "wrapped_compound_words_joined": 1,
+    "escaped_tildes_unescaped": 24,
+    "reviewed_ocr_corrections": 1,
+    "repeated_whitespace_collapsed": 68,
+    "image_placeholders_remaining": 0,
+    "ambiguous_standalone_numbers_preserved": 9,
+    "formula_occurrences_preserved": "204/204",
+    "html_tables_preserved": "11/11",
+    "protected_token_recovery": {
+      "formula": {
+        "expected": 147,
+        "recovered": 147,
+        "fraction": 1.0
+      },
+      "unit": {
+        "expected": 558,
+        "recovered": 558,
+        "fraction": 1.0
+      },
+      "grade": {
+        "expected": 233,
+        "recovered": 233,
+        "fraction": 1.0
+      },
+      "table": {
+        "expected": 11,
+        "recovered": 11,
+        "fraction": 1.0
+      }
+    },
+    "gold_based_CER_WER_P_R_F1": null,
+    "numeric_fidelity": {
+      "source_occurrences": 2983,
+      "prepared_occurrences": 2983,
+      "missing_occurrences": 0,
+      "added_occurrences": 0,
+      "exact_multiset_match": true,
+      "exact_order_match": true,
+      "note": "Сверка числовых строк Markdown до и после предобработки; корректность OCR относительно PDF не проверяется."
+    }
+  },
+  "normalization": {
+    "unit_typography_changes": 3,
+    "units_validated_with_pint": 558,
+    "unit_parse_success_fraction": 1.0,
+    "abbreviations_with_expansions": 3,
+    "lemmas_different_from_surface": 14266,
+    "gold_based_lemma_or_abbreviation_accuracy": null,
+    "note": "Pint проверяет распознаваемость единицы, не достоверность числа; леммы сохранены только в метаданных."
+  },
+  "tokenization": {
+    "sentences": 1185,
+    "tokens": 29233,
+    "table_cells_tokenized_separately": 1018,
+    "by_kind": {
+      "word": 28182,
+      "formula": 147,
+      "unit": 558,
+      "abbreviation": 102,
+      "grade": 233,
+      "table": 11
+    },
+    "valid_offset_fraction": 1.0,
+    "protected_recovery": {
+      "formula": {
+        "expected": 147,
+        "recovered": 147,
+        "fraction": 1.0
+      },
+      "unit": {
+        "expected": 558,
+        "recovered": 558,
+        "fraction": 1.0
+      },
+      "grade": {
+        "expected": 233,
+        "recovered": 233,
+        "fraction": 1.0
+      },
+      "table": {
+        "expected": 11,
+        "recovered": 11,
+        "fraction": 1.0
+      }
+    },
+    "standalone_abbreviations_outside_tables": 102,
+    "abbreviation_tokens": 102,
+    "oov_rate": null,
+    "oov_note": "У razdel нет фиксированного словаря; OOV rate для него не определён.",
+    "exact_protected_values": {
+      "formula": {
+        "source_occurrences": 147,
+        "token_occurrences": 147,
+        "missing_exact_values": 0,
+        "added_exact_values": 0,
+        "exact_multiset_match": true
+      },
+      "unit": {
+        "source_occurrences": 558,
+        "token_occurrences": 558,
+        "missing_exact_values": 0,
+        "added_exact_values": 0,
+        "exact_multiset_match": true
+      },
+      "grade": {
+        "source_occurrences": 233,
+        "token_occurrences": 233,
+        "missing_exact_values": 0,
+        "added_exact_values": 0,
+        "exact_multiset_match": true
+      },
+      "table": {
+        "source_occurrences": 11,
+        "token_occurrences": 11,
+        "missing_exact_values": 0,
+        "added_exact_values": 0,
+        "exact_multiset_match": true
+      }
+    }
+  },
+  "vectorization": {
+    "before": {
+      "vector_health": {
+        "available": true,
+        "entity_description": {
+          "available": true,
+          "rows": 606,
+          "expected_rows": 606,
+          "unique_ids": 606,
+          "dimension": 1024,
+          "nonfinite_vectors": 0,
+          "zero_norm_vectors": 0,
+          "median_norm": 1.0
+        },
+        "text_unit_text": {
+          "available": true,
+          "rows": 139,
+          "expected_rows": 139,
+          "unique_ids": 139,
+          "dimension": 1024,
+          "nonfinite_vectors": 0,
+          "zero_norm_vectors": 0,
+          "median_norm": 1.0
+        }
+      },
+      "retrieval": {
+        "queries": 7,
+        "answerable_queries": 7,
+        "hit_rate_at_10": 1.0,
+        "mrr_at_10": 0.881,
+        "mean_ndcg_at_10": 0.8539
+      },
+      "cosine_profile": {
+        "adjacent_mean_cosine": 0.7993,
+        "adjacent_median_cosine": 0.8087,
+        "random_mean_cosine": 0.6196,
+        "random_median_cosine": 0.6119,
+        "pairs_per_group": 138,
+        "note": "Это сходство блоков, не оценка релевантности и не MTEB."
+      }
+    },
+    "after": {
+      "vector_health": {
+        "available": true,
+        "entity_description": {
+          "available": true,
+          "rows": 519,
+          "expected_rows": 519,
+          "unique_ids": 519,
+          "dimension": 1024,
+          "nonfinite_vectors": 0,
+          "zero_norm_vectors": 0,
+          "median_norm": 1.0
+        },
+        "text_unit_text": {
+          "available": true,
+          "rows": 111,
+          "expected_rows": 111,
+          "unique_ids": 111,
+          "dimension": 1024,
+          "nonfinite_vectors": 0,
+          "zero_norm_vectors": 0,
+          "median_norm": 1.0
+        }
+      },
+      "retrieval": {
+        "queries": 7,
+        "answerable_queries": 7,
+        "hit_rate_at_10": 1.0,
+        "mrr_at_10": 0.719,
+        "mean_ndcg_at_10": 0.7494
+      },
+      "cosine_profile": {
+        "adjacent_mean_cosine": 0.7083,
+        "adjacent_median_cosine": 0.7021,
+        "random_mean_cosine": 0.5584,
+        "random_median_cosine": 0.5476,
+        "pairs_per_group": 110,
+        "note": "Это сходство блоков, не оценка релевантности и не MTEB."
+      }
+    }
+  },
+  "graph": {
+    "before": {
+      "visited_nodes": 606,
+      "connected_components": 106,
+      "suspected_formula_or_table_fragment_titles": 0,
+      "table_containing_text_units": {
+        "units": 15,
+        "with_entities": 12,
+        "with_relationships": 12
+      },
+      "formula_containing_text_units": {
+        "units": 68,
+        "with_entities": 66,
+        "with_relationships": 60
+      },
+      "pronoun_nodes": 0,
+      "marked_for_review": 19,
+      "exact_quote_fraction_among_quoted": 0.7878,
+      "judge_covered_facts_of_7": 2,
+      "judge_flagged_contradictions_of_7": 0,
+      "note": "Фрагменты в названиях — только кандидаты; целостность формул и таблиц внутри графа требует ручной оценки.",
+      "exact_technical_text": {
+        "formula": {
+          "source_occurrences": 147,
+          "exact_in_text_units": 147,
+          "exact_in_graph_fields": 57,
+          "note": "Дословная прослеживаемость, не оценка правильности извлечения фактов."
+        },
+        "table": {
+          "source_occurrences": 11,
+          "exact_in_text_units": 3,
+          "exact_in_graph_fields": 0,
+          "note": "Дословная прослеживаемость, не оценка правильности извлечения фактов."
+        }
+      },
+      "extraction_completion": {
+        "cached_responses": 139,
+        "finished_by_length_limit": 75,
+        "finished_normally": 64,
+        "complete_marker_present": 64,
+        "finished_normally_fraction": 0.4604,
+        "note": "Лимит генерации 3072 токена; это показатель завершения ответа, не полнота фактов в графе."
+      }
+    },
+    "after": {
+      "visited_nodes": 519,
+      "connected_components": 116,
+      "suspected_formula_or_table_fragment_titles": 0,
+      "table_containing_text_units": {
+        "units": 11,
+        "with_entities": 6,
+        "with_relationships": 4
+      },
+      "formula_containing_text_units": {
+        "units": 52,
+        "with_entities": 48,
+        "with_relationships": 44
+      },
+      "pronoun_nodes": 0,
+      "marked_for_review": 12,
+      "exact_quote_fraction_among_quoted": 0.7358,
+      "judge_covered_facts_of_7": 4,
+      "judge_flagged_contradictions_of_7": 1,
+      "note": "Фрагменты в названиях — только кандидаты; целостность формул и таблиц внутри графа требует ручной оценки.",
+      "exact_technical_text": {
+        "formula": {
+          "source_occurrences": 147,
+          "exact_in_text_units": 147,
+          "exact_in_graph_fields": 39,
+          "note": "Дословная прослеживаемость, не оценка правильности извлечения фактов."
+        },
+        "table": {
+          "source_occurrences": 11,
+          "exact_in_text_units": 11,
+          "exact_in_graph_fields": 0,
+          "note": "Дословная прослеживаемость, не оценка правильности извлечения фактов."
+        }
+      },
+      "extraction_completion": {
+        "cached_responses": 111,
+        "finished_by_length_limit": 84,
+        "finished_normally": 27,
+        "complete_marker_present": 27,
+        "finished_normally_fraction": 0.2432,
+        "note": "Лимит генерации 3072 токена; это показатель завершения ответа, не полнота фактов в графе."
+      }
+    }
+  }
+}

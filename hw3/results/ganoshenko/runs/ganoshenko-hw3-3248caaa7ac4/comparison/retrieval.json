@@ -1,0 +1,317 @@
+{
+  "model": "bge-m3-cpu:latest",
+  "before": {
+    "run": "local_runs/ganoshenko-full-294d037a3646",
+    "queries": 7,
+    "answerable_queries": 7,
+    "hit_rate_at_10": 1.0,
+    "mrr_at_10": 0.881,
+    "mean_ndcg_at_10": 0.8539,
+    "details": [
+      {
+        "question": "Какие трубы применяли для магистральных газопроводов до перехода на более прочные стали?",
+        "evidence": "трубы категории прочности до К60",
+        "relevant_units": 1,
+        "first_relevant_rank": 1,
+        "hit_at_10": true,
+        "reciprocal_rank_at_10": 1.0,
+        "ndcg_at_10": 1.0,
+        "retrieved_unit_ids": [
+          "dc61b4111b374a3ec870fd31dd2e717015a63ed1f45f3d8c9c327c464310cd3b28ce47a0a3b8956324779c8c334377d063890cc32111517d5006c1efd1dbe614",
+          "74ad1878999dcc71ce0feaba5808439832e4c22f23a37b1d6d010764cb804926dbb474733df0f98bf1876d1f0525bda38f73e1913ff03207042784e522c3713d",
+          "2b53bd546135a82e20b0d1e02752f1bf965de32323e7b6ee4a7027325c3cbb83bad03a843c36fccf46234d658ec6e65c0dd8a3e8a52b10850fba3934e8f9ac79",
+          "6dba48a90b7b24d2fe35f96a9baf815ada7ef20993f24cd7237a6e5085cb243d6f86dca268a4dcee7b77121b9a48ceaf8164b1befc61ee28a5bd2d5e894390c2",
+          "1d865abd5ee5be1893ffe6da96e68b9a7d8a91eb226458e49fc4ce0e7682648794d3367fa1b90ac255bed51b3175a09abc6a15447f53f6c1e0ad7edaaba0c1ad",
+          "c369e25286f38581f28b611ceb47ed8053837776283cce994a10e36e4a92c69ae6108f2b529c98a1ba1545f7a654be0a2eceab8a391787b584b803128d0cd123",
+          "ce7c017b119eac88869bd68099f2286efe27b400cae3d2d95cef0b159abe93d55b817cfe7547555ab8371dc047781c2b949b320d9f791f7e9c34eb97dbc9d4b9",
+          "34d6b7f1458b58535171832c94105c409e9137f3f5646f0cbbcf760ddfe96e4219bbed96852b6436e0552ca6b32f9ef5e1d4dec66a1ee45829110f9ad4dd4e63",
+          "bf54da462945c418bdacdbf6ac259f0894b4dcf0bebafa0afeedd2a8421c2ebbd9c4bbe732ad33841b67bb48f56e38a44d183d2531ad497892eebc8dc87599db",
+          "bf70488fef991ac37dc10dbe17c524146da5aeab5f6f748a031796a20b448377b0b722d61a9b7fbfe7ec2e4bee4ff594ee207edfe0fd2c9fb573ae096a746fb1"
+        ]
+      },
+      {
+        "question": "Какое оборудование учитывалось при разработке стали категории К65?",
+        "evidence": "листового стана 3600",
+        "relevant_units": 5,
+        "first_relevant_rank": 1,
+        "hit_at_10": true,
+        "reciprocal_rank_at_10": 1.0,
+        "ndcg_at_10": 0.5543,
+        "retrieved_unit_ids": [
+          "bf70488fef991ac37dc10dbe17c524146da5aeab5f6f748a031796a20b448377b0b722d61a9b7fbfe7ec2e4bee4ff594ee207edfe0fd2c9fb573ae096a746fb1",
+          "eb42c59431492dd7fb44b12bad06e8a619dc5c39eb32a8397e38fc4b53d1242e96fd650815420e0babd11244656904a29eb5cd62a39ff497dc1fe17809d49cdf",
+          "ce7c017b119eac88869bd68099f2286efe27b400cae3d2d95cef0b159abe93d55b817cfe7547555ab8371dc047781c2b949b320d9f791f7e9c34eb97dbc9d4b9",
+          "53aa9445f435f4ebc74bf953f0733023380eac47e9ad0a3ef1892d266f89ed6ea4bc7ed57b00cd70f077d3bbbede9d1435ab772e6c7b380e930d777ff155a9fe",
+          "6dba48a90b7b24d2fe35f96a9baf815ada7ef20993f24cd7237a6e5085cb243d6f86dca268a4dcee7b77121b9a48ceaf8164b1befc61ee28a5bd2d5e894390c2",
+          "34f78d298d7276c152b6b6409d00af7a238aba455f37c547d9015e42a27f9c91d85769eaa94a1a91adae0d8b5d198bbe26c39e24658e469bb4aac0867df3270f",
+          "dc61b4111b374a3ec870fd31dd2e717015a63ed1f45f3d8c9c327c464310cd3b28ce47a0a3b8956324779c8c334377d063890cc32111517d5006c1efd1dbe614",
+          "4ebd50905d481fe1ad82c8c9602ae60c4ffc52f1fc057cfeed7e87b4befd43613152855ff535972bb0685a98ef52ea34324671cedfa6d562b85df8b24ea7a1f8",
+          "ab3c133fed070fa87fc0340493e00edd66e35fbe072c583abb04e123e949640c10b7b17e760637a78217c8c5cf4f3f734406c7230620180515a8f2b98d7fc520",
+          "150306f8d7dc71d890384c675b9ad5eab110be73e19aed61aa919e69b4c11dab33a320d78722c85bd6837cd81a1e8847befff120f812fa2461deeaf505a48366"
+        ]
+      },
+      {
+        "question": "Какой диапазон отношения кальция к сере указан для глобуляризации сульфидов?",
+        "evidence": "2 < [Ca]/[S] < 8",
+        "relevant_units": 1,
+        "first_relevant_rank": 1,
+        "hit_at_10": true,
+        "reciprocal_rank_at_10": 1.0,
+        "ndcg_at_10": 1.0,
+        "retrieved_unit_ids": [
+          "49a92e3041207226408edd13853c812ebbfa3004008d7de7bcd48a3b4e0ebbccca5f92e0ab241a40be564bd2d7f0a12dea03b6714a8e78ff29b53988b46659c8",
+          "ada7dfe8bf8ddde2e811d47cf7cd5f8481017c531f9d2b1cb613de616e00ca454ef44c3e32a83d485a181d1018596be26adcb29a881e6c22e22b44b290579df6",
+          "db10975e10ff37785226356ad5667e364729d1e91c1d1a7a92d1ff588746f327e013e0ab507e5d2b1f36e76b624adfb47f65cfdfec9e81ac0a2406923d6eddee",
+          "509a6e0ecfb71abfb3c3f334ccc2e9c0298b05bcca024c2207a47c28c04db1e6e48b1c18ebf83ea0d4d6dde3fa413174353b6ceb1e93798888967a9cfb4f406d",
+          "34d6b7f1458b58535171832c94105c409e9137f3f5646f0cbbcf760ddfe96e4219bbed96852b6436e0552ca6b32f9ef5e1d4dec66a1ee45829110f9ad4dd4e63",
+          "104760706db17d3d0b7a6efd5d5bf8b2e4d9c8c0d015a076ab22b753503b8e18c4af558b8ef47ce8e16f50ebe8d704e352111dc4977ef53882afe008cdf2dde6",
+          "bff86ad5728066cea0a414954d7029dd1e6e892782b397a24fcdb8be839a9be0004009980d585520fef459761c7da7b62bb4a1cdddb2ecb9db99fe85c5c6442a",
+          "57f0a8e9a7a49c2a5f9dc5f49b42996b7c6e3afa7da26109f3ac9f3a621380e878aa8519e78a472dd0365e362d62f347fe716a1ef70c82535cbd24afb7f268a4",
+          "1cc6930554030ea98b20ca6ca27d64cdb118cd9d249714fdb379dd316bc10e4467cd32e805210af925b92e4e9220aed48b3ef8e091ecd6fad98d4aea2b0d6632",
+          "c369e25286f38581f28b611ceb47ed8053837776283cce994a10e36e4a92c69ae6108f2b529c98a1ba1545f7a654be0a2eceab8a391787b584b803128d0cd123"
+        ]
+      },
+      {
+        "question": "Как обрабатывают металл для предотвращения удлинённых сульфидов марганца?",
+        "evidence": "обработка металла в разливочном ковше силикокальцием",
+        "relevant_units": 1,
+        "first_relevant_rank": 1,
+        "hit_at_10": true,
+        "reciprocal_rank_at_10": 1.0,
+        "ndcg_at_10": 1.0,
+        "retrieved_unit_ids": [
+          "49a92e3041207226408edd13853c812ebbfa3004008d7de7bcd48a3b4e0ebbccca5f92e0ab241a40be564bd2d7f0a12dea03b6714a8e78ff29b53988b46659c8",
+          "ada7dfe8bf8ddde2e811d47cf7cd5f8481017c531f9d2b1cb613de616e00ca454ef44c3e32a83d485a181d1018596be26adcb29a881e6c22e22b44b290579df6",
+          "509a6e0ecfb71abfb3c3f334ccc2e9c0298b05bcca024c2207a47c28c04db1e6e48b1c18ebf83ea0d4d6dde3fa413174353b6ceb1e93798888967a9cfb4f406d",
+          "00695e1c9d43b0e09c174eebc4ea15b6565cdf7e5612a2e757d3d76318d8107ce92f0b41f34d0e90111a5887ede7ad1e17ce0e612c8e2ce6636e6425225aa5dc",
+          "d84eb3c5b0526e34025e04d515aa6fdc9df2632e015a45a81e4d8a423fbeaf6dc963d0f79bb48304bcfcb4dc7087b7bf51d3a0bdfa3fe2e1b87b8ade19d9b7ae",
+          "8a9a56b2eb870fd9e122bfea692c45195c5e783c5228ac2b9945d188efa96e5da8a3c5ae7c4e32a8b6909a2805add83b563c7d6af2a3b4afd893f996d31cae0c",
+          "5647a4a7641c10ecd65c6c01589ace90db619c5de1d96e33dad0a7c33f67c00941d0477cce31105767b9e907eff82a9c670ff308c989c743ec1b6a0085e958e3",
+          "32a7e7046ed1a34b83103dce31a080324ee36573988f657b34871485f26cb904b55699caaa883fdd268f9bb5fd24b2f736adf990b87045ad159b8fcaa3736195",
+          "c369e25286f38581f28b611ceb47ed8053837776283cce994a10e36e4a92c69ae6108f2b529c98a1ba1545f7a654be0a2eceab8a391787b584b803128d0cd123",
+          "a9f69c3ccf35c830256d3de5814dcfc86d62b6f5b1b9290b829a4fcd5f12705b88a45509a42a19926d57ce86b54bba16e631c029656c474a972900e0a8e0478f"
+        ]
+      },
+      {
+        "question": "Какой прибор использовали для построения термокинетических диаграмм?",
+        "evidence": "быстродействующем дилатометре ИМЕТ-ДБ",
+        "relevant_units": 1,
+        "first_relevant_rank": 1,
+        "hit_at_10": true,
+        "reciprocal_rank_at_10": 1.0,
+        "ndcg_at_10": 1.0,
+        "retrieved_unit_ids": [
+          "b46bc1e4550530c46a9647a28266ccf56cbbc0e5fc68a82477dc0031b2e92db968a2e7c2cf25ec063fdb377953404b8fbc545e809c9afd736d2269bdbf95bfa0",
+          "e7106d2be3c0ff53c5b6184bca7522577f2f39199fa9fc496c2bd202ce6d9c597cfd648f4f6b81ad1e896c2d8d1313f1e15c0988f07dedee857f03993a6a7ccc",
+          "33a617ebb9a007c8154c0d4a01cdec1bff2ed4438c3b7354a5d893daa6f3514f9426b90c5667f3bf80fe1fbb6b611cdaea1d49a201251440b0a8cba420dd0d84",
+          "09e65c99f5e31c1d1b82c68240274b71409b6354bbf06be5356d8a6bf3e9153a6b5e3769aa977e2f9da0a2ab64b039fa8d49084cd09675ef5cb16d1604e84d06",
+          "dd6f47dc7c6fd4cb766a95e377dd6d9776ec1c4d649dc472b1a169f27d1efdeb039835cc992970de911ea48f10dabc6e6ad324877c99f520c3ef97a2dd4e4d6d",
+          "600a8df9f9063298b455cc3ade2183fb0ad2e5f0682aa5caf81900cbacb6902d378063ddb4452c0b777d4596059569118c68d92eece5fc91125e2a534dcf7cae",
+          "027e6d95bf0d42058623971cb1cd4887e690a06717588cc48d9708545c7b4e7855e791f0a173cd6ca29c8e1d3dbaab1a30799011e4608a8e346814461f446859",
+          "c9efc24f9f960f0747b3b86bda13c289d3e642f2c658a5bed5b5309c70fa21b6e0fd8c8dc6cc4b7c810f1504755e9515ce30d8979064ebe6a5f4ae612d6158bd",
+          "fe16d3e3f7de3db9cd7f0cdb8ae9d962d63ba7586237fda921e2a8e15af83b65d29de31faa366671f0eb9581e9281649e64737b00560bd24f76c22bf13e6da6c",
+          "e3a3e298f1aeeade93810f5483e47fda1d411faf8393f2421b9787c34e424e18c1ec470c3c28523971f1590855da9f93771c96e33218b8bea5064e70e1aea40d"
+        ]
+      },
+      {
+        "question": "Как назвали диаграмму без площадки текучести?",
+        "evidence": "диаграмму без площадки текучести — диаграммой II типа",
+        "relevant_units": 1,
+        "first_relevant_rank": 1,
+        "hit_at_10": true,
+        "reciprocal_rank_at_10": 1.0,
+        "ndcg_at_10": 1.0,
+        "retrieved_unit_ids": [
+          "027e6d95bf0d42058623971cb1cd4887e690a06717588cc48d9708545c7b4e7855e791f0a173cd6ca29c8e1d3dbaab1a30799011e4608a8e346814461f446859",
+          "1b148224ff3eb2edf26d820c2d64062d02ca6f6bd3cad5b9ae1ec8d8da9cb66a4394697fd731dce8acb466e92d0fa434cf219763195cd68a561c410511d3171f",
+          "b47199556ae3cdfb99a9108c6b0fc54097e2cb0786171da986327c8b7b9701bd80561f7d5c68cf7cdb39d17d400232ff14e6c7b7058ded810b89e2ed51a6a4c4",
+          "6f54759fdec4e8ac55b544d3e8234cdd10a531b39eebb3635f479f3d16b3054e63d59c092bacc40ef461d255b59e9939b263a44b641378d4f64a426b32d0af77",
+          "fe16d3e3f7de3db9cd7f0cdb8ae9d962d63ba7586237fda921e2a8e15af83b65d29de31faa366671f0eb9581e9281649e64737b00560bd24f76c22bf13e6da6c",
+          "89edd7949ef409a3638f9ee068839c3c3486a99f9575c796a1d79780277e15e70ae833c5d8ef62180152511ca3badb969c6d33319e422149b704ddd73b56c4ca",
+          "032bad3a2819153116acbf924b4f6080a274e3266e15d6536d474b31af6973614cceefbb29de7904970cbbcf104096d130d58d3139038b4cba00e3e27106d10e",
+          "bbc6beac11e70e28f46d55bb11a192e5537f88e2ead800e73e46cec5c39d300fa980b6b52944dae53269521398f1e183a5d931facbafed1bee7d21a115ca92ad",
+          "34f78d298d7276c152b6b6409d00af7a238aba455f37c547d9015e42a27f9c91d85769eaa94a1a91adae0d8b5d198bbe26c39e24658e469bb4aac0867df3270f",
+          "b7b34d9a26dfe8b4d08311080858c268ddd78067013577c02d05e7286d36249cb5e697eb497ba97a5c399b6e5e6898ece8653e0e483acba32dd7948016aee3f2"
+        ]
+      },
+      {
+        "question": "Каков диапазон содержания молибдена в плавках 1–4?",
+        "evidence": "молибдена 0,22-0,25 %",
+        "relevant_units": 2,
+        "first_relevant_rank": 6,
+        "hit_at_10": true,
+        "reciprocal_rank_at_10": 0.16666666666666666,
+        "ndcg_at_10": 0.4228,
+        "retrieved_unit_ids": [
+          "8652b039156c8aae2aa20cc1107c5d2bf49f0ccc3a312159b69549d3db58071ea0dec5298d97d9e1cb66ba2e180381607a1dc56bb10aad332e4700ae1f827648",
+          "be426bf81750c9ad5d449159d981a473e574d495662e1a785728cdb11d338372db06f05b0d2b22133d363eabfdec66773eb030763ed0e4b3dd14932e5c05e7cb",
+          "4ebd50905d481fe1ad82c8c9602ae60c4ffc52f1fc057cfeed7e87b4befd43613152855ff535972bb0685a98ef52ea34324671cedfa6d562b85df8b24ea7a1f8",
+          "150306f8d7dc71d890384c675b9ad5eab110be73e19aed61aa919e69b4c11dab33a320d78722c85bd6837cd81a1e8847befff120f812fa2461deeaf505a48366",
+          "4fcf8ac0b261a89f7a0b2c50a8b313bf1b085fbbff02c248f4b8b68b0236f8a19f002f5556fab2f871a3bbacaffe50ea68471fea69d495faef909aebbfa2dede",
+          "21d324cad3b9d50aa2d7af0febcab02009c3ad3871075f76199f457b1e563c1693dd218c746bb182c6eab9adbad7c301076a9d7d9d416f2f364626393ebb568f",
+          "b7b34d9a26dfe8b4d08311080858c268ddd78067013577c02d05e7286d36249cb5e697eb497ba97a5c399b6e5e6898ece8653e0e483acba32dd7948016aee3f2",
+          "7bdf3865bca2fbaa8c0a84ff7a12e2c805e2a436b0489b12a2259aedfacb75160745b6bd6c70ce2779ba6e5fa944effb50196e6748267514b77062f7b2952a97",
+          "5b4d9b3f15e1187ed53abb519f547f301a2932ae9a085e47cf287219422fa7381e2f997894e59ff15a9ed4ba6aa072e1aeaab8934322de5a71943da608e26e10",
+          "a742dbc0ae3807124cd1558b1c29314ff7d0a42eeb9f13588d122ea8d576cec61516adc88709e8e4ccda90df4ec673f7e46ebb0be8c6db054883f90132c64872"
+        ]
+      }
+    ]
+  },
+  "after": {
+    "run": "local_runs/ganoshenko-hw3-3248caaa7ac4",
+    "queries": 7,
+    "answerable_queries": 7,
+    "hit_rate_at_10": 1.0,
+    "mrr_at_10": 0.719,
+    "mean_ndcg_at_10": 0.7494,
+    "details": [
+      {
+        "question": "Какие трубы применяли для магистральных газопроводов до перехода на более прочные стали?",
+        "evidence": "трубы категории прочности до К60",
+        "relevant_units": 1,
+        "first_relevant_rank": 1,
+        "hit_at_10": true,
+        "reciprocal_rank_at_10": 1.0,
+        "ndcg_at_10": 1.0,
+        "retrieved_unit_ids": [
+          "5a565bd610f60d20c9bc94d53bf039c9b2f850a209f0ce847640d2fb8b7649993b7240cbaf3cd7d3dcaf0128119dde264fc0b33f43367f0359c60d7af562482e",
+          "a3f391b57c39102c000da16a215f5f99e79fa75c602dcea1eda232dbe69fd5a7ce87cb631f88e81856560b61538f42de41c6ef6d8e7d5e3fff0fb4bce9418fa2",
+          "b96f204355771f8046be5150dff25bf24c0abb9835f3e526c0641cbe0695505097922d9ecc5c2691e6bd5f957b607abab0cc3ea4655d70245f00cc0164220f90",
+          "258c06f0391ee28b52788981e9e89792c03e793a6a07a447894ece5a7e9006b6dacdadc4212e2de985b5c0fc40cef038a69ba31f531e7aba434f0d8ad0427652",
+          "caa7fec9e3df858d86e6a800c887d528f82f0f9272a9a85850eec2ed706972d6e5e07dfd6345e5b8631c48c159390dd7c7cc27916cab6444de3aff58e3ad9159",
+          "8b0e29f369f4d5c07d7227399f3238522374842e13e949edaea8bc1f0cec6dd37ebb2d8215cd54ed1e88ecc96ba1817079780f07984fe2f2765435dacd05ad98",
+          "71d6b1597c0b17c3f263b182162bf9817102baea3f08738aad5a5f34d4e1b21dbb509644928ecaebf109d289600d0ebe62bba0eb10d27afcfd95b24e51ce6763",
+          "9fd024c5093cf5056b44da517b06def6084c194be714f82c62c59086c34b527a1e22d2a7c1bd96bf5b6bb00c459c4410acb4886c807dc1f0efd71d833aa98e3a",
+          "7ec3f7ea2a2b7b65943ae3b69af141f75956b017e86c9ac23f887ef113014f1ec3c61c97883b71d22396d06aa41ba3c4e448d0f89c2f9d4fd7b4de09e9cd3533",
+          "fe4ab7e842fcd322d30937217a0364eb8751bc30173b1db6eb60326a87dcb904e5f3d1d111254a26efb8c6e1c34fad298f4802886d6ed8c003a1844544051be7"
+        ]
+      },
+      {
+        "question": "Какое оборудование учитывалось при разработке стали категории К65?",
+        "evidence": "листового стана 3600",
+        "relevant_units": 4,
+        "first_relevant_rank": 2,
+        "hit_at_10": true,
+        "reciprocal_rank_at_10": 0.5,
+        "ndcg_at_10": 0.3591,
+        "retrieved_unit_ids": [
+          "a721fbafcd4edbf5fb80ef8659d1217ffef7a9ef0d7429d872319307fbba6ca64ccc4e45833bb887abb32864ac253e9d3da5d216b6cc85a21bb78753c3a6d6ab",
+          "9fd024c5093cf5056b44da517b06def6084c194be714f82c62c59086c34b527a1e22d2a7c1bd96bf5b6bb00c459c4410acb4886c807dc1f0efd71d833aa98e3a",
+          "e47a1c6dcda6960ceeba2675e51bc95dddb9ed71623bdba656b438ba860c9334bab4bde6c663fc27d23df180d17a763b94bdb9bceff4a851dcfa5888cf454da0",
+          "4dd9daa14b5aa44cd4cec132bd813d2d1c31e4f655442341556dfe4a1ec6eb8d8794b441a81daf174a849f32bb314cfbd2145260cc08ea1eaef367ce263b51c1",
+          "4290ca5f6db3ee6e29433c6227975d188363a52fb100a3999b76ae1e4395f4d9e7638261d1c0fde94ca213c2be9031693f0330a8aa6406b1c13d7ada67a51577",
+          "caa7fec9e3df858d86e6a800c887d528f82f0f9272a9a85850eec2ed706972d6e5e07dfd6345e5b8631c48c159390dd7c7cc27916cab6444de3aff58e3ad9159",
+          "8b0e29f369f4d5c07d7227399f3238522374842e13e949edaea8bc1f0cec6dd37ebb2d8215cd54ed1e88ecc96ba1817079780f07984fe2f2765435dacd05ad98",
+          "cb6af6bdb4aea5f19af373c31805818b68753ac4c425474a3d6f7d38d58083893f3557e55e2af9bddf9d4c332cb4aa35a198f7bcbd7f5ce12325e2ecc709455c",
+          "7ec3f7ea2a2b7b65943ae3b69af141f75956b017e86c9ac23f887ef113014f1ec3c61c97883b71d22396d06aa41ba3c4e448d0f89c2f9d4fd7b4de09e9cd3533",
+          "5f1639edf81db8eed535c3f267fb6b9c022e43b516f2b6e8833093b542512600ee15dd3bb1e1bd53a1a8ae78b341ee358d48373b52bf2b6452984d902c03dfe5"
+        ]
+      },
+      {
+        "question": "Какой диапазон отношения кальция к сере указан для глобуляризации сульфидов?",
+        "evidence": "2 < [Ca]/[S] < 8",
+        "relevant_units": 1,
+        "first_relevant_rank": 1,
+        "hit_at_10": true,
+        "reciprocal_rank_at_10": 1.0,
+        "ndcg_at_10": 1.0,
+        "retrieved_unit_ids": [
+          "42ffac24234947676d77e0daf528135c03ff92a23deeec75d1b5cc835664e28161bab070126438430aae8fd7ed1555cfe98fa780eedb96839d331fa4f8fbedbb",
+          "ebcd375ee87ed2c010b6f5a4516291bc0485558cfdd839e747f691d7ab0f2eba2737c72bf5a166c774600ab6ed6591c3821b99acc1aa1505456cab7fb87aea29",
+          "46737743530c951f2432158a9a8949232581d8f8dfff9bdefbe3acc8deac42d4e87c61f12d293f1cc85b7665d4473227e69c2245086deae9ab0f1b5fc1ca5dfc",
+          "241facf922de8a8faac74ef88093b1f42ecc2d5e9084663e8e2f8db03fb07468d41232cfa9c3d84e61bb14ca779f6c17d59f1c42f31f1ecc522bd7e11789592c",
+          "04afedc997182cd9629b5d407ad2afa8c11dfb00404c91a9df6ea1706d170f3c617f7da9fd631250c07cafc840a0008a5645b47449954d76140e19fd6ab5c625",
+          "c5c1b9cc052cdb3578d741f2ebc8fbd3d04c324028c007d1f2ba2a62aa17bc4b0d9954ca663e493c3fda88536dad2de0c64a69af7d8435c6c649e4ff597e4c68",
+          "616424d6b8e11ca477a3c49e68e75a089f839eea3527cda29df69a196796fa2c13753f8a6f084a2709af4512f1de76188e552273b5eea0ec9330f1422beda554",
+          "e1ad82849627f80da651982182321c1c4fc8fb67e47bbb914378d3a04064ce3e76cbd78931477a85f86cb0a0c3ff79d517d5a202d272a894e5179ecac5119666",
+          "13044c67accc540108e0ae9727b509ebcf98aca4eb2b429bcfed4f43458401b98a9540ee7b971537820f6706aff480dc7471ac3667a03c7e72b2d9b0be891af4",
+          "ac3975c05dde769030d150c26bcf55b44a4a049955b29f8e80236c218142583ce9f739a397a83e714001511a7cb2ef9e866a1d5c2d7939ab06a9a9d3e7d7a928"
+        ]
+      },
+      {
+        "question": "Как обрабатывают металл для предотвращения удлинённых сульфидов марганца?",
+        "evidence": "обработка металла в разливочном ковше силикокальцием",
+        "relevant_units": 1,
+        "first_relevant_rank": 1,
+        "hit_at_10": true,
+        "reciprocal_rank_at_10": 1.0,
+        "ndcg_at_10": 1.0,
+        "retrieved_unit_ids": [
+          "42ffac24234947676d77e0daf528135c03ff92a23deeec75d1b5cc835664e28161bab070126438430aae8fd7ed1555cfe98fa780eedb96839d331fa4f8fbedbb",
+          "4dd9daa14b5aa44cd4cec132bd813d2d1c31e4f655442341556dfe4a1ec6eb8d8794b441a81daf174a849f32bb314cfbd2145260cc08ea1eaef367ce263b51c1",
+          "d239a38afe9546a2328e20d0a44acdf056f3870dda4ef0e955a7440d5c259913e065fb2d87e0c2e76249360da8ba2e17b1b87edbb3960d14914a0b70fa2c4299",
+          "616424d6b8e11ca477a3c49e68e75a089f839eea3527cda29df69a196796fa2c13753f8a6f084a2709af4512f1de76188e552273b5eea0ec9330f1422beda554",
+          "de5bbd4cfc1d5c3097b8770795c5d920f80c864d2489e8ec429eea53c6e29638dd4e876c87596c883798a63809151f02d70809e0dd6919a62be3bc286b2d4e3c",
+          "ec82c5b3f1500f9ab1cb75ad94f47ba0487ebc54ffa8089a75bdda1cc42a3cd41fa71e2c975f4f702f75c3ae238b7b6dfbb369691e28c62712b43c6cbaa308b8",
+          "8c7f504061acaa59a09f97670051648ccfcf73ec498b47e651e6f01469095df5dd24cad6485e2e9d3b73e7b2017278625d290d75fe2da9b211353bf6a7d56474",
+          "ea11097beab1f2832cf5b82b6984599388a118490a633342c9ee17edbed8740e80f8d89abfa62a1803ec12aa8363a149a37b1736c8d2df91b0e5e31dbbb6c39b",
+          "bec33e5b40e7e15eebb21d4bb6e5d8abfa262adf52de319e8acb11a8b1f0d6db366813574762ee5052c72bf41dbbe7242f9e07cfb7c7acc77ad079fbfbf612f9",
+          "d5ded4444a6d741d9cb990c202bea15e9e82ab4b9b6b852d791d1ca1f8ab7f95ef51bb3f779f28d0de17abec8177584e55e723a24aa3adf06964382c100416a4"
+        ]
+      },
+      {
+        "question": "Какой прибор использовали для построения термокинетических диаграмм?",
+        "evidence": "быстродействующем дилатометре ИМЕТ-ДБ",
+        "relevant_units": 1,
+        "first_relevant_rank": 3,
+        "hit_at_10": true,
+        "reciprocal_rank_at_10": 0.3333333333333333,
+        "ndcg_at_10": 0.5,
+        "retrieved_unit_ids": [
+          "9dcd806694784140c8c9dac254a3051968063fd7afff73874e1eb4b464417b532971dc673abce9dc102b6235b110af14ee1b713090a16852ed356601cc05d340",
+          "43709ccff84a8201086bc14282dfab18e5658ff0cb5b8ac22230d805eb20818da56d1850f8c386ffd736aac307d8fd2e689418065360828adc4dab2ba8216087",
+          "9084fd0c55070d4b5ef544eb2982cee31bdbf9708539d7d37e128bf457b8a02f27d895545c76aca806130f52091e24ae53c834090718562934aa09f28a179de5",
+          "1192d100b99eeeb51ec335b89fb3986d947313b36aa751a4f5475094b8ac25689da88fb0d00e363ebb492d5d4ada25fe5838a78fc6e80bca9070ca9db9d64ed7",
+          "47a756d2b4d8f35caafe94e786d6059ef4a95033472f65c64c09f547cced956b6bb2b1a0d9652d90ee3cfcb3d923bc0077d9c2661ffc03cb647bd9b0a9bfb8e8",
+          "6c560b0e4fe5dfc2cb57f1e7653ef851ea470f9094d79787c1970bc228badc798a13e004edbf0801018a4a39c570862b6766f7fa6faac4cce078e69ed745d901",
+          "cb6af6bdb4aea5f19af373c31805818b68753ac4c425474a3d6f7d38d58083893f3557e55e2af9bddf9d4c332cb4aa35a198f7bcbd7f5ce12325e2ecc709455c",
+          "d239a38afe9546a2328e20d0a44acdf056f3870dda4ef0e955a7440d5c259913e065fb2d87e0c2e76249360da8ba2e17b1b87edbb3960d14914a0b70fa2c4299",
+          "5f5cff8e74b3c19505ce07266fc3398b9c35417440e6eac3167a048212bfe3c6712808a0fe8382a432f95ad677c48ce12cef363dc3866bc4a03f9685d3d481b6",
+          "e012e5eec050c0e4158d744d16e6cfde3ac171e624d6c4a7ff465a581dc0e5c915dd06246101ea68b047a296ce8a76a84298a6be7de3f375360bfb557bafa19d"
+        ]
+      },
+      {
+        "question": "Как назвали диаграмму без площадки текучести?",
+        "evidence": "диаграмму без площадки текучести — диаграммой II типа",
+        "relevant_units": 1,
+        "first_relevant_rank": 1,
+        "hit_at_10": true,
+        "reciprocal_rank_at_10": 1.0,
+        "ndcg_at_10": 1.0,
+        "retrieved_unit_ids": [
+          "5f5cff8e74b3c19505ce07266fc3398b9c35417440e6eac3167a048212bfe3c6712808a0fe8382a432f95ad677c48ce12cef363dc3866bc4a03f9685d3d481b6",
+          "160eef7225673a3949e07622720acd61dabfcc92f105364a679ee6df6164e77ed0b3ff4dc93047b918685abd1c7b2e560025803a9f694c22e95db40a25824f4d",
+          "c5c1b9cc052cdb3578d741f2ebc8fbd3d04c324028c007d1f2ba2a62aa17bc4b0d9954ca663e493c3fda88536dad2de0c64a69af7d8435c6c649e4ff597e4c68",
+          "e1ad82849627f80da651982182321c1c4fc8fb67e47bbb914378d3a04064ce3e76cbd78931477a85f86cb0a0c3ff79d517d5a202d272a894e5179ecac5119666",
+          "a029a46e1fff48208eee49d00050cb9f61924b308e0030e5136dc7dd4470525e80cfc227fe0c0c16ffccd116957119b32d0f3ebf4c3d320b69fc2b2f09254f27",
+          "46737743530c951f2432158a9a8949232581d8f8dfff9bdefbe3acc8deac42d4e87c61f12d293f1cc85b7665d4473227e69c2245086deae9ab0f1b5fc1ca5dfc",
+          "b9288930605040bc17aa802d5e6349104a487fb7a7524f82ff72753e125458d7cccd9110ef26886cafb80fcfdf2b1845c7c39f40dcb50e33cfd516609973f5bd",
+          "08f0acef84ca1c40d5c15bcd6bc095d6c5f98f767281ee24fff11fad96bc6b7d591799bcf64a725a08f239df8b59dac25911eb8ea20e47ee4140ce17a7633ad6",
+          "5ce1024269f2e54f3f85ac19406ac3f40ee2254bdc081ff3f33a7948e38040f8f8a9b598861f778141ff64ca57dc71d1010b72370cd8c662954840c743b05362",
+          "cd7cdbbcee8b813b3697d2922364111fb80c617e0debc7d09fcb8bcd46e04a1e79036f1e709e3acef601a2f917cc98e3dee7041d9bde8774ccca248037db5460"
+        ]
+      },
+      {
+        "question": "Каков диапазон содержания молибдена в плавках 1–4?",
+        "evidence": "молибдена 0,22-0,25 %",
+        "relevant_units": 1,
+        "first_relevant_rank": 5,
+        "hit_at_10": true,
+        "reciprocal_rank_at_10": 0.2,
+        "ndcg_at_10": 0.3869,
+        "retrieved_unit_ids": [
+          "ac3975c05dde769030d150c26bcf55b44a4a049955b29f8e80236c218142583ce9f739a397a83e714001511a7cb2ef9e866a1d5c2d7939ab06a9a9d3e7d7a928",
+          "b8aa510742f9b4ce2dbaae3c1db33e5f660607e81652ce8cdae0136713ff3b3a70bf145fe7ec764130a668b2e2b788a6d26ce9d7cf89a19a149a415ee3aeb056",
+          "4dd9daa14b5aa44cd4cec132bd813d2d1c31e4f655442341556dfe4a1ec6eb8d8794b441a81daf174a849f32bb314cfbd2145260cc08ea1eaef367ce263b51c1",
+          "e6ff59360935e90bf591bd1eb96c3f534c3cffce670418b0a73ba0b92be8fc291a676b7e92dd09343cabddc9ad0ba07c38c1411099a833fd3c373049ea9932aa",
+          "cd7cdbbcee8b813b3697d2922364111fb80c617e0debc7d09fcb8bcd46e04a1e79036f1e709e3acef601a2f917cc98e3dee7041d9bde8774ccca248037db5460",
+          "08f0acef84ca1c40d5c15bcd6bc095d6c5f98f767281ee24fff11fad96bc6b7d591799bcf64a725a08f239df8b59dac25911eb8ea20e47ee4140ce17a7633ad6",
+          "c5c1b9cc052cdb3578d741f2ebc8fbd3d04c324028c007d1f2ba2a62aa17bc4b0d9954ca663e493c3fda88536dad2de0c64a69af7d8435c6c649e4ff597e4c68",
+          "10a4ab6ec2b4d860e000b08459edc6b9a2964a3d388215b37a1d6ba12401526219e8f69e0236d2e363dc0b67f4bbb9aa1651063c90cc37a42da0625b8693a942",
+          "13044c67accc540108e0ae9727b509ebcf98aca4eb2b429bcfed4f43458401b98a9540ee7b971537820f6706aff480dc7471ac3667a03c7e72b2d9b0be891af4",
+          "ad39d7cc7c5bd0f68be540aae0e6d38ca94ed624b5f63247a3fc9ff6a43fbec73871a4fa103f64cd9c045ab35614e7133461cc6968e051e0df3810990c72761d"
+        ]
+      }
+    ]
+  }
+}

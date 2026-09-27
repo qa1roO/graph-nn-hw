@@ -1,0 +1,235 @@
+﻿run,kind,source_count,exact_in_text_units,exact_in_graph_fields,source_text_preview
+before,formula,1,1,0,"$\sigma_{\text{в}} \geq 590 \text{ H/mm}^{2}, \sigma_{\text{T}} \geq 480 \text{ H/mm}^{2}$"
+before,formula,1,1,0,"$\sigma_{\text{в}} \geq 630 \text{ H/mm}^{2}, \sigma_{\text{T}} \geq 550 \text{ H/mm}^{2}$"
+before,formula,1,1,1,$\sigma_{\mathrm{B}} \geq 630 \mathrm{~H} / \mathrm{mm}^{2}$
+before,formula,1,1,1,$\sigma_{\mathrm{T}} \geq 570 \mathrm{~H} / \mathrm{mm}^{2}$
+before,formula,1,1,0,$\delta_{5} \geq 22\%$
+before,formula,1,1,0,"$$ Q = K \times D ^ {2, 6} \times P $$"
+before,formula,1,1,1,$^{-20}$
+before,formula,1,1,0,$$ C E = C + \frac {M n}{6} + \frac {C r + M o + (V + T i + N b)}{5} + \frac {C u + N i}{1 5} + 1 5 B $$
+before,formula,1,1,0,$$ P C M = C + \frac {M n + C r + C u}{2 0} + \frac {S i}{3 0} + \frac {N i}{6 0} + \frac {V}{1 0} + \frac {M o}{1 5} + 5 B $$
+before,formula,2,2,0,$Ar_{3}^{деф}$
+before,formula,1,1,0,$Fe + H_2O = FeO + H_2$
+before,formula,1,1,0,$\underline{A_{zom}}$
+before,formula,1,1,0,$\Delta T_{50} = 700\sqrt{N_{св}}$
+before,formula,2,2,2,$_{95}$
+before,formula,2,2,2,$_{5}$
+before,formula,1,1,1,$T_{5}$
+before,formula,1,1,1,$T_{95}$
+before,formula,5,5,2,$_{v}$
+before,formula,1,1,1,$Ar_3$
+before,formula,1,1,0,$$ A r _ {3} = 9 1 0 - 3 1 0 C - 8 0 M n - 2 0 C u - 1 5 C r - 8 0 M o $$
+before,formula,4,4,0,$\gamma\rightarrow\alpha$
+before,formula,3,3,3,$S_{v}$
+before,formula,1,1,0,"$$ T i _ {\kappa p} (\%) = 3, 4 3 N (\%), $$"
+before,formula,1,1,0,$$ T _ {p} \left(^ {0} C\right) = 8 8 7 + 4 6 4 C - 3 5 7 S i + + 3 6 3 A l + 8 9 0 T i + (6 6 4 5 N b - 6 6 4 \sqrt {N b}) + (7 3 2 V - 2 3
+before,formula,1,1,0,$T_p \approx 1000$
+before,formula,2,2,1,$^{-1}$
+before,formula,7,7,7,$_{p}$
+before,formula,4,4,4,$_{3}$
+before,formula,1,1,0,$_{1}$
+before,formula,1,1,0,$_{α}$
+before,formula,1,1,0,$_{γ}$
+before,formula,1,1,0,"$$ \mathrm{d} _ {\alpha} = 3. 7 5 + 0. 1 8 \mathrm{d} _ {\gamma} + 1. 4 \left(\frac {\mathrm{dT}}{\mathrm{dt}}\right) ^ {- 1 / 2}, $$"
+before,formula,1,1,0,$d_{\alpha}$
+before,formula,1,1,0,$d_{\gamma}$
+before,formula,1,1,0,$HNO_{3}$
+before,formula,1,1,1,$H_{3}PO_{4}$
+before,formula,1,1,0,$(Q_{\gamma})$
+before,formula,1,1,0,$(110)_{\alpha}$
+before,formula,2,2,0,$(111)_{\gamma}$
+before,formula,1,1,0,"$$ Q _ {\gamma} = \frac {1}{\left(1 + k I _ {(1 1 0) \alpha} / I _ {(1 1 1) \gamma}\right)}, $$"
+before,formula,1,1,0,$I_{(110)\alpha}$
+before,formula,1,1,0,$(110)_\alpha$
+before,formula,1,1,0,$\alpha$
+before,formula,1,1,0,$I_{(111)\gamma}$
+before,formula,1,1,1,$M_{n}$
+before,formula,1,1,1,$t_{н.ф.}$
+before,formula,1,1,1,$t_{н.п.}$
+before,formula,1,1,1,$t_{н.б.}$
+before,formula,1,1,1,$t_{н.м.}$
+before,formula,1,1,1,$t_{к.п.}$
+before,formula,3,3,2,$T_{max}$
+before,formula,1,1,0,$A_{c3}$
+before,formula,3,3,1,$T_{кп} = 960^{\circ}C$
+before,formula,1,1,0,$T_{KII} = 800\ ^{\circ}C$
+before,formula,1,1,0,"$T_{кп} = 740 \, ^{\circ}C$"
+before,formula,3,3,3,$_{кп}$
+before,formula,1,1,1,"$\sim0,5\ ^{\circ}C/s$"
+before,formula,2,2,2,$A_{r3}$
+before,formula,1,1,0,$\gamma+\alpha-$
+before,formula,3,3,1,$_{r3}$
+before,formula,4,4,0,$_{H}$
+before,formula,4,4,0,$T_{кп}$
+before,formula,1,1,1,$T_{kl}$
+before,formula,1,1,1,$\sim760-740\ ^{\circ}C$
+before,formula,1,1,1,$\delta_{5}$
+before,formula,1,1,0,$A_{г3}$
+before,formula,2,2,0,$_{n}$
+before,formula,1,1,1,$_{т}$
+before,formula,1,1,0,$\sigma_{\mathrm{T}}$
+before,formula,1,1,0,$\sigma_{\mathrm{B}}$
+before,formula,1,1,0,$\delta_{2}$
+before,formula,1,1,0,$A_{c_1} > T < A_{c_3}$
+before,formula,1,1,0,$\sigma_{\text{в}}$
+before,formula,1,1,0,$\sigma_{\text{T}}$
+before,formula,1,1,0,$\sigma_{\text{T}}/\sigma_{\text{в}}$
+before,formula,1,1,0,$_{L}$
+before,formula,1,1,0,"$\sigma_{0,2}$"
+before,formula,1,1,1,$^{10}$
+before,formula,1,1,1,$^{11}$
+before,formula,1,1,1,$^{-2}$
+before,formula,2,2,0,$\Gamma$
+before,formula,1,1,0,"$$ \delta - 0, 1 ^ {\circ} \mathrm{C} / \mathrm{c}; \mathrm{B} - 1 ^ {\circ} \mathrm{C} / \mathrm{c}; \mathrm{r} - 1 0 ^ {\circ} \mathrm{C} "
+before,formula,1,1,1,$^{-60}$
+before,formula,1,1,0,$\sigma_{0.2}$
+before,formula,2,2,0,$mm^{2}$
+before,formula,1,1,0,$\sigma_{B}$
+before,formula,1,1,0,$\sigma_{0.2}/\sigma_{B}$
+before,formula,1,1,1,$\sigma_{\mathrm{B}} = 650 - 690 \mathrm{~H} / \mathrm{mm}^{2}$
+before,formula,1,1,1,$\sigma_{\mathrm{T}} = 530 - 600 \mathrm{~H} / \mathrm{mm}^{2}$
+before,formula,1,1,0,$\delta_{5} = 20 - 21 \%$
+before,formula,1,1,0,$\mathrm{KCV}^{-20} = 150 - 280 \mathrm{~Дж} / \mathrm{см}^{2}$
+before,formula,1,1,0,$\mathrm{KCU}^{-60} = 190 - 330 \mathrm{~Дж} / \mathrm{см}^{2}$
+before,formula,1,1,0,$-20^{\circ} \mathrm{C} = 90 - 95 \%$
+before,formula,1,1,0,"$\mathrm{C}_{3} = 0,40 - 0,43 \%$"
+before,formula,1,1,0,"$\mathrm{P}_{\mathrm{см}} = 0,16 - 0,18 \%$"
+before,formula,1,1,1,$\sigma_{\mathrm{B}} = 650 - 690 \mathrm{H} / \mathrm{mm}^{2}$
+before,formula,1,1,0,$\sigma_{\mathrm{T}} = 530 - 600 \mathrm{H} / \mathrm{mm}^{2}$
+before,formula,1,1,0,$\delta_{5} = 20 - 21\%$
+before,formula,1,1,0,$\mathrm{KCV}^{-20} = 150 - 280 \mathrm{Дж} / \mathrm{см}^{2}$
+before,formula,1,1,0,$\mathrm{KCU}^{-60} = 190 - 330 \mathrm{Дж} / \mathrm{см}^{2}$
+before,formula,1,1,0,$-20^{\circ}\mathrm{C} = 90 - 95\%$
+before,formula,1,1,0,"$\mathrm{C}_{3} = 0,40 - 0,43\%$"
+before,formula,1,1,0,"$\mathrm{P}_{\mathrm{см}} = 0,16 - 0,18\%$"
+before,formula,1,1,1,$B_{H}$
+before,formula,1,1,1,$M_{H}$
+before,formula,1,1,0,$\gamma+\alpha$
+before,table,1,1,0,"<table><tr><td rowspan=""2"">Удельные показатели</td><td colspan=""3"">Размеры труб, мм</td></tr><tr><td>1020</td><td>1220</td><td>1420</td></tr"
+before,table,1,1,0,"<table><tr><td rowspan=""2"">Класс прочности</td><td rowspan=""2"">Диаметр трубы, мм</td><td rowspan=""2""> $\sigma_{\text{в}}$ , H/ $\text{мм}^{2"
+before,table,1,0,0,"<table><tr><td rowspan=""2"">Изделие</td><td rowspan=""2"">Документ</td><td> $\sigma_{\text{в}},$  $\text{H/мм}^2$ </td><td> $\sigma_{\text{т}},"
+before,table,1,0,0,<table><tr><td>Сталь</td><td>Номер плавки</td><td>C</td><td>Mn</td><td>Si</td><td>S</td><td>Ni</td><td>Mo</td><td>Cu</td><td>Ti</td><td>V</t
+before,table,1,0,0,"<table><tr><td rowspan=""2"">Сталь</td><td rowspan=""2"">Номер плавки</td><td rowspan=""2"">Толщина листа, мм</td><td rowspan=""2""> $\sigma_{\text{"
+before,table,1,1,0,"<table><tr><td rowspan=""2"">Сталь</td><td rowspan=""2"">Толщина листа, мм</td><td rowspan=""2"">Номер зерна</td><td rowspan=""2"">Полосчатость, бал"
+before,table,1,0,0,"<table><tr><td>No пропуска</td><td colspan=""2"">H, мм</td><td colspan=""2"">Давление, МН</td><td rowspan=""2"" colspan=""2"">Температура, °C</td></"
+before,table,1,0,0,"<table><tr><td>Сталь</td><td>Плавка</td><td> $\sigma_T, H/MM^2$ </td><td> $\sigma_B, H/MM^2$ </td><td> $\delta_5, \%$ </td><td> $\sigma_T / "
+before,table,1,0,0,"<table><tr><td colspan=""5"">Образцы Ø 10мм ГОСТ 1497</td><td colspan=""4"">Образцы плоские 2&quot; ASTM</td><td colspan=""2"">Ударная вязкость, Д"
+before,table,1,0,0,"<table><tr><td colspan=""5"">Образцы Ø 10мм ГОСТ 1497</td><td colspan=""4"">Образцы плоские 2&quot; ASTM</td><td colspan=""2"">Ударная вязкость, Д"
+before,table,1,0,0,"<table><tr><td rowspan=""2"">Сталь</td><td rowspan=""2"">Толщина листа, мм</td><td rowspan=""2"">Состояние</td><td colspan=""4"">Образцы А370</td></"
+after,formula,1,1,0,"$\sigma_{\text{в}} \geq 590 \text{ H/mm}^{2}, \sigma_{\text{T}} \geq 480 \text{ H/mm}^{2}$"
+after,formula,1,1,0,"$\sigma_{\text{в}} \geq 630 \text{ H/mm}^{2}, \sigma_{\text{T}} \geq 550 \text{ H/mm}^{2}$"
+after,formula,1,1,0,$\sigma_{\mathrm{B}} \geq 630 \mathrm{~H} / \mathrm{mm}^{2}$
+after,formula,1,1,0,$\sigma_{\mathrm{T}} \geq 570 \mathrm{~H} / \mathrm{mm}^{2}$
+after,formula,1,1,0,$\delta_{5} \geq 22\%$
+after,formula,1,1,0,"$$ Q = K \times D ^ {2, 6} \times P $$"
+after,formula,1,1,1,$^{-20}$
+after,formula,1,1,0,$$ C E = C + \frac {M n}{6} + \frac {C r + M o + (V + T i + N b)}{5} + \frac {C u + N i}{1 5} + 1 5 B $$
+after,formula,1,1,0,$$ P C M = C + \frac {M n + C r + C u}{2 0} + \frac {S i}{3 0} + \frac {N i}{6 0} + \frac {V}{1 0} + \frac {M o}{1 5} + 5 B $$
+after,formula,2,2,2,$Ar_{3}^{деф}$
+after,formula,1,1,0,$Fe + H_2O = FeO + H_2$
+after,formula,1,1,0,$\underline{A_{zom}}$
+after,formula,1,1,0,$\Delta T_{50} = 700\sqrt{N_{св}}$
+after,formula,2,2,0,$_{95}$
+after,formula,2,2,0,$_{5}$
+after,formula,1,1,0,$T_{5}$
+after,formula,1,1,0,$T_{95}$
+after,formula,5,5,1,$_{v}$
+after,formula,1,1,0,$Ar_3$
+after,formula,1,1,0,$$ A r _ {3} = 9 1 0 - 3 1 0 C - 8 0 M n - 2 0 C u - 1 5 C r - 8 0 M o $$
+after,formula,4,4,4,$\gamma\rightarrow\alpha$
+after,formula,3,3,3,$S_{v}$
+after,formula,1,1,0,"$$ T i _ {\kappa p} (\%) = 3, 4 3 N (\%), $$"
+after,formula,1,1,0,$$ T _ {p} \left(^ {0} C\right) = 8 8 7 + 4 6 4 C - 3 5 7 S i + + 3 6 3 A l + 8 9 0 T i + (6 6 4 5 N b - 6 6 4 \sqrt {N b}) + (7 3 2 V - 2 3
+after,formula,1,1,0,$T_p \approx 1000$
+after,formula,2,2,0,$^{-1}$
+after,formula,7,7,3,$_{p}$
+after,formula,4,4,1,$_{3}$
+after,formula,1,1,0,$_{1}$
+after,formula,1,1,1,$_{α}$
+after,formula,1,1,1,$_{γ}$
+after,formula,1,1,0,"$$ \mathrm{d} _ {\alpha} = 3. 7 5 + 0. 1 8 \mathrm{d} _ {\gamma} + 1. 4 \left(\frac {\mathrm{dT}}{\mathrm{dt}}\right) ^ {- 1 / 2}, $$"
+after,formula,1,1,0,$d_{\alpha}$
+after,formula,1,1,0,$d_{\gamma}$
+after,formula,1,1,1,$HNO_{3}$
+after,formula,1,1,1,$H_{3}PO_{4}$
+after,formula,1,1,0,$(Q_{\gamma})$
+after,formula,1,1,0,$(110)_{\alpha}$
+after,formula,2,2,0,$(111)_{\gamma}$
+after,formula,1,1,0,"$$ Q _ {\gamma} = \frac {1}{\left(1 + k I _ {(1 1 0) \alpha} / I _ {(1 1 1) \gamma}\right)}, $$"
+after,formula,1,1,0,$I_{(110)\alpha}$
+after,formula,1,1,0,$(110)_\alpha$
+after,formula,1,1,0,$\alpha$
+after,formula,1,1,0,$I_{(111)\gamma}$
+after,formula,1,1,0,$M_{n}$
+after,formula,1,1,1,$t_{н.ф.}$
+after,formula,1,1,1,$t_{н.п.}$
+after,formula,1,1,1,$t_{н.б.}$
+after,formula,1,1,1,$t_{н.м.}$
+after,formula,1,1,0,$t_{к.п.}$
+after,formula,3,3,3,$T_{max}$
+after,formula,1,1,1,$A_{c3}$
+after,formula,3,3,0,$T_{кп} = 960^{\circ}C$
+after,formula,1,1,0,$T_{KII} = 800\ ^{\circ}C$
+after,formula,1,1,0,"$T_{кп} = 740 \, ^{\circ}C$"
+after,formula,3,3,3,$_{кп}$
+after,formula,1,1,0,"$\sim0,5\ ^{\circ}C/s$"
+after,formula,2,2,0,$A_{r3}$
+after,formula,1,1,0,$\gamma+\alpha-$
+after,formula,3,3,2,$_{r3}$
+after,formula,4,4,0,$_{H}$
+after,formula,4,4,0,$T_{кп}$
+after,formula,1,1,0,$T_{kl}$
+after,formula,1,1,0,$\sim760-740\ ^{\circ}C$
+after,formula,1,1,0,$\delta_{5}$
+after,formula,1,1,0,$A_{г3}$
+after,formula,2,2,2,$_{n}$
+after,formula,1,1,1,$_{т}$
+after,formula,1,1,0,$\sigma_{\mathrm{T}}$
+after,formula,1,1,1,$\sigma_{\mathrm{B}}$
+after,formula,1,1,0,$\delta_{2}$
+after,formula,1,1,1,$A_{c_1} > T < A_{c_3}$
+after,formula,1,1,0,$\sigma_{\text{в}}$
+after,formula,1,1,1,$\sigma_{\text{T}}$
+after,formula,1,1,1,$\sigma_{\text{T}}/\sigma_{\text{в}}$
+after,formula,1,1,0,$_{L}$
+after,formula,1,1,0,"$\sigma_{0,2}$"
+after,formula,1,1,0,$^{10}$
+after,formula,1,1,0,$^{11}$
+after,formula,1,1,0,$^{-2}$
+after,formula,2,2,0,$\Gamma$
+after,formula,1,1,0,"$$ \delta - 0, 1 ^ {\circ} \mathrm{C} / \mathrm{c}; \mathrm{B} - 1 ^ {\circ} \mathrm{C} / \mathrm{c}; \mathrm{r} - 1 0 ^ {\circ} \mathrm{C} "
+after,formula,1,1,0,$^{-60}$
+after,formula,1,1,0,$\sigma_{0.2}$
+after,formula,2,2,0,$mm^{2}$
+after,formula,1,1,0,$\sigma_{B}$
+after,formula,1,1,0,$\sigma_{0.2}/\sigma_{B}$
+after,formula,1,1,0,$\sigma_{\mathrm{B}} = 650 - 690 \mathrm{~H} / \mathrm{mm}^{2}$
+after,formula,1,1,0,$\sigma_{\mathrm{T}} = 530 - 600 \mathrm{~H} / \mathrm{mm}^{2}$
+after,formula,1,1,0,$\delta_{5} = 20 - 21 \%$
+after,formula,1,1,0,$\mathrm{KCV}^{-20} = 150 - 280 \mathrm{~Дж} / \mathrm{см}^{2}$
+after,formula,1,1,0,$\mathrm{KCU}^{-60} = 190 - 330 \mathrm{~Дж} / \mathrm{см}^{2}$
+after,formula,1,1,0,$-20^{\circ} \mathrm{C} = 90 - 95 \%$
+after,formula,1,1,0,"$\mathrm{C}_{3} = 0,40 - 0,43 \%$"
+after,formula,1,1,0,"$\mathrm{P}_{\mathrm{см}} = 0,16 - 0,18 \%$"
+after,formula,1,1,0,$\sigma_{\mathrm{B}} = 650 - 690 \mathrm{H} / \mathrm{mm}^{2}$
+after,formula,1,1,0,$\sigma_{\mathrm{T}} = 530 - 600 \mathrm{H} / \mathrm{mm}^{2}$
+after,formula,1,1,0,$\delta_{5} = 20 - 21\%$
+after,formula,1,1,0,$\mathrm{KCV}^{-20} = 150 - 280 \mathrm{Дж} / \mathrm{см}^{2}$
+after,formula,1,1,0,$\mathrm{KCU}^{-60} = 190 - 330 \mathrm{Дж} / \mathrm{см}^{2}$
+after,formula,1,1,0,$-20^{\circ}\mathrm{C} = 90 - 95\%$
+after,formula,1,1,0,"$\mathrm{C}_{3} = 0,40 - 0,43\%$"
+after,formula,1,1,0,"$\mathrm{P}_{\mathrm{см}} = 0,16 - 0,18\%$"
+after,formula,1,1,0,$B_{H}$
+after,formula,1,1,0,$M_{H}$
+after,formula,1,1,0,$\gamma+\alpha$
+after,table,1,1,0,"<table><tr><td rowspan=""2"">Удельные показатели</td><td colspan=""3"">Размеры труб, мм</td></tr><tr><td>1020</td><td>1220</td><td>1420</td></tr"
+after,table,1,1,0,"<table><tr><td rowspan=""2"">Класс прочности</td><td rowspan=""2"">Диаметр трубы, мм</td><td rowspan=""2""> $\sigma_{\text{в}}$ , H/ $\text{мм}^{2"
+after,table,1,1,0,"<table><tr><td rowspan=""2"">Изделие</td><td rowspan=""2"">Документ</td><td> $\sigma_{\text{в}},$  $\text{H/мм}^2$ </td><td> $\sigma_{\text{т}},"
+after,table,1,1,0,<table><tr><td>Сталь</td><td>Номер плавки</td><td>C</td><td>Mn</td><td>Si</td><td>S</td><td>Ni</td><td>Mo</td><td>Cu</td><td>Ti</td><td>V</t
+after,table,1,1,0,"<table><tr><td rowspan=""2"">Сталь</td><td rowspan=""2"">Номер плавки</td><td rowspan=""2"">Толщина листа, мм</td><td rowspan=""2""> $\sigma_{\text{"
+after,table,1,1,0,"<table><tr><td rowspan=""2"">Сталь</td><td rowspan=""2"">Толщина листа, мм</td><td rowspan=""2"">Номер зерна</td><td rowspan=""2"">Полосчатость, бал"
+after,table,1,1,0,"<table><tr><td>No пропуска</td><td colspan=""2"">H, мм</td><td colspan=""2"">Давление, МН</td><td rowspan=""2"" colspan=""2"">Температура, °C</td></"
+after,table,1,1,0,"<table><tr><td>Сталь</td><td>Плавка</td><td> $\sigma_T, H/MM^2$ </td><td> $\sigma_B, H/MM^2$ </td><td> $\delta_5, \%$ </td><td> $\sigma_T / "
+after,table,1,1,0,"<table><tr><td colspan=""5"">Образцы Ø 10мм ГОСТ 1497</td><td colspan=""4"">Образцы плоские 2&quot; ASTM</td><td colspan=""2"">Ударная вязкость, Д"
+after,table,1,1,0,"<table><tr><td colspan=""5"">Образцы Ø 10мм ГОСТ 1497</td><td colspan=""4"">Образцы плоские 2&quot; ASTM</td><td colspan=""2"">Ударная вязкость, Д"
+after,table,1,1,0,"<table><tr><td rowspan=""2"">Сталь</td><td rowspan=""2"">Толщина листа, мм</td><td rowspan=""2"">Состояние</td><td colspan=""4"">Образцы А370</td></"

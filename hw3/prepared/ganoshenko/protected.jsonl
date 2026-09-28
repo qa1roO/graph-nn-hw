@@ -1,0 +1,949 @@
+{"marker": "⟦HW3_FORMULA_00001⟧", "kind": "formula", "raw": "$\\sigma_{\\text{в}} \\geq 590 \\text{ H/mm}^{2}, \\sigma_{\\text{T}} \\geq 480 \\text{ H/mm}^{2}$", "start": 752, "end": 842, "normalized": "$\\sigma_{\\text{в}} \\geq 590 \\text{ H/mm}^{2}, \\sigma_{\\text{T}} \\geq 480 \\text{ H/mm}^{2}$"}
+{"marker": "⟦HW3_FORMULA_00002⟧", "kind": "formula", "raw": "$\\sigma_{\\text{в}} \\geq 630 \\text{ H/mm}^{2}, \\sigma_{\\text{T}} \\geq 550 \\text{ H/mm}^{2}$", "start": 1073, "end": 1163, "normalized": "$\\sigma_{\\text{в}} \\geq 630 \\text{ H/mm}^{2}, \\sigma_{\\text{T}} \\geq 550 \\text{ H/mm}^{2}$"}
+{"marker": "⟦HW3_FORMULA_00003⟧", "kind": "formula", "raw": "$\\sigma_{\\mathrm{B}} \\geq 630 \\mathrm{~H} / \\mathrm{mm}^{2}$", "start": 2320, "end": 2380, "normalized": "$\\sigma_{\\mathrm{B}} \\geq 630 \\mathrm{~H} / \\mathrm{mm}^{2}$"}
+{"marker": "⟦HW3_FORMULA_00004⟧", "kind": "formula", "raw": "$\\sigma_{\\mathrm{T}} \\geq 570 \\mathrm{~H} / \\mathrm{mm}^{2}$", "start": 2382, "end": 2442, "normalized": "$\\sigma_{\\mathrm{T}} \\geq 570 \\mathrm{~H} / \\mathrm{mm}^{2}$"}
+{"marker": "⟦HW3_FORMULA_00005⟧", "kind": "formula", "raw": "$\\delta_{5} \\geq 22\\%$", "start": 2520, "end": 2542, "normalized": "$\\delta_{5} \\geq 22\\%$"}
+{"marker": "⟦HW3_UNIT_00006⟧", "kind": "unit", "raw": "-20 °C", "start": 2552, "end": 2558, "normalized": "-20 °C"}
+{"marker": "⟦HW3_UNIT_00007⟧", "kind": "unit", "raw": "95 %", "start": 2623, "end": 2627, "normalized": "95 %"}
+{"marker": "⟦HW3_UNIT_00008⟧", "kind": "unit", "raw": "-20 °C", "start": 2632, "end": 2638, "normalized": "-20 °C"}
+{"marker": "⟦HW3_UNIT_00009⟧", "kind": "unit", "raw": "-20 °C", "start": 3225, "end": 3231, "normalized": "-20 °C"}
+{"marker": "⟦HW3_UNIT_00010⟧", "kind": "unit", "raw": "0,002-0,004 %", "start": 3361, "end": 3374, "normalized": "0,002-0,004 %"}
+{"marker": "⟦HW3_UNIT_00011⟧", "kind": "unit", "raw": "500 °C", "start": 7443, "end": 7449, "normalized": "500 °C"}
+{"marker": "⟦HW3_GRADE_00012⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 8075, "end": 8082, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00013⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 8389, "end": 8396, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00014⟧", "kind": "unit", "raw": "1420 мм", "start": 8633, "end": 8640, "normalized": "1420 мм"}
+{"marker": "⟦HW3_UNIT_00015⟧", "kind": "unit", "raw": "10 МПа", "start": 8759, "end": 8765, "normalized": "10 МПа"}
+{"marker": "⟦HW3_UNIT_00016⟧", "kind": "unit", "raw": "0,04-0,06 %", "start": 9086, "end": 9097, "normalized": "0,04-0,06 %"}
+{"marker": "⟦HW3_UNIT_00017⟧", "kind": "unit", "raw": "0,002-0,004 %", "start": 9125, "end": 9138, "normalized": "0,002-0,004 %"}
+{"marker": "⟦HW3_UNIT_00018⟧", "kind": "unit", "raw": "0,06-0,08 %", "start": 9201, "end": 9212, "normalized": "0,06-0,08 %"}
+{"marker": "⟦HW3_UNIT_00019⟧", "kind": "unit", "raw": "0,05 %", "start": 9228, "end": 9234, "normalized": "0,05 %"}
+{"marker": "⟦HW3_UNIT_00020⟧", "kind": "unit", "raw": "0,15-0,25 %", "start": 9266, "end": 9277, "normalized": "0,15-0,25 %"}
+{"marker": "⟦HW3_UNIT_00021⟧", "kind": "unit", "raw": "0,10 %", "start": 9361, "end": 9367, "normalized": "0,10 %"}
+{"marker": "⟦HW3_UNIT_00022⟧", "kind": "unit", "raw": "0,005 %", "start": 9371, "end": 9378, "normalized": "0,005 %"}
+{"marker": "⟦HW3_UNIT_00023⟧", "kind": "unit", "raw": "0,072 %", "start": 9382, "end": 9389, "normalized": "0,072 %"}
+{"marker": "⟦HW3_UNIT_00024⟧", "kind": "unit", "raw": "0,054 %", "start": 9394, "end": 9401, "normalized": "0,054 %"}
+{"marker": "⟦HW3_GRADE_00025⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 10702, "end": 10709, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00026⟧", "kind": "unit", "raw": "1100-960 °C", "start": 11059, "end": 11070, "normalized": "1100-960 °C"}
+{"marker": "⟦HW3_UNIT_00027⟧", "kind": "unit", "raw": "1150 °C", "start": 11250, "end": 11257, "normalized": "1150 °C"}
+{"marker": "⟦HW3_UNIT_00028⟧", "kind": "unit", "raw": "850-800 °C", "start": 11453, "end": 11463, "normalized": "850-800 °C"}
+{"marker": "⟦HW3_GRADE_00029⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 12130, "end": 12137, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00030⟧", "kind": "unit", "raw": "720 °C", "start": 12392, "end": 12398, "normalized": "720 °C"}
+{"marker": "⟦HW3_UNIT_00031⟧", "kind": "unit", "raw": "620-650 °C", "start": 12676, "end": 12686, "normalized": "620-650 °C"}
+{"marker": "⟦HW3_UNIT_00032⟧", "kind": "unit", "raw": "700 °C", "start": 13112, "end": 13118, "normalized": "700 °C"}
+{"marker": "⟦HW3_GRADE_00033⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 13156, "end": 13162, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00034⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 13323, "end": 13330, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00035⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 13333, "end": 13339, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00036⟧", "kind": "unit", "raw": "650 °C", "start": 13622, "end": 13628, "normalized": "650 °C"}
+{"marker": "⟦HW3_GRADE_00037⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 13680, "end": 13687, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00038⟧", "kind": "unit", "raw": "15-20 %", "start": 13732, "end": 13739, "normalized": "15-20 %"}
+{"marker": "⟦HW3_GRADE_00039⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 14119, "end": 14126, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00040⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 14173, "end": 14179, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00041⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 14418, "end": 14425, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00042⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 14749, "end": 14755, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00043⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 14991, "end": 14998, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00044⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 15015, "end": 15021, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00045⟧", "kind": "unit", "raw": "0,10 %", "start": 15783, "end": 15789, "normalized": "0,10 %"}
+{"marker": "⟦HW3_GRADE_00046⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 15798, "end": 15804, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00047⟧", "kind": "unit", "raw": "0,06 %", "start": 15808, "end": 15814, "normalized": "0,06 %"}
+{"marker": "⟦HW3_GRADE_00048⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 15823, "end": 15830, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00049⟧", "kind": "unit", "raw": "130 °C", "start": 15850, "end": 15856, "normalized": "130 °C"}
+{"marker": "⟦HW3_UNIT_00050⟧", "kind": "unit", "raw": "1420 мм", "start": 17340, "end": 17347, "normalized": "1420 мм"}
+{"marker": "⟦HW3_GRADE_00051⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 18913, "end": 18920, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00052⟧", "kind": "unit", "raw": "1420 мм", "start": 21203, "end": 21210, "normalized": "1420 мм"}
+{"marker": "⟦HW3_FORMULA_00053⟧", "kind": "formula", "raw": "$$\nQ = K \\times D ^ {2, 6} \\times P\n$$", "start": 21454, "end": 21492, "normalized": "$$\nQ = K \\times D ^ {2, 6} \\times P\n$$"}
+{"marker": "⟦HW3_TABLE_00054⟧", "kind": "table", "raw": "<table><tr><td rowspan=\"2\">Удельные показатели</td><td colspan=\"3\">Размеры труб, мм</td></tr><tr><td>1020</td><td>1220</td><td>1420</td></tr><tr><td>Пропускная способность</td><td>1,0</td><td>1,6</td><td>2,37</td></tr><tr><td>Металлоемкость</td><td>1,0</td><td>0,89</td><td>0,62</td></tr><tr><td>Эксплуатационные расходы</td><td>1,0</td><td>0,79</td><td>0,67</td></tr></table>", "start": 22624, "end": 23000, "normalized": "<table><tr><td rowspan=\"2\">Удельные показатели</td><td colspan=\"3\">Размеры труб, мм</td></tr><tr><td>1020</td><td>1220</td><td>1420</td></tr><tr><td>Пропускная способность</td><td>1,0</td><td>1,6</td><td>2,37</td></tr><tr><td>Металлоемкость</td><td>1,0</td><td>0,89</td><td>0,62</td></tr><tr><td>Эксплуатационные расходы</td><td>1,0</td><td>0,79</td><td>0,67</td></tr></table>", "table": {"rows": 5, "cells": 17, "cell_text_sha256": "0d27c09982528bb967c2b74c760504d111b34782badd4f80b013a1b4a326a1f2"}}
+{"marker": "⟦HW3_UNIT_00055⟧", "kind": "unit", "raw": "1020 мм", "start": 23622, "end": 23629, "normalized": "1020 мм"}
+{"marker": "⟦HW3_UNIT_00056⟧", "kind": "unit", "raw": "7,5 МПа", "start": 23650, "end": 23657, "normalized": "7,5 МПа"}
+{"marker": "⟦HW3_UNIT_00057⟧", "kind": "unit", "raw": "1420 мм", "start": 23677, "end": 23684, "normalized": "1420 мм"}
+{"marker": "⟦HW3_UNIT_00058⟧", "kind": "unit", "raw": "12 МПа", "start": 23705, "end": 23711, "normalized": "12 МПа"}
+{"marker": "⟦HW3_TABLE_00059⟧", "kind": "table", "raw": "<table><tr><td rowspan=\"2\">Класс прочности</td><td rowspan=\"2\">Диаметр трубы, мм</td><td rowspan=\"2\"> $\\sigma_{\\text{в}}$ , H/ $\\text{мм}^{2}$ </td><td rowspan=\"2\"> $\\sigma_{\\text{т}}$ , H/ $\\text{мм}^{2}$ </td><td rowspan=\"2\"> $\\delta_{5}/\\delta_{2}$ , %/%</td><td colspan=\"3\"> $KCV^{-20}(Дж/см^{2})/ИПГ^{-20}(\\%)$  при давлении, МПа</td></tr><tr><td>7,4</td><td>9,8</td><td>11,8</td></tr><tr><td rowspan=\"3\">K60 (X70)</td><td>1020</td><td rowspan=\"3\">590-670</td><td rowspan=\"3\">500-580</td><td rowspan=\"3\">23/30</td><td>59/70</td><td>79/80</td><td>99/80</td></tr><tr><td>1220</td><td>79/80</td><td>99/95</td><td>128/95</td></tr><tr><td>1420</td><td>99/95</td><td>128/95</td><td>154/95</td></tr><tr><td rowspan=\"3\">K65(X80)</td><td>1020</td><td rowspan=\"3\">640-740</td><td rowspan=\"3\">510-610</td><td rowspan=\"3\">21/29</td><td>59/70</td><td>79/80</td><td>99/80</td></tr><tr><td>1220</td><td>79/80</td><td>99/95</td><td>128/95</td></tr><tr><td>1420</td><td>99/95</td><td>128/95</td><td>154/95</td></tr></table>", "start": 24335, "end": 25346, "normalized": "<table><tr><td rowspan=\"2\">Класс прочности</td><td rowspan=\"2\">Диаметр трубы, мм</td><td rowspan=\"2\"> $\\sigma_{\\text{в}}$ , H/ $\\text{мм}^{2}$ </td><td rowspan=\"2\"> $\\sigma_{\\text{т}}$ , H/ $\\text{мм}^{2}$ </td><td rowspan=\"2\"> $\\delta_{5}/\\delta_{2}$ , %/%</td><td colspan=\"3\"> $KCV^{-20}(Дж/см^{2})/ИПГ^{-20}(\\%)$  при давлении, МПа</td></tr><tr><td>7,4</td><td>9,8</td><td>11,8</td></tr><tr><td rowspan=\"3\">K60 (X70)</td><td>1020</td><td rowspan=\"3\">590-670</td><td rowspan=\"3\">500-580</td><td rowspan=\"3\">23/30</td><td>59/70</td><td>79/80</td><td>99/80</td></tr><tr><td>1220</td><td>79/80</td><td>99/95</td><td>128/95</td></tr><tr><td>1420</td><td>99/95</td><td>128/95</td><td>154/95</td></tr><tr><td rowspan=\"3\">K65(X80)</td><td>1020</td><td rowspan=\"3\">640-740</td><td rowspan=\"3\">510-610</td><td rowspan=\"3\">21/29</td><td>59/70</td><td>79/80</td><td>99/80</td></tr><tr><td>1220</td><td>79/80</td><td>99/95</td><td>128/95</td></tr><tr><td>1420</td><td>99/95</td><td>128/95</td><td>154/95</td></tr></table>", "table": {"rows": 8, "cells": 41, "cell_text_sha256": "a4aad223be073d7128df3d19b5ad0439a6ee461791c5d60631a55d5399ac7188"}}
+{"marker": "⟦HW3_UNIT_00060⟧", "kind": "unit", "raw": "1420 мм", "start": 25423, "end": 25430, "normalized": "1420 мм"}
+{"marker": "⟦HW3_UNIT_00061⟧", "kind": "unit", "raw": "11,8 МПа", "start": 25457, "end": 25465, "normalized": "11,8 МПа"}
+{"marker": "⟦HW3_UNIT_00062⟧", "kind": "unit", "raw": "-20 °C", "start": 25487, "end": 25493, "normalized": "-20 °C"}
+{"marker": "⟦HW3_FORMULA_00063⟧", "kind": "formula", "raw": "$^{-20}$", "start": 25516, "end": 25524, "normalized": "$^{-20}$"}
+{"marker": "⟦HW3_UNIT_00064⟧", "kind": "unit", "raw": "95 %", "start": 25586, "end": 25590, "normalized": "95 %"}
+{"marker": "⟦HW3_FORMULA_00065⟧", "kind": "formula", "raw": "$$\nC E = C + \\frac {M n}{6} + \\frac {C r + M o + (V + T i + N b)}{5} + \\frac {C u + N i}{1 5} + 1 5 B\n$$", "start": 28105, "end": 28209, "normalized": "$$\nC E = C + \\frac {M n}{6} + \\frac {C r + M o + (V + T i + N b)}{5} + \\frac {C u + N i}{1 5} + 1 5 B\n$$"}
+{"marker": "⟦HW3_FORMULA_00066⟧", "kind": "formula", "raw": "$$\nP C M = C + \\frac {M n + C r + C u}{2 0} + \\frac {S i}{3 0} + \\frac {N i}{6 0} + \\frac {V}{1 0} + \\frac {M o}{1 5} + 5 B\n$$", "start": 28211, "end": 28337, "normalized": "$$\nP C M = C + \\frac {M n + C r + C u}{2 0} + \\frac {S i}{3 0} + \\frac {N i}{6 0} + \\frac {V}{1 0} + \\frac {M o}{1 5} + 5 B\n$$"}
+{"marker": "⟦HW3_UNIT_00067⟧", "kind": "unit", "raw": "0,10 %", "start": 28532, "end": 28538, "normalized": "0,10 %"}
+{"marker": "⟦HW3_UNIT_00068⟧", "kind": "unit", "raw": "30 %", "start": 29937, "end": 29941, "normalized": "30 %"}
+{"marker": "⟦HW3_UNIT_00069⟧", "kind": "unit", "raw": "0,03 %", "start": 30988, "end": 30994, "normalized": "0,03 %"}
+{"marker": "⟦HW3_GRADE_00070⟧", "kind": "grade", "raw": "03Г1Б", "start": 31094, "end": 31099, "normalized": "03Г1Б"}
+{"marker": "⟦HW3_UNIT_00071⟧", "kind": "unit", "raw": "0,03 %", "start": 31112, "end": 31118, "normalized": "0,03 %"}
+{"marker": "⟦HW3_UNIT_00072⟧", "kind": "unit", "raw": "30 °C", "start": 31268, "end": 31273, "normalized": "30 °C"}
+{"marker": "⟦HW3_UNIT_00073⟧", "kind": "unit", "raw": "0,09 %", "start": 31661, "end": 31667, "normalized": "0,09 %"}
+{"marker": "⟦HW3_UNIT_00074⟧", "kind": "unit", "raw": "1200 °C", "start": 32869, "end": 32876, "normalized": "1200 °C"}
+{"marker": "⟦HW3_UNIT_00075⟧", "kind": "unit", "raw": "1 %", "start": 33501, "end": 33504, "normalized": "1 %"}
+{"marker": "⟦HW3_UNIT_00076⟧", "kind": "unit", "raw": "1,0 %", "start": 34453, "end": 34458, "normalized": "1,0 %"}
+{"marker": "⟦HW3_UNIT_00077⟧", "kind": "unit", "raw": "0,002-0,005 %", "start": 35020, "end": 35033, "normalized": "0,002-0,005 %"}
+{"marker": "⟦HW3_FORMULA_00078⟧", "kind": "formula", "raw": "$Ar_{3}^{деф}$", "start": 37034, "end": 37048, "normalized": "$Ar_{3}^{деф}$"}
+{"marker": "⟦HW3_FORMULA_00079⟧", "kind": "formula", "raw": "$Ar_{3}^{деф}$", "start": 37225, "end": 37239, "normalized": "$Ar_{3}^{деф}$"}
+{"marker": "⟦HW3_UNIT_00080⟧", "kind": "unit", "raw": "650-500 °C", "start": 37378, "end": 37388, "normalized": "650-500 °C"}
+{"marker": "⟦HW3_UNIT_00081⟧", "kind": "unit", "raw": "650 °C", "start": 37678, "end": 37684, "normalized": "650 °C"}
+{"marker": "⟦HW3_UNIT_00082⟧", "kind": "unit", "raw": "500 °C", "start": 37783, "end": 37789, "normalized": "500 °C"}
+{"marker": "⟦HW3_UNIT_00083⟧", "kind": "unit", "raw": "500 °C", "start": 38264, "end": 38270, "normalized": "500 °C"}
+{"marker": "⟦HW3_UNIT_00084⟧", "kind": "unit", "raw": "500 °C", "start": 38852, "end": 38858, "normalized": "500 °C"}
+{"marker": "⟦HW3_UNIT_00085⟧", "kind": "unit", "raw": "0,010 %", "start": 39660, "end": 39667, "normalized": "0,010 %"}
+{"marker": "⟦HW3_UNIT_00086⟧", "kind": "unit", "raw": "0,012 %", "start": 39715, "end": 39722, "normalized": "0,012 %"}
+{"marker": "⟦HW3_FORMULA_00087⟧", "kind": "formula", "raw": "$Fe + H_2O = FeO + H_2$", "start": 40293, "end": 40316, "normalized": "$Fe + H_2O = FeO + H_2$"}
+{"marker": "⟦HW3_UNIT_00088⟧", "kind": "unit", "raw": "-100 °C", "start": 41682, "end": 41689, "normalized": "-100 °C"}
+{"marker": "⟦HW3_UNIT_00089⟧", "kind": "unit", "raw": "+100 °C", "start": 41693, "end": 41700, "normalized": "+100 °C"}
+{"marker": "⟦HW3_UNIT_00090⟧", "kind": "unit", "raw": "1 °C", "start": 43243, "end": 43247, "normalized": "1 °C"}
+{"marker": "⟦HW3_UNIT_00091⟧", "kind": "unit", "raw": "700 °C", "start": 43422, "end": 43428, "normalized": "700 °C"}
+{"marker": "⟦HW3_UNIT_00092⟧", "kind": "unit", "raw": "0,005 %", "start": 44102, "end": 44109, "normalized": "0,005 %"}
+{"marker": "⟦HW3_UNIT_00093⟧", "kind": "unit", "raw": "0,005 %", "start": 44618, "end": 44625, "normalized": "0,005 %"}
+{"marker": "⟦HW3_UNIT_00094⟧", "kind": "unit", "raw": "1 ppm", "start": 44680, "end": 44685, "normalized": "1 ppm"}
+{"marker": "⟦HW3_UNIT_00095⟧", "kind": "unit", "raw": "5 ppm", "start": 44822, "end": 44827, "normalized": "5 ppm"}
+{"marker": "⟦HW3_UNIT_00096⟧", "kind": "unit", "raw": "500-100 °C", "start": 47959, "end": 47969, "normalized": "500-100 °C"}
+{"marker": "⟦HW3_FORMULA_00097⟧", "kind": "formula", "raw": "$\\underline{A_{zom}}$", "start": 48176, "end": 48197, "normalized": "$\\underline{A_{zom}}$"}
+{"marker": "⟦HW3_FORMULA_00098⟧", "kind": "formula", "raw": "$\\Delta T_{50} = 700\\sqrt{N_{св}}$", "start": 48561, "end": 48595, "normalized": "$\\Delta T_{50} = 700\\sqrt{N_{св}}$"}
+{"marker": "⟦HW3_UNIT_00099⟧", "kind": "unit", "raw": "0,001 %", "start": 48662, "end": 48669, "normalized": "0,001 %"}
+{"marker": "⟦HW3_UNIT_00100⟧", "kind": "unit", "raw": "20 °C", "start": 48728, "end": 48733, "normalized": "20 °C"}
+{"marker": "⟦HW3_UNIT_00101⟧", "kind": "unit", "raw": "0,004-0,003 %", "start": 50353, "end": 50366, "normalized": "0,004-0,003 %"}
+{"marker": "⟦HW3_UNIT_00102⟧", "kind": "unit", "raw": "15,6 %", "start": 51769, "end": 51775, "normalized": "15,6 %"}
+{"marker": "⟦HW3_UNIT_00103⟧", "kind": "unit", "raw": "14,2 %", "start": 51944, "end": 51950, "normalized": "14,2 %"}
+{"marker": "⟦HW3_UNIT_00104⟧", "kind": "unit", "raw": "6,2 %", "start": 51953, "end": 51958, "normalized": "6,2 %"}
+{"marker": "⟦HW3_UNIT_00105⟧", "kind": "unit", "raw": "1200 °C", "start": 54766, "end": 54773, "normalized": "1200 °C"}
+{"marker": "⟦HW3_UNIT_00106⟧", "kind": "unit", "raw": "900-1100 °C", "start": 55033, "end": 55044, "normalized": "900-1100 °C"}
+{"marker": "⟦HW3_UNIT_00107⟧", "kind": "unit", "raw": "950 °C", "start": 55224, "end": 55230, "normalized": "950 °C"}
+{"marker": "⟦HW3_UNIT_00108⟧", "kind": "unit", "raw": "850 °C", "start": 55371, "end": 55377, "normalized": "850 °C"}
+{"marker": "⟦HW3_UNIT_00109⟧", "kind": "unit", "raw": "800 – 1100 °C", "start": 55711, "end": 55724, "normalized": "800 – 1100 °C"}
+{"marker": "⟦HW3_UNIT_00110⟧", "kind": "unit", "raw": "25 %", "start": 55766, "end": 55770, "normalized": "25 %"}
+{"marker": "⟦HW3_UNIT_00111⟧", "kind": "unit", "raw": "900-925 °C", "start": 55864, "end": 55874, "normalized": "900-925 °C"}
+{"marker": "⟦HW3_UNIT_00112⟧", "kind": "unit", "raw": "925-950 °C", "start": 55908, "end": 55918, "normalized": "925-950 °C"}
+{"marker": "⟦HW3_UNIT_00113⟧", "kind": "unit", "raw": "850 °C", "start": 55956, "end": 55962, "normalized": "850 °C"}
+{"marker": "⟦HW3_UNIT_00114⟧", "kind": "unit", "raw": "900-1050 °C", "start": 56321, "end": 56332, "normalized": "900-1050 °C"}
+{"marker": "⟦HW3_UNIT_00115⟧", "kind": "unit", "raw": "850 °C", "start": 56573, "end": 56579, "normalized": "850 °C"}
+{"marker": "⟦HW3_UNIT_00116⟧", "kind": "unit", "raw": "900 °C", "start": 56674, "end": 56680, "normalized": "900 °C"}
+{"marker": "⟦HW3_UNIT_00117⟧", "kind": "unit", "raw": "900-950 °C", "start": 57328, "end": 57338, "normalized": "900-950 °C"}
+{"marker": "⟦HW3_FORMULA_00118⟧", "kind": "formula", "raw": "$_{95}$", "start": 57495, "end": 57502, "normalized": "$_{95}$"}
+{"marker": "⟦HW3_FORMULA_00119⟧", "kind": "formula", "raw": "$_{5}$", "start": 57884, "end": 57890, "normalized": "$_{5}$"}
+{"marker": "⟦HW3_FORMULA_00120⟧", "kind": "formula", "raw": "$_{5}$", "start": 58100, "end": 58106, "normalized": "$_{5}$"}
+{"marker": "⟦HW3_FORMULA_00121⟧", "kind": "formula", "raw": "$_{95}$", "start": 58110, "end": 58117, "normalized": "$_{95}$"}
+{"marker": "⟦HW3_FORMULA_00122⟧", "kind": "formula", "raw": "$T_{5}$", "start": 58398, "end": 58405, "normalized": "$T_{5}$"}
+{"marker": "⟦HW3_FORMULA_00123⟧", "kind": "formula", "raw": "$T_{95}$", "start": 58410, "end": 58418, "normalized": "$T_{95}$"}
+{"marker": "⟦HW3_UNIT_00124⟧", "kind": "unit", "raw": "3-7 нм", "start": 58483, "end": 58489, "normalized": "3-7 нм"}
+{"marker": "⟦HW3_UNIT_00125⟧", "kind": "unit", "raw": "15-100 нм", "start": 58689, "end": 58698, "normalized": "15-100 нм"}
+{"marker": "⟦HW3_FORMULA_00126⟧", "kind": "formula", "raw": "$_{v}$", "start": 59817, "end": 59823, "normalized": "$_{v}$"}
+{"marker": "⟦HW3_FORMULA_00127⟧", "kind": "formula", "raw": "$_{v}$", "start": 59989, "end": 59995, "normalized": "$_{v}$"}
+{"marker": "⟦HW3_FORMULA_00128⟧", "kind": "formula", "raw": "$_{v}$", "start": 60180, "end": 60186, "normalized": "$_{v}$"}
+{"marker": "⟦HW3_FORMULA_00129⟧", "kind": "formula", "raw": "$Ar_3$", "start": 60942, "end": 60948, "normalized": "$Ar_3$"}
+{"marker": "⟦HW3_FORMULA_00130⟧", "kind": "formula", "raw": "$$\nA r _ {3} = 9 1 0 - 3 1 0 C - 8 0 M n - 2 0 C u - 1 5 C r - 8 0 M o\n$$", "start": 61049, "end": 61122, "normalized": "$$\nA r _ {3} = 9 1 0 - 3 1 0 C - 8 0 M n - 2 0 C u - 1 5 C r - 8 0 M o\n$$"}
+{"marker": "⟦HW3_FORMULA_00131⟧", "kind": "formula", "raw": "$_{v}$", "start": 62117, "end": 62123, "normalized": "$_{v}$"}
+{"marker": "⟦HW3_UNIT_00132⟧", "kind": "unit", "raw": "50%", "start": 63695, "end": 63698, "normalized": "50%"}
+{"marker": "⟦HW3_UNIT_00133⟧", "kind": "unit", "raw": "5 мкм", "start": 64162, "end": 64167, "normalized": "5 мкм"}
+{"marker": "⟦HW3_UNIT_00134⟧", "kind": "unit", "raw": "2 мкм", "start": 64189, "end": 64194, "normalized": "2 мкм"}
+{"marker": "⟦HW3_UNIT_00135⟧", "kind": "unit", "raw": "1 мкм", "start": 64252, "end": 64257, "normalized": "1 мкм"}
+{"marker": "⟦HW3_UNIT_00136⟧", "kind": "unit", "raw": "0,2 мкм", "start": 64273, "end": 64280, "normalized": "0,2 мкм"}
+{"marker": "⟦HW3_UNIT_00137⟧", "kind": "unit", "raw": "2 нм", "start": 65234, "end": 65238, "normalized": "2 нм"}
+{"marker": "⟦HW3_UNIT_00138⟧", "kind": "unit", "raw": "0,01 %", "start": 65936, "end": 65942, "normalized": "0,01 %"}
+{"marker": "⟦HW3_FORMULA_00139⟧", "kind": "formula", "raw": "$\\gamma\\rightarrow\\alpha$", "start": 67484, "end": 67509, "normalized": "$\\gamma\\rightarrow\\alpha$"}
+{"marker": "⟦HW3_FORMULA_00140⟧", "kind": "formula", "raw": "$S_{v}$", "start": 67897, "end": 67904, "normalized": "$S_{v}$"}
+{"marker": "⟦HW3_UNIT_00141⟧", "kind": "unit", "raw": "1150-1200 °C", "start": 71451, "end": 71463, "normalized": "1150-1200 °C"}
+{"marker": "⟦HW3_UNIT_00142⟧", "kind": "unit", "raw": "200 мкм", "start": 71507, "end": 71514, "normalized": "200 мкм"}
+{"marker": "⟦HW3_UNIT_00143⟧", "kind": "unit", "raw": "1000-1100 °C", "start": 71760, "end": 71772, "normalized": "1000-1100 °C"}
+{"marker": "⟦HW3_UNIT_00144⟧", "kind": "unit", "raw": "1150 °C", "start": 71794, "end": 71801, "normalized": "1150 °C"}
+{"marker": "⟦HW3_UNIT_00145⟧", "kind": "unit", "raw": "1200 °C", "start": 71869, "end": 71876, "normalized": "1200 °C"}
+{"marker": "⟦HW3_FORMULA_00146⟧", "kind": "formula", "raw": "$$\nT i _ {\\kappa p} (\\%) = 3, 4 3 N (\\%),\n$$", "start": 72515, "end": 72559, "normalized": "$$\nT i _ {\\kappa p} (\\%) = 3, 4 3 N (\\%),\n$$"}
+{"marker": "⟦HW3_UNIT_00147⟧", "kind": "unit", "raw": "7 %", "start": 74649, "end": 74652, "normalized": "7 %"}
+{"marker": "⟦HW3_UNIT_00148⟧", "kind": "unit", "raw": "900-1000 °C", "start": 74657, "end": 74668, "normalized": "900-1000 °C"}
+{"marker": "⟦HW3_FORMULA_00149⟧", "kind": "formula", "raw": "$$\nT _ {p} \\left(^ {0} C\\right) = 8 8 7 + 4 6 4 C - 3 5 7 S i + + 3 6 3 A l + 8 9 0 T i + (6 6 4 5 N b - 6 6 4 \\sqrt {N b}) + (7 3 2 V - 2 3 0 \\sqrt {V})\\tag{1}\n$$", "start": 75466, "end": 75629, "normalized": "$$\nT _ {p} \\left(^ {0} C\\right) = 8 8 7 + 4 6 4 C - 3 5 7 S i + + 3 6 3 A l + 8 9 0 T i + (6 6 4 5 N b - 6 6 4 \\sqrt {N b}) + (7 3 2 V - 2 3 0 \\sqrt {V})\\tag{1}\n$$"}
+{"marker": "⟦HW3_UNIT_00150⟧", "kind": "unit", "raw": "0,08 %", "start": 75664, "end": 75670, "normalized": "0,08 %"}
+{"marker": "⟦HW3_UNIT_00151⟧", "kind": "unit", "raw": "0,95 %", "start": 75674, "end": 75680, "normalized": "0,95 %"}
+{"marker": "⟦HW3_UNIT_00152⟧", "kind": "unit", "raw": "0,27 %", "start": 75685, "end": 75691, "normalized": "0,27 %"}
+{"marker": "⟦HW3_UNIT_00153⟧", "kind": "unit", "raw": "0,045 %", "start": 75696, "end": 75703, "normalized": "0,045 %"}
+{"marker": "⟦HW3_UNIT_00154⟧", "kind": "unit", "raw": "0,006 %", "start": 75708, "end": 75715, "normalized": "0,006 %"}
+{"marker": "⟦HW3_UNIT_00155⟧", "kind": "unit", "raw": "0,04 %", "start": 75719, "end": 75725, "normalized": "0,04 %"}
+{"marker": "⟦HW3_UNIT_00156⟧", "kind": "unit", "raw": "0,006 %", "start": 75730, "end": 75737, "normalized": "0,006 %"}
+{"marker": "⟦HW3_UNIT_00157⟧", "kind": "unit", "raw": "0,015 %", "start": 75741, "end": 75748, "normalized": "0,015 %"}
+{"marker": "⟦HW3_FORMULA_00158⟧", "kind": "formula", "raw": "$T_p \\approx 1000$", "start": 75865, "end": 75883, "normalized": "$T_p \\approx 1000$"}
+{"marker": "⟦HW3_UNIT_00159⟧", "kind": "unit", "raw": "1000 °C", "start": 76032, "end": 76039, "normalized": "1000 °C"}
+{"marker": "⟦HW3_UNIT_00160⟧", "kind": "unit", "raw": "-20 °C", "start": 76093, "end": 76099, "normalized": "-20 °C"}
+{"marker": "⟦HW3_UNIT_00161⟧", "kind": "unit", "raw": "1000 °C", "start": 76182, "end": 76189, "normalized": "1000 °C"}
+{"marker": "⟦HW3_GRADE_00162⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 76246, "end": 76252, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00163⟧", "kind": "unit", "raw": "0,09 %", "start": 76261, "end": 76267, "normalized": "0,09 %"}
+{"marker": "⟦HW3_UNIT_00164⟧", "kind": "unit", "raw": "1,44%", "start": 76271, "end": 76276, "normalized": "1,44%"}
+{"marker": "⟦HW3_UNIT_00165⟧", "kind": "unit", "raw": "0,27%", "start": 76281, "end": 76286, "normalized": "0,27%"}
+{"marker": "⟦HW3_UNIT_00166⟧", "kind": "unit", "raw": "0,076%", "start": 76291, "end": 76297, "normalized": "0,076%"}
+{"marker": "⟦HW3_UNIT_00167⟧", "kind": "unit", "raw": "0,031%", "start": 76301, "end": 76307, "normalized": "0,031%"}
+{"marker": "⟦HW3_UNIT_00168⟧", "kind": "unit", "raw": "0,006%", "start": 76312, "end": 76318, "normalized": "0,006%"}
+{"marker": "⟦HW3_UNIT_00169⟧", "kind": "unit", "raw": "1150 °C", "start": 76554, "end": 76561, "normalized": "1150 °C"}
+{"marker": "⟦HW3_UNIT_00170⟧", "kind": "unit", "raw": "960 °C", "start": 76610, "end": 76616, "normalized": "960 °C"}
+{"marker": "⟦HW3_FORMULA_00171⟧", "kind": "formula", "raw": "$^{-1}$", "start": 76647, "end": 76654, "normalized": "$^{-1}$"}
+{"marker": "⟦HW3_UNIT_00172⟧", "kind": "unit", "raw": "20 %", "start": 76691, "end": 76695, "normalized": "20 %"}
+{"marker": "⟦HW3_UNIT_00173⟧", "kind": "unit", "raw": "920 °C", "start": 76869, "end": 76875, "normalized": "920 °C"}
+{"marker": "⟦HW3_UNIT_00174⟧", "kind": "unit", "raw": "960 °C", "start": 77052, "end": 77058, "normalized": "960 °C"}
+{"marker": "⟦HW3_UNIT_00175⟧", "kind": "unit", "raw": "20 %", "start": 77073, "end": 77077, "normalized": "20 %"}
+{"marker": "⟦HW3_UNIT_00176⟧", "kind": "unit", "raw": "25 %", "start": 77239, "end": 77243, "normalized": "25 %"}
+{"marker": "⟦HW3_UNIT_00177⟧", "kind": "unit", "raw": "960 °C", "start": 77289, "end": 77295, "normalized": "960 °C"}
+{"marker": "⟦HW3_FORMULA_00178⟧", "kind": "formula", "raw": "$_{p}$", "start": 79406, "end": 79412, "normalized": "$_{p}$"}
+{"marker": "⟦HW3_FORMULA_00179⟧", "kind": "formula", "raw": "$_{p}$", "start": 79533, "end": 79539, "normalized": "$_{p}$"}
+{"marker": "⟦HW3_FORMULA_00180⟧", "kind": "formula", "raw": "$_{p}$", "start": 79610, "end": 79616, "normalized": "$_{p}$"}
+{"marker": "⟦HW3_FORMULA_00181⟧", "kind": "formula", "raw": "$_{3}$", "start": 79623, "end": 79629, "normalized": "$_{3}$"}
+{"marker": "⟦HW3_FORMULA_00182⟧", "kind": "formula", "raw": "$_{p}$", "start": 79730, "end": 79736, "normalized": "$_{p}$"}
+{"marker": "⟦HW3_FORMULA_00183⟧", "kind": "formula", "raw": "$_{p}$", "start": 79750, "end": 79756, "normalized": "$_{p}$"}
+{"marker": "⟦HW3_FORMULA_00184⟧", "kind": "formula", "raw": "$_{3}$", "start": 79763, "end": 79769, "normalized": "$_{3}$"}
+{"marker": "⟦HW3_FORMULA_00185⟧", "kind": "formula", "raw": "$_{3}$", "start": 79786, "end": 79792, "normalized": "$_{3}$"}
+{"marker": "⟦HW3_FORMULA_00186⟧", "kind": "formula", "raw": "$_{1}$", "start": 79799, "end": 79805, "normalized": "$_{1}$"}
+{"marker": "⟦HW3_FORMULA_00187⟧", "kind": "formula", "raw": "$_{α}$", "start": 80515, "end": 80521, "normalized": "$_{α}$"}
+{"marker": "⟦HW3_FORMULA_00188⟧", "kind": "formula", "raw": "$_{γ}$", "start": 80581, "end": 80587, "normalized": "$_{γ}$"}
+{"marker": "⟦HW3_FORMULA_00189⟧", "kind": "formula", "raw": "$$\n\\mathrm{d} _ {\\alpha} = 3. 7 5 + 0. 1 8 \\mathrm{d} _ {\\gamma} + 1. 4 \\left(\\frac {\\mathrm{dT}}{\\mathrm{dt}}\\right) ^ {- 1 / 2},\n$$", "start": 80683, "end": 80816, "normalized": "$$\n\\mathrm{d} _ {\\alpha} = 3. 7 5 + 0. 1 8 \\mathrm{d} _ {\\gamma} + 1. 4 \\left(\\frac {\\mathrm{dT}}{\\mathrm{dt}}\\right) ^ {- 1 / 2},\n$$"}
+{"marker": "⟦HW3_UNIT_00190⟧", "kind": "unit", "raw": "750-550 °C", "start": 80876, "end": 80886, "normalized": "750-550 °C"}
+{"marker": "⟦HW3_FORMULA_00191⟧", "kind": "formula", "raw": "$d_{\\alpha}$", "start": 80889, "end": 80901, "normalized": "$d_{\\alpha}$"}
+{"marker": "⟦HW3_FORMULA_00192⟧", "kind": "formula", "raw": "$\\gamma\\rightarrow\\alpha$", "start": 80936, "end": 80961, "normalized": "$\\gamma\\rightarrow\\alpha$"}
+{"marker": "⟦HW3_FORMULA_00193⟧", "kind": "formula", "raw": "$d_{\\gamma}$", "start": 80977, "end": 80989, "normalized": "$d_{\\gamma}$"}
+{"marker": "⟦HW3_UNIT_00194⟧", "kind": "unit", "raw": "840 °C", "start": 81531, "end": 81537, "normalized": "840 °C"}
+{"marker": "⟦HW3_FORMULA_00195⟧", "kind": "formula", "raw": "$_{p}$", "start": 82723, "end": 82729, "normalized": "$_{p}$"}
+{"marker": "⟦HW3_FORMULA_00196⟧", "kind": "formula", "raw": "$_{p}$", "start": 82767, "end": 82773, "normalized": "$_{p}$"}
+{"marker": "⟦HW3_FORMULA_00197⟧", "kind": "formula", "raw": "$_{3}$", "start": 82779, "end": 82785, "normalized": "$_{3}$"}
+{"marker": "⟦HW3_UNIT_00198⟧", "kind": "unit", "raw": "10-15 °C", "start": 85539, "end": 85547, "normalized": "10-15 °C"}
+{"marker": "⟦HW3_UNIT_00199⟧", "kind": "unit", "raw": "500-550 °C", "start": 85572, "end": 85582, "normalized": "500-550 °C"}
+{"marker": "⟦HW3_UNIT_00200⟧", "kind": "unit", "raw": "0,08 %", "start": 86030, "end": 86036, "normalized": "0,08 %"}
+{"marker": "⟦HW3_UNIT_00201⟧", "kind": "unit", "raw": "1,50 %", "start": 86041, "end": 86047, "normalized": "1,50 %"}
+{"marker": "⟦HW3_UNIT_00202⟧", "kind": "unit", "raw": "40 %", "start": 86381, "end": 86385, "normalized": "40 %"}
+{"marker": "⟦HW3_UNIT_00203⟧", "kind": "unit", "raw": "0,08 %", "start": 86901, "end": 86907, "normalized": "0,08 %"}
+{"marker": "⟦HW3_UNIT_00204⟧", "kind": "unit", "raw": "10-12 МПа", "start": 90020, "end": 90029, "normalized": "10-12 МПа"}
+{"marker": "⟦HW3_UNIT_00205⟧", "kind": "unit", "raw": "2 °C", "start": 91946, "end": 91950, "normalized": "2 °C"}
+{"marker": "⟦HW3_FORMULA_00206⟧", "kind": "formula", "raw": "$\\gamma\\rightarrow\\alpha$", "start": 92291, "end": 92316, "normalized": "$\\gamma\\rightarrow\\alpha$"}
+{"marker": "⟦HW3_GRADE_00207⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 92657, "end": 92664, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00208⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 92729, "end": 92736, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00209⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 92860, "end": 92867, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00210⟧", "kind": "unit", "raw": "1420 мм", "start": 93817, "end": 93824, "normalized": "1420 мм"}
+{"marker": "⟦HW3_FORMULA_00211⟧", "kind": "formula", "raw": "$\\gamma\\rightarrow\\alpha$", "start": 94387, "end": 94412, "normalized": "$\\gamma\\rightarrow\\alpha$"}
+{"marker": "⟦HW3_TABLE_00212⟧", "kind": "table", "raw": "<table><tr><td rowspan=\"2\">Изделие</td><td rowspan=\"2\">Документ</td><td> $\\sigma_{\\text{в}},$  $\\text{H/мм}^2$ </td><td> $\\sigma_{\\text{т}},$  $\\text{H/мм}^2$ </td><td> $\\delta_5,$ %</td><td> $\\sigma_{\\text{T}}/\\sigma_{\\text{в}}$ </td><td> $\\sigma_{\\text{в}},$  $\\text{H/мм}^2$ </td><td> $\\sigma_{\\text{т}},$  $\\text{H/мм}^2$ </td><td> $\\delta_5,$ %</td><td> $\\sigma_{\\text{T}}/\\sigma_{\\text{в}}$ </td><td colspan=\"2\">Ударная вязкость, $\\text{Дж/см}^2$ </td><td rowspan=\"2\"> $\\text{ИПГ}^{-20},$ %</td></tr><tr><td colspan=\"4\">Плоские образцы тип 11 ГОСТ 1497</td><td colspan=\"4\">Плоские образцы тип ASTM A370</td><td> $\\text{KCV}^{-20}$ </td><td> $\\text{KCU}^{-60}$ </td></tr><tr><td rowspan=\"2\">Труба</td><td>Технические требования РАО «Газпром»</td><td>≥621</td><td>≥552</td><td>≥18</td><td>0,9</td><td colspan=\"4\">Не регламентируются</td><td>108</td><td>49,0</td><td>85</td></tr><tr><td>API 5L (PSL 2)</td><td colspan=\"4\">Не регламентируются</td><td>621-826</td><td>552</td><td>27</td><td>0,92</td><td colspan=\"2\">Не регламентируются</td><td>40</td></tr><tr><td>Лист</td><td>TT232-02-2003 ОАО «ХТЗ»</td><td>620-706</td><td>≥570</td><td>20</td><td>0,90</td><td>0,90</td><td>≥570</td><td>20</td><td>0,90</td><td>120</td><td>78</td><td>90</td></tr></table>", "start": 94892, "end": 96148, "normalized": "<table><tr><td rowspan=\"2\">Изделие</td><td rowspan=\"2\">Документ</td><td> $\\sigma_{\\text{в}},$  $\\text{H/мм}^2$ </td><td> $\\sigma_{\\text{т}},$  $\\text{H/мм}^2$ </td><td> $\\delta_5,$ %</td><td> $\\sigma_{\\text{T}}/\\sigma_{\\text{в}}$ </td><td> $\\sigma_{\\text{в}},$  $\\text{H/мм}^2$ </td><td> $\\sigma_{\\text{т}},$  $\\text{H/мм}^2$ </td><td> $\\delta_5,$ %</td><td> $\\sigma_{\\text{T}}/\\sigma_{\\text{в}}$ </td><td colspan=\"2\">Ударная вязкость, $\\text{Дж/см}^2$ </td><td rowspan=\"2\"> $\\text{ИПГ}^{-20},$ %</td></tr><tr><td colspan=\"4\">Плоские образцы тип 11 ГОСТ 1497</td><td colspan=\"4\">Плоские образцы тип ASTM A370</td><td> $\\text{KCV}^{-20}$ </td><td> $\\text{KCU}^{-60}$ </td></tr><tr><td rowspan=\"2\">Труба</td><td>Технические требования РАО «Газпром»</td><td>≥621</td><td>≥552</td><td>≥18</td><td>0,9</td><td colspan=\"4\">Не регламентируются</td><td>108</td><td>49,0</td><td>85</td></tr><tr><td>API 5L (PSL 2)</td><td colspan=\"4\">Не регламентируются</td><td>621-826</td><td>552</td><td>27</td><td>0,92</td><td colspan=\"2\">Не регламентируются</td><td>40</td></tr><tr><td>Лист</td><td>TT232-02-2003 ОАО «ХТЗ»</td><td>620-706</td><td>≥570</td><td>20</td><td>0,90</td><td>0,90</td><td>≥570</td><td>20</td><td>0,90</td><td>120</td><td>78</td><td>90</td></tr></table>", "table": {"rows": 5, "cells": 47, "cell_text_sha256": "508d40cb361fc699c3e989a688204af9139f153d714f06defb1f136529d2af51"}}
+{"marker": "⟦HW3_GRADE_00213⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 96907, "end": 96914, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00214⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 97243, "end": 97250, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00215⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 97319, "end": 97325, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00216⟧", "kind": "unit", "raw": "10000 мм", "start": 98573, "end": 98581, "normalized": "10000 мм"}
+{"marker": "⟦HW3_UNIT_00217⟧", "kind": "unit", "raw": "1550 мм", "start": 98613, "end": 98620, "normalized": "1550 мм"}
+{"marker": "⟦HW3_UNIT_00218⟧", "kind": "unit", "raw": "24,9 мм", "start": 98860, "end": 98867, "normalized": "24,9 мм"}
+{"marker": "⟦HW3_TABLE_00219⟧", "kind": "table", "raw": "<table><tr><td>Сталь</td><td>Номер плавки</td><td>C</td><td>Mn</td><td>Si</td><td>S</td><td>Ni</td><td>Mo</td><td>Cu</td><td>Ti</td><td>V</td><td>Nb</td><td>N</td><td>Al</td><td>CE</td><td>PCM</td></tr><tr><td rowspan=\"8\">05Г2МФБ</td><td>1</td><td>0,06</td><td>1,69</td><td>0,31</td><td>0,004</td><td>0,21</td><td>0,22</td><td>0,02</td><td>0,013</td><td>0,053</td><td>0,080</td><td>0,007</td><td>0,038</td><td>0,43</td><td>0,18</td></tr><tr><td>2</td><td>0,05</td><td>1,75</td><td>0,37</td><td>0,002</td><td>0,21</td><td>0,25</td><td>0,01</td><td>0,012</td><td>0,053</td><td>0,080</td><td>0,009</td><td>0,026</td><td>0,44</td><td>0,18</td></tr><tr><td>3</td><td>0,06</td><td>1,65</td><td>0,29</td><td>0,005</td><td>0,21</td><td>0,25</td><td>0,20</td><td>0,014</td><td>0,053</td><td>0,080</td><td>0,009</td><td>0,036</td><td>0,44</td><td>0,18</td></tr><tr><td>4</td><td>0,04</td><td>1,80</td><td>0,40</td><td>0,004</td><td>0,19</td><td>0,25</td><td>0,01</td><td>0,013</td><td>0,056</td><td>0,076</td><td>0,010</td><td>0,030</td><td>0,42</td><td>0,17</td></tr><tr><td>5</td><td>0,05</td><td>1,67</td><td>0,31</td><td>0,004</td><td>0,19</td><td>0,190</td><td>0,16</td><td>0,014</td><td>0,057</td><td>0,061</td><td>0,008</td><td>0,029</td><td>0,42</td><td>0,17</td></tr><tr><td>6</td><td>0,05</td><td>1,66</td><td>0,31</td><td>0,002</td><td>0,20</td><td>0,180</td><td>0,17</td><td>0,013</td><td>0,052</td><td>0,063</td><td>0,008</td><td>0,027</td><td>0,41</td><td>0,17</td></tr><tr><td>7</td><td>0,05</td><td>1,68</td><td>0,32</td><td>0,003</td><td>0,20</td><td>0,180</td><td>0,16</td><td>0,014</td><td>0,053</td><td>0,063</td><td>0,008</td><td>0,027</td><td>0,42</td><td>0,17</td></tr><tr><td>8</td><td>0,04</td><td>1,65</td><td>0,20</td><td>0,003</td><td>0,19</td><td>0,150</td><td>0,16</td><td>0,015</td><td>0,050</td><td>0,064</td><td>0,008</td><td>0,031</td><td>0,40</td><td>0,16</td></tr><tr><td>10Г2ФБ</td><td>9</td><td>0,10</td><td>1,63</td><td>0,20</td><td>0,005</td><td>0,01</td><td>0,01</td><td>0,01</td><td>0,013</td><td>0,072</td><td>0,054</td><td>0,007</td><td>0,033</td><td>0,41</td><td>0,20</td></tr></table>", "start": 99045, "end": 101165, "normalized": "<table><tr><td>Сталь</td><td>Номер плавки</td><td>C</td><td>Mn</td><td>Si</td><td>S</td><td>Ni</td><td>Mo</td><td>Cu</td><td>Ti</td><td>V</td><td>Nb</td><td>N</td><td>Al</td><td>CE</td><td>PCM</td></tr><tr><td rowspan=\"8\">05Г2МФБ</td><td>1</td><td>0,06</td><td>1,69</td><td>0,31</td><td>0,004</td><td>0,21</td><td>0,22</td><td>0,02</td><td>0,013</td><td>0,053</td><td>0,080</td><td>0,007</td><td>0,038</td><td>0,43</td><td>0,18</td></tr><tr><td>2</td><td>0,05</td><td>1,75</td><td>0,37</td><td>0,002</td><td>0,21</td><td>0,25</td><td>0,01</td><td>0,012</td><td>0,053</td><td>0,080</td><td>0,009</td><td>0,026</td><td>0,44</td><td>0,18</td></tr><tr><td>3</td><td>0,06</td><td>1,65</td><td>0,29</td><td>0,005</td><td>0,21</td><td>0,25</td><td>0,20</td><td>0,014</td><td>0,053</td><td>0,080</td><td>0,009</td><td>0,036</td><td>0,44</td><td>0,18</td></tr><tr><td>4</td><td>0,04</td><td>1,80</td><td>0,40</td><td>0,004</td><td>0,19</td><td>0,25</td><td>0,01</td><td>0,013</td><td>0,056</td><td>0,076</td><td>0,010</td><td>0,030</td><td>0,42</td><td>0,17</td></tr><tr><td>5</td><td>0,05</td><td>1,67</td><td>0,31</td><td>0,004</td><td>0,19</td><td>0,190</td><td>0,16</td><td>0,014</td><td>0,057</td><td>0,061</td><td>0,008</td><td>0,029</td><td>0,42</td><td>0,17</td></tr><tr><td>6</td><td>0,05</td><td>1,66</td><td>0,31</td><td>0,002</td><td>0,20</td><td>0,180</td><td>0,17</td><td>0,013</td><td>0,052</td><td>0,063</td><td>0,008</td><td>0,027</td><td>0,41</td><td>0,17</td></tr><tr><td>7</td><td>0,05</td><td>1,68</td><td>0,32</td><td>0,003</td><td>0,20</td><td>0,180</td><td>0,16</td><td>0,014</td><td>0,053</td><td>0,063</td><td>0,008</td><td>0,027</td><td>0,42</td><td>0,17</td></tr><tr><td>8</td><td>0,04</td><td>1,65</td><td>0,20</td><td>0,003</td><td>0,19</td><td>0,150</td><td>0,16</td><td>0,015</td><td>0,050</td><td>0,064</td><td>0,008</td><td>0,031</td><td>0,40</td><td>0,16</td></tr><tr><td>10Г2ФБ</td><td>9</td><td>0,10</td><td>1,63</td><td>0,20</td><td>0,005</td><td>0,01</td><td>0,01</td><td>0,01</td><td>0,013</td><td>0,072</td><td>0,054</td><td>0,007</td><td>0,033</td><td>0,41</td><td>0,20</td></tr></table>", "table": {"rows": 10, "cells": 153, "cell_text_sha256": "0650972ae2a089a1c54b7f020557d67c230fd6bdaded5cd5b22c9d41a02d6a42"}}
+{"marker": "⟦HW3_UNIT_00220⟧", "kind": "unit", "raw": "0,063-0,08%", "start": 101219, "end": 101230, "normalized": "0,063-0,08%"}
+{"marker": "⟦HW3_UNIT_00221⟧", "kind": "unit", "raw": "1,65-1,80 %", "start": 101241, "end": 101252, "normalized": "1,65-1,80 %"}
+{"marker": "⟦HW3_UNIT_00222⟧", "kind": "unit", "raw": "0,04-0,06 %", "start": 101282, "end": 101293, "normalized": "0,04-0,06 %"}
+{"marker": "⟦HW3_UNIT_00223⟧", "kind": "unit", "raw": "0,15-0,25 %", "start": 101425, "end": 101436, "normalized": "0,15-0,25 %"}
+{"marker": "⟦HW3_UNIT_00224⟧", "kind": "unit", "raw": "0,20-0,21%", "start": 101446, "end": 101456, "normalized": "0,20-0,21%"}
+{"marker": "⟦HW3_UNIT_00225⟧", "kind": "unit", "raw": "0,012-0,015 %", "start": 101507, "end": 101520, "normalized": "0,012-0,015 %"}
+{"marker": "⟦HW3_UNIT_00226⟧", "kind": "unit", "raw": "1200 °C", "start": 101723, "end": 101730, "normalized": "1200 °C"}
+{"marker": "⟦HW3_UNIT_00227⟧", "kind": "unit", "raw": "0,04-0,053%", "start": 101861, "end": 101872, "normalized": "0,04-0,053%"}
+{"marker": "⟦HW3_UNIT_00228⟧", "kind": "unit", "raw": "0,16-0,2 %", "start": 101947, "end": 101957, "normalized": "0,16-0,2 %"}
+{"marker": "⟦HW3_UNIT_00229⟧", "kind": "unit", "raw": "0,002-0,005 %", "start": 102032, "end": 102045, "normalized": "0,002-0,005 %"}
+{"marker": "⟦HW3_UNIT_00230⟧", "kind": "unit", "raw": "0,010 %", "start": 102114, "end": 102121, "normalized": "0,010 %"}
+{"marker": "⟦HW3_GRADE_00231⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 102228, "end": 102234, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00232⟧", "kind": "unit", "raw": "0,10 %", "start": 102423, "end": 102429, "normalized": "0,10 %"}
+{"marker": "⟦HW3_UNIT_00233⟧", "kind": "unit", "raw": "0,054 %", "start": 102445, "end": 102452, "normalized": "0,054 %"}
+{"marker": "⟦HW3_UNIT_00234⟧", "kind": "unit", "raw": "0,41%", "start": 102564, "end": 102569, "normalized": "0,41%"}
+{"marker": "⟦HW3_UNIT_00235⟧", "kind": "unit", "raw": "0,20 %", "start": 102605, "end": 102611, "normalized": "0,20 %"}
+{"marker": "⟦HW3_GRADE_00236⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 102681, "end": 102688, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00237⟧", "kind": "grade", "raw": "10Г2МФБ", "start": 102712, "end": 102719, "normalized": "10Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00238⟧", "kind": "unit", "raw": "0,42-0,43 %", "start": 102941, "end": 102952, "normalized": "0,42-0,43 %"}
+{"marker": "⟦HW3_UNIT_00239⟧", "kind": "unit", "raw": "0,17-0,18 %", "start": 102955, "end": 102966, "normalized": "0,17-0,18 %"}
+{"marker": "⟦HW3_UNIT_00240⟧", "kind": "unit", "raw": "50 мм", "start": 103357, "end": 103362, "normalized": "50 мм"}
+{"marker": "⟦HW3_UNIT_00241⟧", "kind": "unit", "raw": "10 мм", "start": 103411, "end": 103416, "normalized": "10 мм"}
+{"marker": "⟦HW3_UNIT_00242⟧", "kind": "unit", "raw": "50 мм", "start": 103436, "end": 103441, "normalized": "50 мм"}
+{"marker": "⟦HW3_UNIT_00243⟧", "kind": "unit", "raw": "80 °C", "start": 103630, "end": 103635, "normalized": "80 °C"}
+{"marker": "⟦HW3_UNIT_00244⟧", "kind": "unit", "raw": "-80 °C", "start": 103705, "end": 103711, "normalized": "-80 °C"}
+{"marker": "⟦HW3_UNIT_00245⟧", "kind": "unit", "raw": "4 %", "start": 104434, "end": 104437, "normalized": "4 %"}
+{"marker": "⟦HW3_UNIT_00246⟧", "kind": "unit", "raw": "2 %", "start": 104556, "end": 104559, "normalized": "2 %"}
+{"marker": "⟦HW3_FORMULA_00247⟧", "kind": "formula", "raw": "$HNO_{3}$", "start": 104587, "end": 104596, "normalized": "$HNO_{3}$"}
+{"marker": "⟦HW3_UNIT_00248⟧", "kind": "unit", "raw": "80 °C", "start": 104741, "end": 104746, "normalized": "80 °C"}
+{"marker": "⟦HW3_UNIT_00249⟧", "kind": "unit", "raw": "0,5-1 мм", "start": 105830, "end": 105838, "normalized": "0,5-1 мм"}
+{"marker": "⟦HW3_UNIT_00250⟧", "kind": "unit", "raw": "0,15-0,2 мм", "start": 106001, "end": 106012, "normalized": "0,15-0,2 мм"}
+{"marker": "⟦HW3_UNIT_00251⟧", "kind": "unit", "raw": "0,1-0,2 мкм", "start": 106117, "end": 106128, "normalized": "0,1-0,2 мкм"}
+{"marker": "⟦HW3_FORMULA_00252⟧", "kind": "formula", "raw": "$H_{3}PO_{4}$", "start": 106859, "end": 106872, "normalized": "$H_{3}PO_{4}$"}
+{"marker": "⟦HW3_UNIT_00253⟧", "kind": "unit", "raw": "100 г", "start": 106876, "end": 106881, "normalized": "100 г"}
+{"marker": "⟦HW3_UNIT_00254⟧", "kind": "unit", "raw": "19 мм", "start": 107146, "end": 107151, "normalized": "19 мм"}
+{"marker": "⟦HW3_UNIT_00255⟧", "kind": "unit", "raw": "15 %", "start": 107198, "end": 107202, "normalized": "15 %"}
+{"marker": "⟦HW3_UNIT_00256⟧", "kind": "unit", "raw": "0,2 мм", "start": 107255, "end": 107261, "normalized": "0,2 мм"}
+{"marker": "⟦HW3_FORMULA_00257⟧", "kind": "formula", "raw": "$(Q_{\\gamma})$", "start": 107383, "end": 107397, "normalized": "$(Q_{\\gamma})$"}
+{"marker": "⟦HW3_FORMULA_00258⟧", "kind": "formula", "raw": "$(110)_{\\alpha}$", "start": 107498, "end": 107514, "normalized": "$(110)_{\\alpha}$"}
+{"marker": "⟦HW3_FORMULA_00259⟧", "kind": "formula", "raw": "$(111)_{\\gamma}$", "start": 107526, "end": 107542, "normalized": "$(111)_{\\gamma}$"}
+{"marker": "⟦HW3_FORMULA_00260⟧", "kind": "formula", "raw": "$$\nQ _ {\\gamma} = \\frac {1}{\\left(1 + k I _ {(1 1 0) \\alpha} / I _ {(1 1 1) \\gamma}\\right)},\n$$", "start": 107570, "end": 107665, "normalized": "$$\nQ _ {\\gamma} = \\frac {1}{\\left(1 + k I _ {(1 1 0) \\alpha} / I _ {(1 1 1) \\gamma}\\right)},\n$$"}
+{"marker": "⟦HW3_FORMULA_00261⟧", "kind": "formula", "raw": "$I_{(110)\\alpha}$", "start": 107671, "end": 107688, "normalized": "$I_{(110)\\alpha}$"}
+{"marker": "⟦HW3_FORMULA_00262⟧", "kind": "formula", "raw": "$(110)_\\alpha$", "start": 107724, "end": 107738, "normalized": "$(110)_\\alpha$"}
+{"marker": "⟦HW3_FORMULA_00263⟧", "kind": "formula", "raw": "$\\alpha$", "start": 107739, "end": 107747, "normalized": "$\\alpha$"}
+{"marker": "⟦HW3_FORMULA_00264⟧", "kind": "formula", "raw": "$I_{(111)\\gamma}$", "start": 107755, "end": 107772, "normalized": "$I_{(111)\\gamma}$"}
+{"marker": "⟦HW3_FORMULA_00265⟧", "kind": "formula", "raw": "$(111)_{\\gamma}$", "start": 107810, "end": 107826, "normalized": "$(111)_{\\gamma}$"}
+{"marker": "⟦HW3_UNIT_00266⟧", "kind": "unit", "raw": "6 мм", "start": 108388, "end": 108392, "normalized": "6 мм"}
+{"marker": "⟦HW3_UNIT_00267⟧", "kind": "unit", "raw": "35 мм", "start": 109190, "end": 109195, "normalized": "35 мм"}
+{"marker": "⟦HW3_UNIT_00268⟧", "kind": "unit", "raw": "2 мм", "start": 109207, "end": 109211, "normalized": "2 мм"}
+{"marker": "⟦HW3_UNIT_00269⟧", "kind": "unit", "raw": "60 мм", "start": 109476, "end": 109481, "normalized": "60 мм"}
+{"marker": "⟦HW3_FORMULA_00270⟧", "kind": "formula", "raw": "$^{-1}$", "start": 109522, "end": 109529, "normalized": "$^{-1}$"}
+{"marker": "⟦HW3_UNIT_00271⟧", "kind": "unit", "raw": "15 °C", "start": 109765, "end": 109770, "normalized": "15 °C"}
+{"marker": "⟦HW3_FORMULA_00272⟧", "kind": "formula", "raw": "$M_{n}$", "start": 110011, "end": 110018, "normalized": "$M_{n}$"}
+{"marker": "⟦HW3_UNIT_00273⟧", "kind": "unit", "raw": "1,5 мм", "start": 110996, "end": 111002, "normalized": "1,5 мм"}
+{"marker": "⟦HW3_UNIT_00274⟧", "kind": "unit", "raw": "1 °C", "start": 111977, "end": 111981, "normalized": "1 °C"}
+{"marker": "⟦HW3_UNIT_00275⟧", "kind": "unit", "raw": "24 мм", "start": 112011, "end": 112016, "normalized": "24 мм"}
+{"marker": "⟦HW3_UNIT_00276⟧", "kind": "unit", "raw": "0,1 °C", "start": 112103, "end": 112109, "normalized": "0,1 °C"}
+{"marker": "⟦HW3_UNIT_00277⟧", "kind": "unit", "raw": "5 °C", "start": 112796, "end": 112800, "normalized": "5 °C"}
+{"marker": "⟦HW3_FORMULA_00278⟧", "kind": "formula", "raw": "$t_{н.ф.}$", "start": 113675, "end": 113685, "normalized": "$t_{н.ф.}$"}
+{"marker": "⟦HW3_FORMULA_00279⟧", "kind": "formula", "raw": "$t_{н.п.}$", "start": 113728, "end": 113738, "normalized": "$t_{н.п.}$"}
+{"marker": "⟦HW3_FORMULA_00280⟧", "kind": "formula", "raw": "$t_{н.б.}$", "start": 113752, "end": 113762, "normalized": "$t_{н.б.}$"}
+{"marker": "⟦HW3_FORMULA_00281⟧", "kind": "formula", "raw": "$t_{н.м.}$", "start": 113776, "end": 113786, "normalized": "$t_{н.м.}$"}
+{"marker": "⟦HW3_FORMULA_00282⟧", "kind": "formula", "raw": "$t_{к.п.}$", "start": 113803, "end": 113813, "normalized": "$t_{к.п.}$"}
+{"marker": "⟦HW3_UNIT_00283⟧", "kind": "unit", "raw": "6 мм", "start": 115370, "end": 115374, "normalized": "6 мм"}
+{"marker": "⟦HW3_UNIT_00284⟧", "kind": "unit", "raw": "4 мм", "start": 115399, "end": 115403, "normalized": "4 мм"}
+{"marker": "⟦HW3_UNIT_00285⟧", "kind": "unit", "raw": "1 мм", "start": 115574, "end": 115578, "normalized": "1 мм"}
+{"marker": "⟦HW3_UNIT_00286⟧", "kind": "unit", "raw": "350 °C", "start": 115848, "end": 115854, "normalized": "350 °C"}
+{"marker": "⟦HW3_FORMULA_00287⟧", "kind": "formula", "raw": "$T_{max}$", "start": 115887, "end": 115896, "normalized": "$T_{max}$"}
+{"marker": "⟦HW3_UNIT_00288⟧", "kind": "unit", "raw": "1300 °C", "start": 115951, "end": 115958, "normalized": "1300 °C"}
+{"marker": "⟦HW3_UNIT_00289⟧", "kind": "unit", "raw": "0,15 мм", "start": 116265, "end": 116272, "normalized": "0,15 мм"}
+{"marker": "⟦HW3_FORMULA_00290⟧", "kind": "formula", "raw": "$A_{c3}$", "start": 116522, "end": 116530, "normalized": "$A_{c3}$"}
+{"marker": "⟦HW3_FORMULA_00291⟧", "kind": "formula", "raw": "$T_{max}$", "start": 116536, "end": 116545, "normalized": "$T_{max}$"}
+{"marker": "⟦HW3_FORMULA_00292⟧", "kind": "formula", "raw": "$T_{max}$", "start": 116575, "end": 116584, "normalized": "$T_{max}$"}
+{"marker": "⟦HW3_UNIT_00293⟧", "kind": "unit", "raw": "800-700 °C", "start": 116645, "end": 116655, "normalized": "800-700 °C"}
+{"marker": "⟦HW3_UNIT_00294⟧", "kind": "unit", "raw": "55 мм", "start": 118716, "end": 118721, "normalized": "55 мм"}
+{"marker": "⟦HW3_UNIT_00295⟧", "kind": "unit", "raw": "1300 °C", "start": 118939, "end": 118946, "normalized": "1300 °C"}
+{"marker": "⟦HW3_UNIT_00296⟧", "kind": "unit", "raw": "300 °C", "start": 119050, "end": 119056, "normalized": "300 °C"}
+{"marker": "⟦HW3_UNIT_00297⟧", "kind": "unit", "raw": "-80 °C", "start": 119167, "end": 119173, "normalized": "-80 °C"}
+{"marker": "⟦HW3_GRADE_00298⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 119448, "end": 119455, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_FORMULA_00299⟧", "kind": "formula", "raw": "$S_{v}$", "start": 120146, "end": 120153, "normalized": "$S_{v}$"}
+{"marker": "⟦HW3_FORMULA_00300⟧", "kind": "formula", "raw": "$S_{v}$", "start": 120190, "end": 120197, "normalized": "$S_{v}$"}
+{"marker": "⟦HW3_UNIT_00301⟧", "kind": "unit", "raw": "6 мм", "start": 121362, "end": 121366, "normalized": "6 мм"}
+{"marker": "⟦HW3_UNIT_00302⟧", "kind": "unit", "raw": "20,5 мм", "start": 121386, "end": 121393, "normalized": "20,5 мм"}
+{"marker": "⟦HW3_UNIT_00303⟧", "kind": "unit", "raw": "1150 °C", "start": 121520, "end": 121527, "normalized": "1150 °C"}
+{"marker": "⟦HW3_UNIT_00304⟧", "kind": "unit", "raw": "950 °C", "start": 121581, "end": 121587, "normalized": "950 °C"}
+{"marker": "⟦HW3_FORMULA_00305⟧", "kind": "formula", "raw": "$T_{кп} = 960^{\\circ}C$", "start": 121652, "end": 121675, "normalized": "$T_{кп} = 960^{\\circ}C$"}
+{"marker": "⟦HW3_FORMULA_00306⟧", "kind": "formula", "raw": "$T_{кп} = 960^{\\circ}C$", "start": 121722, "end": 121745, "normalized": "$T_{кп} = 960^{\\circ}C$"}
+{"marker": "⟦HW3_UNIT_00307⟧", "kind": "unit", "raw": "0,5 °C", "start": 121829, "end": 121835, "normalized": "0,5 °C"}
+{"marker": "⟦HW3_UNIT_00308⟧", "kind": "unit", "raw": "850 °C", "start": 121841, "end": 121847, "normalized": "850 °C"}
+{"marker": "⟦HW3_FORMULA_00309⟧", "kind": "formula", "raw": "$T_{KII} = 800\\ ^{\\circ}C$", "start": 121917, "end": 121943, "normalized": "$T_{KII} = 800\\ ^{\\circ}C$"}
+{"marker": "⟦HW3_FORMULA_00310⟧", "kind": "formula", "raw": "$T_{кп} = 740 \\, ^{\\circ}C$", "start": 122014, "end": 122041, "normalized": "$T_{кп} = 740 \\, ^{\\circ}C$"}
+{"marker": "⟦HW3_UNIT_00311⟧", "kind": "unit", "raw": "950 °C", "start": 122327, "end": 122333, "normalized": "950 °C"}
+{"marker": "⟦HW3_UNIT_00312⟧", "kind": "unit", "raw": "1150 °C", "start": 122426, "end": 122433, "normalized": "1150 °C"}
+{"marker": "⟦HW3_UNIT_00313⟧", "kind": "unit", "raw": "950 °C", "start": 122490, "end": 122496, "normalized": "950 °C"}
+{"marker": "⟦HW3_UNIT_00314⟧", "kind": "unit", "raw": "1150 °C", "start": 122646, "end": 122653, "normalized": "1150 °C"}
+{"marker": "⟦HW3_UNIT_00315⟧", "kind": "unit", "raw": "960 °C", "start": 122809, "end": 122815, "normalized": "960 °C"}
+{"marker": "⟦HW3_UNIT_00316⟧", "kind": "unit", "raw": "20 %", "start": 122854, "end": 122858, "normalized": "20 %"}
+{"marker": "⟦HW3_UNIT_00317⟧", "kind": "unit", "raw": "950 °C", "start": 123239, "end": 123245, "normalized": "950 °C"}
+{"marker": "⟦HW3_UNIT_00318⟧", "kind": "unit", "raw": "1150 °C", "start": 123300, "end": 123307, "normalized": "1150 °C"}
+{"marker": "⟦HW3_FORMULA_00319⟧", "kind": "formula", "raw": "$T_{кп} = 960^{\\circ}C$", "start": 123373, "end": 123396, "normalized": "$T_{кп} = 960^{\\circ}C$"}
+{"marker": "⟦HW3_FORMULA_00320⟧", "kind": "formula", "raw": "$_{кп}$", "start": 123444, "end": 123451, "normalized": "$_{кп}$"}
+{"marker": "⟦HW3_UNIT_00321⟧", "kind": "unit", "raw": "960 °C", "start": 123454, "end": 123460, "normalized": "960 °C"}
+{"marker": "⟦HW3_UNIT_00322⟧", "kind": "unit", "raw": "0,5 °C", "start": 123544, "end": 123550, "normalized": "0,5 °C"}
+{"marker": "⟦HW3_UNIT_00323⟧", "kind": "unit", "raw": "850 °C", "start": 123556, "end": 123562, "normalized": "850 °C"}
+{"marker": "⟦HW3_UNIT_00324⟧", "kind": "unit", "raw": "1150 °C", "start": 123984, "end": 123991, "normalized": "1150 °C"}
+{"marker": "⟦HW3_FORMULA_00325⟧", "kind": "formula", "raw": "$\\sim0,5\\ ^{\\circ}C/s$", "start": 124105, "end": 124127, "normalized": "$\\sim0,5\\ ^{\\circ}C/s$"}
+{"marker": "⟦HW3_GRADE_00326⟧", "kind": "grade", "raw": "09Г2ФБ", "start": 124294, "end": 124300, "normalized": "09Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00327⟧", "kind": "unit", "raw": "960 °C", "start": 124385, "end": 124391, "normalized": "960 °C"}
+{"marker": "⟦HW3_UNIT_00328⟧", "kind": "unit", "raw": "20 %", "start": 124406, "end": 124410, "normalized": "20 %"}
+{"marker": "⟦HW3_UNIT_00329⟧", "kind": "unit", "raw": "0,5 °C", "start": 124703, "end": 124709, "normalized": "0,5 °C"}
+{"marker": "⟦HW3_UNIT_00330⟧", "kind": "unit", "raw": "800 °C", "start": 125310, "end": 125316, "normalized": "800 °C"}
+{"marker": "⟦HW3_UNIT_00331⟧", "kind": "unit", "raw": "740 °C", "start": 125352, "end": 125358, "normalized": "740 °C"}
+{"marker": "⟦HW3_UNIT_00332⟧", "kind": "unit", "raw": "800 °C", "start": 125611, "end": 125617, "normalized": "800 °C"}
+{"marker": "⟦HW3_UNIT_00333⟧", "kind": "unit", "raw": "740 °C", "start": 125664, "end": 125670, "normalized": "740 °C"}
+{"marker": "⟦HW3_UNIT_00334⟧", "kind": "unit", "raw": "4 %", "start": 125692, "end": 125695, "normalized": "4 %"}
+{"marker": "⟦HW3_UNIT_00335⟧", "kind": "unit", "raw": "740 °C", "start": 126186, "end": 126192, "normalized": "740 °C"}
+{"marker": "⟦HW3_UNIT_00336⟧", "kind": "unit", "raw": "20-25 %", "start": 126235, "end": 126242, "normalized": "20-25 %"}
+{"marker": "⟦HW3_GRADE_00337⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 127045, "end": 127052, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00338⟧", "kind": "unit", "raw": "740 °C", "start": 127179, "end": 127185, "normalized": "740 °C"}
+{"marker": "⟦HW3_FORMULA_00339⟧", "kind": "formula", "raw": "$_{v}$", "start": 127482, "end": 127488, "normalized": "$_{v}$"}
+{"marker": "⟦HW3_UNIT_00340⟧", "kind": "unit", "raw": "1100-960 °C", "start": 128031, "end": 128042, "normalized": "1100-960 °C"}
+{"marker": "⟦HW3_UNIT_00341⟧", "kind": "unit", "raw": "0,5 °C", "start": 128219, "end": 128225, "normalized": "0,5 °C"}
+{"marker": "⟦HW3_UNIT_00342⟧", "kind": "unit", "raw": "850 °C", "start": 128380, "end": 128386, "normalized": "850 °C"}
+{"marker": "⟦HW3_UNIT_00343⟧", "kind": "unit", "raw": "780-740 °C", "start": 128703, "end": 128713, "normalized": "780-740 °C"}
+{"marker": "⟦HW3_GRADE_00344⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 128998, "end": 129005, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00345⟧", "kind": "unit", "raw": "950 °C", "start": 129652, "end": 129658, "normalized": "950 °C"}
+{"marker": "⟦HW3_UNIT_00346⟧", "kind": "unit", "raw": "800 °C", "start": 129722, "end": 129728, "normalized": "800 °C"}
+{"marker": "⟦HW3_UNIT_00347⟧", "kind": "unit", "raw": "1150 °C", "start": 129894, "end": 129901, "normalized": "1150 °C"}
+{"marker": "⟦HW3_UNIT_00348⟧", "kind": "unit", "raw": "1000 °C", "start": 129995, "end": 130002, "normalized": "1000 °C"}
+{"marker": "⟦HW3_UNIT_00349⟧", "kind": "unit", "raw": "20 %", "start": 130076, "end": 130080, "normalized": "20 %"}
+{"marker": "⟦HW3_UNIT_00350⟧", "kind": "unit", "raw": "960 °C", "start": 130147, "end": 130153, "normalized": "960 °C"}
+{"marker": "⟦HW3_UNIT_00351⟧", "kind": "unit", "raw": "0,5 °C", "start": 130245, "end": 130251, "normalized": "0,5 °C"}
+{"marker": "⟦HW3_UNIT_00352⟧", "kind": "unit", "raw": "50 мм", "start": 130332, "end": 130337, "normalized": "50 мм"}
+{"marker": "⟦HW3_UNIT_00353⟧", "kind": "unit", "raw": "20 %", "start": 130464, "end": 130468, "normalized": "20 %"}
+{"marker": "⟦HW3_UNIT_00354⟧", "kind": "unit", "raw": "840-800 °C", "start": 130533, "end": 130543, "normalized": "840-800 °C"}
+{"marker": "⟦HW3_UNIT_00355⟧", "kind": "unit", "raw": "780-740 °C", "start": 130583, "end": 130593, "normalized": "780-740 °C"}
+{"marker": "⟦HW3_UNIT_00356⟧", "kind": "unit", "raw": "800 °C", "start": 130948, "end": 130954, "normalized": "800 °C"}
+{"marker": "⟦HW3_UNIT_00357⟧", "kind": "unit", "raw": "740 °C", "start": 130961, "end": 130967, "normalized": "740 °C"}
+{"marker": "⟦HW3_GRADE_00358⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 131169, "end": 131176, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00359⟧", "kind": "unit", "raw": "800 °C", "start": 131227, "end": 131233, "normalized": "800 °C"}
+{"marker": "⟦HW3_GRADE_00360⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 131337, "end": 131344, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00361⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 131347, "end": 131353, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00362⟧", "kind": "unit", "raw": "740 °C", "start": 131417, "end": 131423, "normalized": "740 °C"}
+{"marker": "⟦HW3_GRADE_00363⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 131479, "end": 131486, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00364⟧", "kind": "unit", "raw": "0,1 °C", "start": 131691, "end": 131697, "normalized": "0,1 °C"}
+{"marker": "⟦HW3_GRADE_00365⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 131931, "end": 131937, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00366⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 132071, "end": 132077, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00367⟧", "kind": "unit", "raw": "0,12%", "start": 132086, "end": 132091, "normalized": "0,12%"}
+{"marker": "⟦HW3_UNIT_00368⟧", "kind": "unit", "raw": "1,62 %", "start": 132095, "end": 132101, "normalized": "1,62 %"}
+{"marker": "⟦HW3_UNIT_00369⟧", "kind": "unit", "raw": "0,28 %", "start": 132106, "end": 132112, "normalized": "0,28 %"}
+{"marker": "⟦HW3_UNIT_00370⟧", "kind": "unit", "raw": "0,033 %", "start": 132117, "end": 132124, "normalized": "0,033 %"}
+{"marker": "⟦HW3_UNIT_00371⟧", "kind": "unit", "raw": "0,005 %", "start": 132129, "end": 132136, "normalized": "0,005 %"}
+{"marker": "⟦HW3_UNIT_00372⟧", "kind": "unit", "raw": "0,014 %", "start": 132140, "end": 132147, "normalized": "0,014 %"}
+{"marker": "⟦HW3_GRADE_00373⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 132194, "end": 132201, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00374⟧", "kind": "unit", "raw": "2 °C", "start": 132374, "end": 132378, "normalized": "2 °C"}
+{"marker": "⟦HW3_UNIT_00375⟧", "kind": "unit", "raw": "5-7 %", "start": 132490, "end": 132495, "normalized": "5-7 %"}
+{"marker": "⟦HW3_FORMULA_00376⟧", "kind": "formula", "raw": "$A_{r3}$", "start": 132924, "end": 132932, "normalized": "$A_{r3}$"}
+{"marker": "⟦HW3_FORMULA_00377⟧", "kind": "formula", "raw": "$\\gamma+\\alpha-$", "start": 133005, "end": 133021, "normalized": "$\\gamma+\\alpha-$"}
+{"marker": "⟦HW3_UNIT_00378⟧", "kind": "unit", "raw": "1,5-2 °C", "start": 133071, "end": 133079, "normalized": "1,5-2 °C"}
+{"marker": "⟦HW3_GRADE_00379⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 133182, "end": 133189, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00380⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 133242, "end": 133248, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00381⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 133346, "end": 133353, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00382⟧", "kind": "unit", "raw": "800 °C", "start": 133524, "end": 133530, "normalized": "800 °C"}
+{"marker": "⟦HW3_FORMULA_00383⟧", "kind": "formula", "raw": "$_{r3}$", "start": 133655, "end": 133662, "normalized": "$_{r3}$"}
+{"marker": "⟦HW3_UNIT_00384⟧", "kind": "unit", "raw": "15-20 °C", "start": 133677, "end": 133685, "normalized": "15-20 °C"}
+{"marker": "⟦HW3_FORMULA_00385⟧", "kind": "formula", "raw": "$_{H}$", "start": 133714, "end": 133720, "normalized": "$_{H}$"}
+{"marker": "⟦HW3_FORMULA_00386⟧", "kind": "formula", "raw": "$_{H}$", "start": 133750, "end": 133756, "normalized": "$_{H}$"}
+{"marker": "⟦HW3_UNIT_00387⟧", "kind": "unit", "raw": "10-15 °C", "start": 133770, "end": 133778, "normalized": "10-15 °C"}
+{"marker": "⟦HW3_UNIT_00388⟧", "kind": "unit", "raw": "800 °C", "start": 134024, "end": 134030, "normalized": "800 °C"}
+{"marker": "⟦HW3_FORMULA_00389⟧", "kind": "formula", "raw": "$_{H}$", "start": 134039, "end": 134045, "normalized": "$_{H}$"}
+{"marker": "⟦HW3_FORMULA_00390⟧", "kind": "formula", "raw": "$_{H}$", "start": 134049, "end": 134055, "normalized": "$_{H}$"}
+{"marker": "⟦HW3_UNIT_00391⟧", "kind": "unit", "raw": "5-10 °C", "start": 134070, "end": 134077, "normalized": "5-10 °C"}
+{"marker": "⟦HW3_UNIT_00392⟧", "kind": "unit", "raw": "200 °C", "start": 134892, "end": 134898, "normalized": "200 °C"}
+{"marker": "⟦HW3_GRADE_00393⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 135319, "end": 135326, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00394⟧", "kind": "unit", "raw": "800°C", "start": 135456, "end": 135461, "normalized": "800°C"}
+{"marker": "⟦HW3_UNIT_00395⟧", "kind": "unit", "raw": "740 °C", "start": 135520, "end": 135526, "normalized": "740 °C"}
+{"marker": "⟦HW3_UNIT_00396⟧", "kind": "unit", "raw": "740 °C", "start": 135821, "end": 135827, "normalized": "740 °C"}
+{"marker": "⟦HW3_UNIT_00397⟧", "kind": "unit", "raw": "200 °C", "start": 136294, "end": 136300, "normalized": "200 °C"}
+{"marker": "⟦HW3_UNIT_00398⟧", "kind": "unit", "raw": "200 °C", "start": 136528, "end": 136534, "normalized": "200 °C"}
+{"marker": "⟦HW3_UNIT_00399⟧", "kind": "unit", "raw": "4-6 %", "start": 136634, "end": 136639, "normalized": "4-6 %"}
+{"marker": "⟦HW3_UNIT_00400⟧", "kind": "unit", "raw": "0,1 °C", "start": 136799, "end": 136805, "normalized": "0,1 °C"}
+{"marker": "⟦HW3_UNIT_00401⟧", "kind": "unit", "raw": "3,5 °C", "start": 136938, "end": 136944, "normalized": "3,5 °C"}
+{"marker": "⟦HW3_GRADE_00402⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 137140, "end": 137147, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00403⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 137232, "end": 137239, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00404⟧", "kind": "unit", "raw": "740 °C", "start": 137340, "end": 137346, "normalized": "740 °C"}
+{"marker": "⟦HW3_UNIT_00405⟧", "kind": "unit", "raw": "0,1 °C", "start": 137402, "end": 137408, "normalized": "0,1 °C"}
+{"marker": "⟦HW3_FORMULA_00406⟧", "kind": "formula", "raw": "$_{кп}$", "start": 137618, "end": 137625, "normalized": "$_{кп}$"}
+{"marker": "⟦HW3_UNIT_00407⟧", "kind": "unit", "raw": "800 °C", "start": 137626, "end": 137632, "normalized": "800 °C"}
+{"marker": "⟦HW3_FORMULA_00408⟧", "kind": "formula", "raw": "$_{кп}$", "start": 137699, "end": 137706, "normalized": "$_{кп}$"}
+{"marker": "⟦HW3_UNIT_00409⟧", "kind": "unit", "raw": "740 °C", "start": 137707, "end": 137713, "normalized": "740 °C"}
+{"marker": "⟦HW3_UNIT_00410⟧", "kind": "unit", "raw": "0,1 °C", "start": 138060, "end": 138066, "normalized": "0,1 °C"}
+{"marker": "⟦HW3_UNIT_00411⟧", "kind": "unit", "raw": "0,1 °C", "start": 138186, "end": 138192, "normalized": "0,1 °C"}
+{"marker": "⟦HW3_UNIT_00412⟧", "kind": "unit", "raw": "0,1 °C", "start": 138545, "end": 138551, "normalized": "0,1 °C"}
+{"marker": "⟦HW3_UNIT_00413⟧", "kind": "unit", "raw": "0,5 °C", "start": 138747, "end": 138753, "normalized": "0,5 °C"}
+{"marker": "⟦HW3_UNIT_00414⟧", "kind": "unit", "raw": "2-3,5 °C", "start": 138909, "end": 138917, "normalized": "2-3,5 °C"}
+{"marker": "⟦HW3_UNIT_00415⟧", "kind": "unit", "raw": "3,5 °C", "start": 139632, "end": 139638, "normalized": "3,5 °C"}
+{"marker": "⟦HW3_UNIT_00416⟧", "kind": "unit", "raw": "70 °C", "start": 139822, "end": 139827, "normalized": "70 °C"}
+{"marker": "⟦HW3_UNIT_00417⟧", "kind": "unit", "raw": "10 °C", "start": 139866, "end": 139871, "normalized": "10 °C"}
+{"marker": "⟦HW3_UNIT_00418⟧", "kind": "unit", "raw": "10 °C", "start": 140027, "end": 140032, "normalized": "10 °C"}
+{"marker": "⟦HW3_UNIT_00419⟧", "kind": "unit", "raw": "70 °C", "start": 140108, "end": 140113, "normalized": "70 °C"}
+{"marker": "⟦HW3_UNIT_00420⟧", "kind": "unit", "raw": "200 °C", "start": 140363, "end": 140369, "normalized": "200 °C"}
+{"marker": "⟦HW3_GRADE_00421⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 141035, "end": 141042, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00422⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 141448, "end": 141455, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00423⟧", "kind": "unit", "raw": "0,15 %", "start": 141563, "end": 141569, "normalized": "0,15 %"}
+{"marker": "⟦HW3_UNIT_00424⟧", "kind": "unit", "raw": "1550 мм", "start": 141707, "end": 141714, "normalized": "1550 мм"}
+{"marker": "⟦HW3_UNIT_00425⟧", "kind": "unit", "raw": "1180 °C", "start": 141795, "end": 141802, "normalized": "1180 °C"}
+{"marker": "⟦HW3_UNIT_00426⟧", "kind": "unit", "raw": "1000-960 °C", "start": 141846, "end": 141857, "normalized": "1000-960 °C"}
+{"marker": "⟦HW3_UNIT_00427⟧", "kind": "unit", "raw": "16,8 мм", "start": 141948, "end": 141955, "normalized": "16,8 мм"}
+{"marker": "⟦HW3_UNIT_00428⟧", "kind": "unit", "raw": "700 °C", "start": 142076, "end": 142082, "normalized": "700 °C"}
+{"marker": "⟦HW3_UNIT_00429⟧", "kind": "unit", "raw": "50 °C", "start": 142096, "end": 142101, "normalized": "50 °C"}
+{"marker": "⟦HW3_UNIT_00430⟧", "kind": "unit", "raw": "530-540 °C", "start": 142207, "end": 142217, "normalized": "530-540 °C"}
+{"marker": "⟦HW3_UNIT_00431⟧", "kind": "unit", "raw": "400-100 °C", "start": 142344, "end": 142354, "normalized": "400-100 °C"}
+{"marker": "⟦HW3_FORMULA_00432⟧", "kind": "formula", "raw": "$T_{кп}$", "start": 142523, "end": 142531, "normalized": "$T_{кп}$"}
+{"marker": "⟦HW3_UNIT_00433⟧", "kind": "unit", "raw": "16,8 мм", "start": 142703, "end": 142710, "normalized": "16,8 мм"}
+{"marker": "⟦HW3_GRADE_00434⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 142728, "end": 142735, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_FORMULA_00435⟧", "kind": "formula", "raw": "$T_{kl}$", "start": 142811, "end": 142819, "normalized": "$T_{kl}$"}
+{"marker": "⟦HW3_UNIT_00436⟧", "kind": "unit", "raw": "800 °C", "start": 142860, "end": 142866, "normalized": "800 °C"}
+{"marker": "⟦HW3_FORMULA_00437⟧", "kind": "formula", "raw": "$A_{r3}$", "start": 143103, "end": 143111, "normalized": "$A_{r3}$"}
+{"marker": "⟦HW3_FORMULA_00438⟧", "kind": "formula", "raw": "$\\sim760-740\\ ^{\\circ}C$", "start": 143115, "end": 143139, "normalized": "$\\sim760-740\\ ^{\\circ}C$"}
+{"marker": "⟦HW3_UNIT_00439⟧", "kind": "unit", "raw": "700 °C", "start": 143350, "end": 143356, "normalized": "700 °C"}
+{"marker": "⟦HW3_UNIT_00440⟧", "kind": "unit", "raw": "850 °C", "start": 143418, "end": 143424, "normalized": "850 °C"}
+{"marker": "⟦HW3_UNIT_00441⟧", "kind": "unit", "raw": "0,25 %", "start": 143492, "end": 143498, "normalized": "0,25 %"}
+{"marker": "⟦HW3_UNIT_00442⟧", "kind": "unit", "raw": "0,16 %", "start": 143596, "end": 143602, "normalized": "0,16 %"}
+{"marker": "⟦HW3_UNIT_00443⟧", "kind": "unit", "raw": "0,25 %", "start": 143795, "end": 143801, "normalized": "0,25 %"}
+{"marker": "⟦HW3_UNIT_00444⟧", "kind": "unit", "raw": "0,16 %", "start": 143930, "end": 143936, "normalized": "0,16 %"}
+{"marker": "⟦HW3_UNIT_00445⟧", "kind": "unit", "raw": "0,2 %", "start": 144154, "end": 144159, "normalized": "0,2 %"}
+{"marker": "⟦HW3_UNIT_00446⟧", "kind": "unit", "raw": "0,16 %", "start": 144207, "end": 144213, "normalized": "0,16 %"}
+{"marker": "⟦HW3_FORMULA_00447⟧", "kind": "formula", "raw": "$\\delta_{5}$", "start": 144352, "end": 144364, "normalized": "$\\delta_{5}$"}
+{"marker": "⟦HW3_UNIT_00448⟧", "kind": "unit", "raw": "0,16 %", "start": 144384, "end": 144390, "normalized": "0,16 %"}
+{"marker": "⟦HW3_FORMULA_00449⟧", "kind": "formula", "raw": "$T_{кп}$", "start": 144546, "end": 144554, "normalized": "$T_{кп}$"}
+{"marker": "⟦HW3_UNIT_00450⟧", "kind": "unit", "raw": "+20 °C", "start": 144854, "end": 144860, "normalized": "+20 °C"}
+{"marker": "⟦HW3_UNIT_00451⟧", "kind": "unit", "raw": "700 °C", "start": 144951, "end": 144957, "normalized": "700 °C"}
+{"marker": "⟦HW3_FORMULA_00452⟧", "kind": "formula", "raw": "$T_{кп}$", "start": 145177, "end": 145185, "normalized": "$T_{кп}$"}
+{"marker": "⟦HW3_FORMULA_00453⟧", "kind": "formula", "raw": "$T_{кп}$", "start": 145281, "end": 145289, "normalized": "$T_{кп}$"}
+{"marker": "⟦HW3_FORMULA_00454⟧", "kind": "formula", "raw": "$A_{г3}$", "start": 145315, "end": 145323, "normalized": "$A_{г3}$"}
+{"marker": "⟦HW3_UNIT_00455⟧", "kind": "unit", "raw": "700 °C", "start": 145646, "end": 145652, "normalized": "700 °C"}
+{"marker": "⟦HW3_UNIT_00456⟧", "kind": "unit", "raw": "16,8 мм", "start": 145693, "end": 145700, "normalized": "16,8 мм"}
+{"marker": "⟦HW3_UNIT_00457⟧", "kind": "unit", "raw": "720 °C", "start": 146262, "end": 146268, "normalized": "720 °C"}
+{"marker": "⟦HW3_GRADE_00458⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 146363, "end": 146370, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00459⟧", "kind": "unit", "raw": "1100-960 °C", "start": 146732, "end": 146743, "normalized": "1100-960 °C"}
+{"marker": "⟦HW3_UNIT_00460⟧", "kind": "unit", "raw": "850 °C", "start": 147031, "end": 147037, "normalized": "850 °C"}
+{"marker": "⟦HW3_UNIT_00461⟧", "kind": "unit", "raw": "850-800 °C", "start": 147309, "end": 147319, "normalized": "850-800 °C"}
+{"marker": "⟦HW3_UNIT_00462⟧", "kind": "unit", "raw": "780-740 °C", "start": 147473, "end": 147483, "normalized": "780-740 °C"}
+{"marker": "⟦HW3_UNIT_00463⟧", "kind": "unit", "raw": "20-25 %", "start": 147512, "end": 147519, "normalized": "20-25 %"}
+{"marker": "⟦HW3_FORMULA_00464⟧", "kind": "formula", "raw": "$_{r3}$", "start": 148151, "end": 148158, "normalized": "$_{r3}$"}
+{"marker": "⟦HW3_UNIT_00465⟧", "kind": "unit", "raw": "15-20 °C", "start": 148173, "end": 148181, "normalized": "15-20 °C"}
+{"marker": "⟦HW3_FORMULA_00466⟧", "kind": "formula", "raw": "$_{n}$", "start": 148210, "end": 148216, "normalized": "$_{n}$"}
+{"marker": "⟦HW3_FORMULA_00467⟧", "kind": "formula", "raw": "$_{n}$", "start": 148246, "end": 148252, "normalized": "$_{n}$"}
+{"marker": "⟦HW3_UNIT_00468⟧", "kind": "unit", "raw": "10-15 °C", "start": 148266, "end": 148274, "normalized": "10-15 °C"}
+{"marker": "⟦HW3_UNIT_00469⟧", "kind": "unit", "raw": "15-20 °C", "start": 148419, "end": 148427, "normalized": "15-20 °C"}
+{"marker": "⟦HW3_UNIT_00470⟧", "kind": "unit", "raw": "1-3 °C", "start": 148500, "end": 148506, "normalized": "1-3 °C"}
+{"marker": "⟦HW3_GRADE_00471⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 148647, "end": 148654, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00472⟧", "kind": "unit", "raw": "720 °C", "start": 149025, "end": 149031, "normalized": "720 °C"}
+{"marker": "⟦HW3_GRADE_00473⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 149322, "end": 149329, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00474⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 149631, "end": 149638, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00475⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 149917, "end": 149924, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00476⟧", "kind": "unit", "raw": "1220 мм", "start": 149958, "end": 149965, "normalized": "1220 мм"}
+{"marker": "⟦HW3_GRADE_00477⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 150067, "end": 150073, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00478⟧", "kind": "unit", "raw": "1850 мм", "start": 150361, "end": 150368, "normalized": "1850 мм"}
+{"marker": "⟦HW3_UNIT_00479⟧", "kind": "unit", "raw": "1180 °C", "start": 150483, "end": 150490, "normalized": "1180 °C"}
+{"marker": "⟦HW3_UNIT_00480⟧", "kind": "unit", "raw": "1000 – 960 °C", "start": 150521, "end": 150534, "normalized": "1000 – 960 °C"}
+{"marker": "⟦HW3_UNIT_00481⟧", "kind": "unit", "raw": "18,7 мм", "start": 150617, "end": 150624, "normalized": "18,7 мм"}
+{"marker": "⟦HW3_UNIT_00482⟧", "kind": "unit", "raw": "810 – 700 °C", "start": 150648, "end": 150660, "normalized": "810 – 700 °C"}
+{"marker": "⟦HW3_UNIT_00483⟧", "kind": "unit", "raw": "500 – 100 °C", "start": 150715, "end": 150727, "normalized": "500 – 100 °C"}
+{"marker": "⟦HW3_UNIT_00484⟧", "kind": "unit", "raw": "330 мм", "start": 150864, "end": 150870, "normalized": "330 мм"}
+{"marker": "⟦HW3_UNIT_00485⟧", "kind": "unit", "raw": "150 – 800 °C", "start": 150912, "end": 150924, "normalized": "150 – 800 °C"}
+{"marker": "⟦HW3_UNIT_00486⟧", "kind": "unit", "raw": "10 мм", "start": 151225, "end": 151230, "normalized": "10 мм"}
+{"marker": "⟦HW3_UNIT_00487⟧", "kind": "unit", "raw": "50 мм", "start": 151250, "end": 151255, "normalized": "50 мм"}
+{"marker": "⟦HW3_UNIT_00488⟧", "kind": "unit", "raw": "20,5 мм", "start": 151359, "end": 151366, "normalized": "20,5 мм"}
+{"marker": "⟦HW3_GRADE_00489⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 151376, "end": 151383, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00490⟧", "kind": "unit", "raw": "18,7 мм", "start": 151416, "end": 151423, "normalized": "18,7 мм"}
+{"marker": "⟦HW3_GRADE_00491⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 151433, "end": 151439, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00492⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 151503, "end": 151510, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00493⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 151714, "end": 151721, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00494⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 151738, "end": 151744, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00495⟧", "kind": "unit", "raw": "20 °C", "start": 151781, "end": 151786, "normalized": "20 °C"}
+{"marker": "⟦HW3_GRADE_00496⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 151891, "end": 151898, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00497⟧", "kind": "unit", "raw": "400 °C", "start": 151921, "end": 151927, "normalized": "400 °C"}
+{"marker": "⟦HW3_UNIT_00498⟧", "kind": "unit", "raw": "550 °C", "start": 152029, "end": 152035, "normalized": "550 °C"}
+{"marker": "⟦HW3_FORMULA_00499⟧", "kind": "formula", "raw": "$_{т}$", "start": 152078, "end": 152084, "normalized": "$_{т}$"}
+{"marker": "⟦HW3_UNIT_00500⟧", "kind": "unit", "raw": "650 – 700 °C", "start": 152114, "end": 152126, "normalized": "650 – 700 °C"}
+{"marker": "⟦HW3_UNIT_00501⟧", "kind": "unit", "raw": "700 °C", "start": 152324, "end": 152330, "normalized": "700 °C"}
+{"marker": "⟦HW3_GRADE_00502⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 152395, "end": 152401, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_FORMULA_00503⟧", "kind": "formula", "raw": "$\\sigma_{\\mathrm{T}}$", "start": 152437, "end": 152458, "normalized": "$\\sigma_{\\mathrm{T}}$"}
+{"marker": "⟦HW3_FORMULA_00504⟧", "kind": "formula", "raw": "$\\sigma_{\\mathrm{B}}$", "start": 152460, "end": 152481, "normalized": "$\\sigma_{\\mathrm{B}}$"}
+{"marker": "⟦HW3_FORMULA_00505⟧", "kind": "formula", "raw": "$\\delta_{2}$", "start": 152484, "end": 152496, "normalized": "$\\delta_{2}$"}
+{"marker": "⟦HW3_GRADE_00506⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 152731, "end": 152738, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00507⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 152755, "end": 152761, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_TABLE_00508⟧", "kind": "table", "raw": "<table><tr><td rowspan=\"2\">Сталь</td><td rowspan=\"2\">Номер плавки</td><td rowspan=\"2\">Толщина листа, мм</td><td rowspan=\"2\"> $\\sigma_{\\text{T}}$ , H/ $\\text{мм}^{2}$ </td><td rowspan=\"2\"> $\\sigma_{\\text{в}}$ , H/ $\\text{мм}^{2}$ </td><td rowspan=\"2\"> $\\delta(2'')$ , %</td><td rowspan=\"2\"> $\\sigma_{\\text{T}}/\\sigma_{\\text{в}}$ </td><td colspan=\"2\">Ударная вязкость, Дж/ $\\text{см}^{2}$ </td><td rowspan=\"2\">ИПГ (DWTT) при -20°C</td></tr><tr><td> $KCV^{-20}$ </td><td> $KCU^{-60}$ </td></tr><tr><td rowspan=\"3\">05Г2МФБ</td><td>1</td><td rowspan=\"3\">20,5</td><td>555</td><td>655</td><td>29</td><td>0,84</td><td>206</td><td>215</td><td>95</td></tr><tr><td>2</td><td>537</td><td>665</td><td>25</td><td>0,81</td><td>160</td><td>177</td><td>95</td></tr><tr><td>3</td><td>530</td><td>650</td><td>28</td><td>0,82</td><td>210</td><td>221</td><td>95</td></tr><tr><td>10Г2ФБ</td><td>9</td><td>18,7</td><td>515</td><td>580</td><td>28</td><td>0,88</td><td>152</td><td>159</td><td>95</td></tr></table>", "start": 152823, "end": 153811, "normalized": "<table><tr><td rowspan=\"2\">Сталь</td><td rowspan=\"2\">Номер плавки</td><td rowspan=\"2\">Толщина листа, мм</td><td rowspan=\"2\"> $\\sigma_{\\text{T}}$ , H/ $\\text{мм}^{2}$ </td><td rowspan=\"2\"> $\\sigma_{\\text{в}}$ , H/ $\\text{мм}^{2}$ </td><td rowspan=\"2\"> $\\delta(2'')$ , %</td><td rowspan=\"2\"> $\\sigma_{\\text{T}}/\\sigma_{\\text{в}}$ </td><td colspan=\"2\">Ударная вязкость, Дж/ $\\text{см}^{2}$ </td><td rowspan=\"2\">ИПГ (DWTT) при -20°C</td></tr><tr><td> $KCV^{-20}$ </td><td> $KCU^{-60}$ </td></tr><tr><td rowspan=\"3\">05Г2МФБ</td><td>1</td><td rowspan=\"3\">20,5</td><td>555</td><td>655</td><td>29</td><td>0,84</td><td>206</td><td>215</td><td>95</td></tr><tr><td>2</td><td>537</td><td>665</td><td>25</td><td>0,81</td><td>160</td><td>177</td><td>95</td></tr><tr><td>3</td><td>530</td><td>650</td><td>28</td><td>0,82</td><td>210</td><td>221</td><td>95</td></tr><tr><td>10Г2ФБ</td><td>9</td><td>18,7</td><td>515</td><td>580</td><td>28</td><td>0,88</td><td>152</td><td>159</td><td>95</td></tr></table>", "table": {"rows": 6, "cells": 47, "cell_text_sha256": "aeab591b83e0fcd9390fcf56a39baf20eae84f8505b08f6ce4de8d4f3417ae98"}}
+{"marker": "⟦HW3_GRADE_00509⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 153922, "end": 153929, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00510⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 153936, "end": 153942, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_FORMULA_00511⟧", "kind": "formula", "raw": "$A_{c_1} > T < A_{c_3}$", "start": 154046, "end": 154069, "normalized": "$A_{c_1} > T < A_{c_3}$"}
+{"marker": "⟦HW3_UNIT_00512⟧", "kind": "unit", "raw": "800 °C", "start": 154135, "end": 154141, "normalized": "800 °C"}
+{"marker": "⟦HW3_FORMULA_00513⟧", "kind": "formula", "raw": "$\\sigma_{\\text{в}}$", "start": 154424, "end": 154443, "normalized": "$\\sigma_{\\text{в}}$"}
+{"marker": "⟦HW3_FORMULA_00514⟧", "kind": "formula", "raw": "$\\sigma_{\\text{T}}$", "start": 154473, "end": 154492, "normalized": "$\\sigma_{\\text{T}}$"}
+{"marker": "⟦HW3_FORMULA_00515⟧", "kind": "formula", "raw": "$\\sigma_{\\text{T}}/\\sigma_{\\text{в}}$", "start": 154515, "end": 154552, "normalized": "$\\sigma_{\\text{T}}/\\sigma_{\\text{в}}$"}
+{"marker": "⟦HW3_UNIT_00516⟧", "kind": "unit", "raw": "0,61-0,68 %", "start": 154556, "end": 154567, "normalized": "0,61-0,68 %"}
+{"marker": "⟦HW3_FORMULA_00517⟧", "kind": "formula", "raw": "$_{L}$", "start": 155128, "end": 155134, "normalized": "$_{L}$"}
+{"marker": "⟦HW3_UNIT_00518⟧", "kind": "unit", "raw": "1,5 %", "start": 155371, "end": 155376, "normalized": "1,5 %"}
+{"marker": "⟦HW3_UNIT_00519⟧", "kind": "unit", "raw": "1 %", "start": 155386, "end": 155389, "normalized": "1 %"}
+{"marker": "⟦HW3_GRADE_00520⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 155666, "end": 155672, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00521⟧", "kind": "unit", "raw": "2,4 – 3,1 %", "start": 155701, "end": 155712, "normalized": "2,4 – 3,1 %"}
+{"marker": "⟦HW3_GRADE_00522⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 155753, "end": 155760, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00523⟧", "kind": "unit", "raw": "0 – 0,25 %", "start": 155812, "end": 155822, "normalized": "0 – 0,25 %"}
+{"marker": "⟦HW3_GRADE_00524⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 155927, "end": 155934, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_FORMULA_00525⟧", "kind": "formula", "raw": "$\\sigma_{0,2}$", "start": 155973, "end": 155987, "normalized": "$\\sigma_{0,2}$"}
+{"marker": "⟦HW3_UNIT_00526⟧", "kind": "unit", "raw": "0,2 %", "start": 156005, "end": 156010, "normalized": "0,2 %"}
+{"marker": "⟦HW3_GRADE_00527⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 156070, "end": 156076, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00528⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 156229, "end": 156236, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00529⟧", "kind": "unit", "raw": "700 °C", "start": 156294, "end": 156300, "normalized": "700 °C"}
+{"marker": "⟦HW3_UNIT_00530⟧", "kind": "unit", "raw": "550 °C", "start": 156443, "end": 156449, "normalized": "550 °C"}
+{"marker": "⟦HW3_UNIT_00531⟧", "kind": "unit", "raw": "700 °C", "start": 156498, "end": 156504, "normalized": "700 °C"}
+{"marker": "⟦HW3_UNIT_00532⟧", "kind": "unit", "raw": "650-700 °C", "start": 156640, "end": 156650, "normalized": "650-700 °C"}
+{"marker": "⟦HW3_UNIT_00533⟧", "kind": "unit", "raw": "3,0 %", "start": 156673, "end": 156678, "normalized": "3,0 %"}
+{"marker": "⟦HW3_GRADE_00534⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 156707, "end": 156713, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00535⟧", "kind": "unit", "raw": "700 °C", "start": 156869, "end": 156875, "normalized": "700 °C"}
+{"marker": "⟦HW3_UNIT_00536⟧", "kind": "unit", "raw": "550-700 °C", "start": 156895, "end": 156905, "normalized": "550-700 °C"}
+{"marker": "⟦HW3_UNIT_00537⟧", "kind": "unit", "raw": "4,0 %", "start": 156982, "end": 156987, "normalized": "4,0 %"}
+{"marker": "⟦HW3_UNIT_00538⟧", "kind": "unit", "raw": "600 – 700 °C", "start": 157006, "end": 157018, "normalized": "600 – 700 °C"}
+{"marker": "⟦HW3_GRADE_00539⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 157593, "end": 157600, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00540⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 157616, "end": 157622, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00541⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 157753, "end": 157760, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00542⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 157767, "end": 157773, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00543⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 157931, "end": 157938, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00544⟧", "kind": "unit", "raw": "80 – 85 %", "start": 157954, "end": 157963, "normalized": "80 – 85 %"}
+{"marker": "⟦HW3_UNIT_00545⟧", "kind": "unit", "raw": "18 – 15 %", "start": 157980, "end": 157989, "normalized": "18 – 15 %"}
+{"marker": "⟦HW3_UNIT_00546⟧", "kind": "unit", "raw": "5 – 7 %", "start": 158011, "end": 158018, "normalized": "5 – 7 %"}
+{"marker": "⟦HW3_GRADE_00547⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 158222, "end": 158228, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00548⟧", "kind": "unit", "raw": "88-90 %", "start": 158276, "end": 158283, "normalized": "88-90 %"}
+{"marker": "⟦HW3_UNIT_00549⟧", "kind": "unit", "raw": "10-12 %", "start": 158288, "end": 158295, "normalized": "10-12 %"}
+{"marker": "⟦HW3_GRADE_00550⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 158327, "end": 158334, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00551⟧", "kind": "unit", "raw": "500 °C", "start": 158436, "end": 158442, "normalized": "500 °C"}
+{"marker": "⟦HW3_GRADE_00552⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 158486, "end": 158492, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00553⟧", "kind": "unit", "raw": "700 °C", "start": 158507, "end": 158513, "normalized": "700 °C"}
+{"marker": "⟦HW3_UNIT_00554⟧", "kind": "unit", "raw": "500 °C", "start": 158738, "end": 158744, "normalized": "500 °C"}
+{"marker": "⟦HW3_UNIT_00555⟧", "kind": "unit", "raw": "550 °C", "start": 158769, "end": 158775, "normalized": "550 °C"}
+{"marker": "⟦HW3_UNIT_00556⟧", "kind": "unit", "raw": "650 – 700 °C", "start": 158822, "end": 158834, "normalized": "650 – 700 °C"}
+{"marker": "⟦HW3_GRADE_00557⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 158888, "end": 158895, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00558⟧", "kind": "unit", "raw": "800 °C", "start": 159038, "end": 159044, "normalized": "800 °C"}
+{"marker": "⟦HW3_UNIT_00559⟧", "kind": "unit", "raw": "800 °C", "start": 159283, "end": 159289, "normalized": "800 °C"}
+{"marker": "⟦HW3_UNIT_00560⟧", "kind": "unit", "raw": "650 °C", "start": 159304, "end": 159310, "normalized": "650 °C"}
+{"marker": "⟦HW3_UNIT_00561⟧", "kind": "unit", "raw": "550 °C", "start": 159325, "end": 159331, "normalized": "550 °C"}
+{"marker": "⟦HW3_GRADE_00562⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 159509, "end": 159516, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00563⟧", "kind": "unit", "raw": "4%", "start": 159623, "end": 159625, "normalized": "4%"}
+{"marker": "⟦HW3_UNIT_00564⟧", "kind": "unit", "raw": "550 °C", "start": 159747, "end": 159753, "normalized": "550 °C"}
+{"marker": "⟦HW3_UNIT_00565⟧", "kind": "unit", "raw": "650 °C", "start": 159789, "end": 159795, "normalized": "650 °C"}
+{"marker": "⟦HW3_UNIT_00566⟧", "kind": "unit", "raw": "800 °C", "start": 159811, "end": 159817, "normalized": "800 °C"}
+{"marker": "⟦HW3_GRADE_00567⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 159889, "end": 159895, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00568⟧", "kind": "unit", "raw": "4%", "start": 160002, "end": 160004, "normalized": "4%"}
+{"marker": "⟦HW3_GRADE_00569⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 160256, "end": 160263, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00570⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 160266, "end": 160272, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00571⟧", "kind": "unit", "raw": "650 °C", "start": 160535, "end": 160541, "normalized": "650 °C"}
+{"marker": "⟦HW3_UNIT_00572⟧", "kind": "unit", "raw": "80 %", "start": 160840, "end": 160844, "normalized": "80 %"}
+{"marker": "⟦HW3_GRADE_00573⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 160883, "end": 160890, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00574⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 160977, "end": 160983, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00575⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 161017, "end": 161024, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00576⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 161568, "end": 161575, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00577⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 161903, "end": 161910, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00578⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 161919, "end": 161925, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00579⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 162025, "end": 162032, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00580⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 162035, "end": 162041, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_TABLE_00581⟧", "kind": "table", "raw": "<table><tr><td rowspan=\"2\">Сталь</td><td rowspan=\"2\">Толщина листа, мм</td><td rowspan=\"2\">Номер зерна</td><td rowspan=\"2\">Полосчатость, балл</td><td colspan=\"4\">% площади структурных составляющих ( $HV_{0,0981}$ , H/ $mm^{2}$ )*</td></tr><tr><td>Ф</td><td>П</td><td>Б</td><td>МА</td></tr><tr><td>05Г2МФ</td><td>20,5</td><td>11 – 13</td><td>1,0</td><td>80(1900)</td><td>—</td><td>15(2450)</td><td>5(3530)</td></tr><tr><td>10Г2ФБ</td><td>18,7</td><td>10 – 12</td><td>1,5</td><td>80(1764)</td><td>20(2060)</td><td>—</td><td>—</td></tr></table>", "start": 162043, "end": 162584, "normalized": "<table><tr><td rowspan=\"2\">Сталь</td><td rowspan=\"2\">Толщина листа, мм</td><td rowspan=\"2\">Номер зерна</td><td rowspan=\"2\">Полосчатость, балл</td><td colspan=\"4\">% площади структурных составляющих ( $HV_{0,0981}$ , H/ $mm^{2}$ )*</td></tr><tr><td>Ф</td><td>П</td><td>Б</td><td>МА</td></tr><tr><td>05Г2МФ</td><td>20,5</td><td>11 – 13</td><td>1,0</td><td>80(1900)</td><td>—</td><td>15(2450)</td><td>5(3530)</td></tr><tr><td>10Г2ФБ</td><td>18,7</td><td>10 – 12</td><td>1,5</td><td>80(1764)</td><td>20(2060)</td><td>—</td><td>—</td></tr></table>", "table": {"rows": 4, "cells": 25, "cell_text_sha256": "c60b75e0457e9ec1f88e72b2c4921bd9e7fa979f8abf554edeb46025bfc73da2"}}
+{"marker": "⟦HW3_UNIT_00582⟧", "kind": "unit", "raw": "70-80 %", "start": 163379, "end": 163386, "normalized": "70-80 %"}
+{"marker": "⟦HW3_GRADE_00583⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 163488, "end": 163495, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00584⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 163684, "end": 163691, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_FORMULA_00585⟧", "kind": "formula", "raw": "$^{10}$", "start": 163847, "end": 163854, "normalized": "$^{10}$"}
+{"marker": "⟦HW3_FORMULA_00586⟧", "kind": "formula", "raw": "$^{11}$", "start": 163857, "end": 163864, "normalized": "$^{11}$"}
+{"marker": "⟦HW3_FORMULA_00587⟧", "kind": "formula", "raw": "$^{-2}$", "start": 163866, "end": 163873, "normalized": "$^{-2}$"}
+{"marker": "⟦HW3_UNIT_00588⟧", "kind": "unit", "raw": "50 нм", "start": 163939, "end": 163944, "normalized": "50 нм"}
+{"marker": "⟦HW3_UNIT_00589⟧", "kind": "unit", "raw": "1-8 мкм", "start": 164117, "end": 164124, "normalized": "1-8 мкм"}
+{"marker": "⟦HW3_GRADE_00590⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 164706, "end": 164713, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00591⟧", "kind": "unit", "raw": "1,8-2 %", "start": 164757, "end": 164764, "normalized": "1,8-2 %"}
+{"marker": "⟦HW3_GRADE_00592⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 164919, "end": 164925, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00593⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 165707, "end": 165713, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00594⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 165841, "end": 165848, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00595⟧", "kind": "unit", "raw": "15-20 %", "start": 165870, "end": 165877, "normalized": "15-20 %"}
+{"marker": "⟦HW3_GRADE_00596⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 166263, "end": 166270, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00597⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 166349, "end": 166355, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00598⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 166824, "end": 166831, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00599⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 166843, "end": 166849, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00600⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 167171, "end": 167178, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00601⟧", "kind": "unit", "raw": "650 °C", "start": 167209, "end": 167215, "normalized": "650 °C"}
+{"marker": "⟦HW3_GRADE_00602⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 167905, "end": 167912, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00603⟧", "kind": "unit", "raw": "650 °C", "start": 168062, "end": 168068, "normalized": "650 °C"}
+{"marker": "⟦HW3_UNIT_00604⟧", "kind": "unit", "raw": "650 °C", "start": 168397, "end": 168403, "normalized": "650 °C"}
+{"marker": "⟦HW3_GRADE_00605⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 168420, "end": 168427, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00606⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 168804, "end": 168811, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00607⟧", "kind": "unit", "raw": "650 °C", "start": 168837, "end": 168843, "normalized": "650 °C"}
+{"marker": "⟦HW3_GRADE_00608⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 169022, "end": 169029, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00609⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 169158, "end": 169164, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00610⟧", "kind": "unit", "raw": "650 °С", "start": 169183, "end": 169189, "normalized": "650 °C"}
+{"marker": "⟦HW3_UNIT_00611⟧", "kind": "unit", "raw": "650 °С", "start": 169764, "end": 169770, "normalized": "650 °C"}
+{"marker": "⟦HW3_GRADE_00612⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 169930, "end": 169937, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00613⟧", "kind": "unit", "raw": "650 °C", "start": 169967, "end": 169973, "normalized": "650 °C"}
+{"marker": "⟦HW3_GRADE_00614⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 170364, "end": 170370, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00615⟧", "kind": "unit", "raw": "650 °C", "start": 170389, "end": 170395, "normalized": "650 °C"}
+{"marker": "⟦HW3_FORMULA_00616⟧", "kind": "formula", "raw": "$\\Gamma$", "start": 170702, "end": 170710, "normalized": "$\\Gamma$"}
+{"marker": "⟦HW3_GRADE_00617⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 170753, "end": 170759, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00618⟧", "kind": "unit", "raw": "650°C", "start": 170785, "end": 170790, "normalized": "650°C"}
+{"marker": "⟦HW3_GRADE_00619⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 170909, "end": 170916, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00620⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 171034, "end": 171040, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00621⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 171243, "end": 171249, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00622⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 171336, "end": 171343, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00623⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 171562, "end": 171569, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00624⟧", "kind": "unit", "raw": "550-700 °C", "start": 171593, "end": 171603, "normalized": "550-700 °C"}
+{"marker": "⟦HW3_UNIT_00625⟧", "kind": "unit", "raw": "650 – 700 °C", "start": 171742, "end": 171754, "normalized": "650 – 700 °C"}
+{"marker": "⟦HW3_GRADE_00626⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 171905, "end": 171912, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00627⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 171950, "end": 171956, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00628⟧", "kind": "unit", "raw": "700 °C", "start": 172024, "end": 172030, "normalized": "700 °C"}
+{"marker": "⟦HW3_GRADE_00629⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 172044, "end": 172051, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00630⟧", "kind": "unit", "raw": "550 °C", "start": 172303, "end": 172309, "normalized": "550 °C"}
+{"marker": "⟦HW3_UNIT_00631⟧", "kind": "unit", "raw": "700 °C", "start": 172357, "end": 172363, "normalized": "700 °C"}
+{"marker": "⟦HW3_UNIT_00632⟧", "kind": "unit", "raw": "650 – 700 °C", "start": 172496, "end": 172508, "normalized": "650 – 700 °C"}
+{"marker": "⟦HW3_GRADE_00633⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 172538, "end": 172544, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00634⟧", "kind": "unit", "raw": "700 °C", "start": 172641, "end": 172647, "normalized": "700 °C"}
+{"marker": "⟦HW3_GRADE_00635⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 172668, "end": 172675, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00636⟧", "kind": "unit", "raw": "700 °C", "start": 172751, "end": 172757, "normalized": "700 °C"}
+{"marker": "⟦HW3_UNIT_00637⟧", "kind": "unit", "raw": "500 °C", "start": 172778, "end": 172784, "normalized": "500 °C"}
+{"marker": "⟦HW3_UNIT_00638⟧", "kind": "unit", "raw": "500 °C", "start": 172922, "end": 172928, "normalized": "500 °C"}
+{"marker": "⟦HW3_UNIT_00639⟧", "kind": "unit", "raw": "550 °C", "start": 172953, "end": 172959, "normalized": "550 °C"}
+{"marker": "⟦HW3_UNIT_00640⟧", "kind": "unit", "raw": "650 – 700 °C", "start": 173006, "end": 173018, "normalized": "650 – 700 °C"}
+{"marker": "⟦HW3_GRADE_00641⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 173072, "end": 173079, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00642⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 173274, "end": 173280, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00643⟧", "kind": "unit", "raw": "700 °C", "start": 173297, "end": 173303, "normalized": "700 °C"}
+{"marker": "⟦HW3_UNIT_00644⟧", "kind": "unit", "raw": "800 °C", "start": 173402, "end": 173408, "normalized": "800 °C"}
+{"marker": "⟦HW3_GRADE_00645⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 173893, "end": 173900, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00646⟧", "kind": "unit", "raw": "620 – 650 °C", "start": 173926, "end": 173938, "normalized": "620 – 650 °C"}
+{"marker": "⟦HW3_GRADE_00647⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 175832, "end": 175839, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00648⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 175856, "end": 175862, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00649⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 175978, "end": 175985, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00650⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 176019, "end": 176025, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00651⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 176461, "end": 176467, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00652⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 176559, "end": 176565, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00653⟧", "kind": "unit", "raw": "50 °C", "start": 176627, "end": 176632, "normalized": "50 °C"}
+{"marker": "⟦HW3_UNIT_00654⟧", "kind": "unit", "raw": "290 °C", "start": 176977, "end": 176983, "normalized": "290 °C"}
+{"marker": "⟦HW3_UNIT_00655⟧", "kind": "unit", "raw": "100 °C", "start": 177058, "end": 177064, "normalized": "100 °C"}
+{"marker": "⟦HW3_UNIT_00656⟧", "kind": "unit", "raw": "420 °C", "start": 177135, "end": 177141, "normalized": "420 °C"}
+{"marker": "⟦HW3_GRADE_00657⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 177209, "end": 177215, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00658⟧", "kind": "unit", "raw": "2 °C", "start": 177313, "end": 177317, "normalized": "2 °C"}
+{"marker": "⟦HW3_UNIT_00659⟧", "kind": "unit", "raw": "10 °C", "start": 177399, "end": 177404, "normalized": "10 °C"}
+{"marker": "⟦HW3_UNIT_00660⟧", "kind": "unit", "raw": "50-90 °C", "start": 177635, "end": 177643, "normalized": "50-90 °C"}
+{"marker": "⟦HW3_GRADE_00661⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 177677, "end": 177683, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00662⟧", "kind": "unit", "raw": "100 °C", "start": 177764, "end": 177770, "normalized": "100 °C"}
+{"marker": "⟦HW3_GRADE_00663⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 178006, "end": 178012, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00664⟧", "kind": "unit", "raw": "1300°C", "start": 178033, "end": 178039, "normalized": "1300°C"}
+{"marker": "⟦HW3_GRADE_00665⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 178126, "end": 178132, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00666⟧", "kind": "unit", "raw": "7-13 °C", "start": 178231, "end": 178238, "normalized": "7-13 °C"}
+{"marker": "⟦HW3_UNIT_00667⟧", "kind": "unit", "raw": "20-40 °C", "start": 178267, "end": 178275, "normalized": "20-40 °C"}
+{"marker": "⟦HW3_UNIT_00668⟧", "kind": "unit", "raw": "50-90 °C", "start": 178404, "end": 178412, "normalized": "50-90 °C"}
+{"marker": "⟦HW3_UNIT_00669⟧", "kind": "unit", "raw": "-20 °C", "start": 178808, "end": 178814, "normalized": "-20 °C"}
+{"marker": "⟦HW3_UNIT_00670⟧", "kind": "unit", "raw": "1420 мм", "start": 178865, "end": 178872, "normalized": "1420 мм"}
+{"marker": "⟦HW3_UNIT_00671⟧", "kind": "unit", "raw": "7-40 °C", "start": 178974, "end": 178981, "normalized": "7-40 °C"}
+{"marker": "⟦HW3_GRADE_00672⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 178991, "end": 178997, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00673⟧", "kind": "unit", "raw": "4 °C", "start": 179100, "end": 179104, "normalized": "4 °C"}
+{"marker": "⟦HW3_UNIT_00674⟧", "kind": "unit", "raw": "70 °C", "start": 179384, "end": 179389, "normalized": "70 °C"}
+{"marker": "⟦HW3_GRADE_00675⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 179594, "end": 179600, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00676⟧", "kind": "unit", "raw": "1300 °C", "start": 179641, "end": 179648, "normalized": "1300 °C"}
+{"marker": "⟦HW3_UNIT_00677⟧", "kind": "unit", "raw": "0,1 °C", "start": 179713, "end": 179719, "normalized": "0,1 °C"}
+{"marker": "⟦HW3_UNIT_00678⟧", "kind": "unit", "raw": "1 °C", "start": 179727, "end": 179731, "normalized": "1 °C"}
+{"marker": "⟦HW3_UNIT_00679⟧", "kind": "unit", "raw": "10 °C", "start": 179739, "end": 179744, "normalized": "10 °C"}
+{"marker": "⟦HW3_UNIT_00680⟧", "kind": "unit", "raw": "90 °C", "start": 179752, "end": 179757, "normalized": "90 °C"}
+{"marker": "⟦HW3_UNIT_00681⟧", "kind": "unit", "raw": "290 °C", "start": 179765, "end": 179771, "normalized": "290 °C"}
+{"marker": "⟦HW3_GRADE_00682⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 179901, "end": 179907, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00683⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 180032, "end": 180038, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00684⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 180055, "end": 180062, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00685⟧", "kind": "unit", "raw": "1300 °C", "start": 180197, "end": 180204, "normalized": "1300 °C"}
+{"marker": "⟦HW3_GRADE_00686⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 180231, "end": 180238, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00687⟧", "kind": "unit", "raw": "0,1 °C", "start": 180464, "end": 180470, "normalized": "0,1 °C"}
+{"marker": "⟦HW3_UNIT_00688⟧", "kind": "unit", "raw": "10 °C", "start": 180636, "end": 180641, "normalized": "10 °C"}
+{"marker": "⟦HW3_UNIT_00689⟧", "kind": "unit", "raw": "670-610 °C", "start": 180677, "end": 180687, "normalized": "670-610 °C"}
+{"marker": "⟦HW3_UNIT_00690⟧", "kind": "unit", "raw": "10 °C", "start": 180720, "end": 180725, "normalized": "10 °C"}
+{"marker": "⟦HW3_GRADE_00691⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 180912, "end": 180919, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00692⟧", "kind": "unit", "raw": "7-13 °C", "start": 180958, "end": 180965, "normalized": "7-13 °C"}
+{"marker": "⟦HW3_UNIT_00693⟧", "kind": "unit", "raw": "20-40 °C", "start": 180994, "end": 181002, "normalized": "20-40 °C"}
+{"marker": "⟦HW3_UNIT_00694⟧", "kind": "unit", "raw": "80 °C", "start": 181076, "end": 181081, "normalized": "80 °C"}
+{"marker": "⟦HW3_UNIT_00695⟧", "kind": "unit", "raw": "450-270 °C", "start": 181154, "end": 181164, "normalized": "450-270 °C"}
+{"marker": "⟦HW3_GRADE_00696⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 181216, "end": 181223, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00697⟧", "kind": "unit", "raw": "10 °C", "start": 181427, "end": 181432, "normalized": "10 °C"}
+{"marker": "⟦HW3_UNIT_00698⟧", "kind": "unit", "raw": "100 °C", "start": 181631, "end": 181637, "normalized": "100 °C"}
+{"marker": "⟦HW3_GRADE_00699⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 181790, "end": 181797, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00700⟧", "kind": "unit", "raw": "1300 °C", "start": 181818, "end": 181825, "normalized": "1300 °C"}
+{"marker": "⟦HW3_FORMULA_00701⟧", "kind": "formula", "raw": "$\\Gamma$", "start": 181989, "end": 181997, "normalized": "$\\Gamma$"}
+{"marker": "⟦HW3_GRADE_00702⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 182084, "end": 182091, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00703⟧", "kind": "unit", "raw": "1300 °C", "start": 182132, "end": 182139, "normalized": "1300 °C"}
+{"marker": "⟦HW3_FORMULA_00704⟧", "kind": "formula", "raw": "$$\n\\delta - 0, 1 ^ {\\circ} \\mathrm{C} / \\mathrm{c}; \\mathrm{B} - 1 ^ {\\circ} \\mathrm{C} / \\mathrm{c}; \\mathrm{r} - 1 0 ^ {\\circ} \\mathrm{C} / \\mathrm{c}; \\mathrm{D} - 9 0 ^ {\\circ} \\mathrm{C} / \\mathrm{c}; \\mathrm{e} - 2 9 0 ^ {\\circ} \\mathrm{C} / \\mathrm{c}.\n$$", "start": 182149, "end": 182411, "normalized": "$$\n\\delta - 0, 1 ^ {\\circ} \\mathrm{C} / \\mathrm{c}; \\mathrm{B} - 1 ^ {\\circ} \\mathrm{C} / \\mathrm{c}; \\mathrm{r} - 1 0 ^ {\\circ} \\mathrm{C} / \\mathrm{c}; \\mathrm{D} - 9 0 ^ {\\circ} \\mathrm{C} / \\mathrm{c}; \\mathrm{e} - 2 9 0 ^ {\\circ} \\mathrm{C} / \\mathrm{c}.\n$$"}
+{"marker": "⟦HW3_UNIT_00705⟧", "kind": "unit", "raw": "-20 °C", "start": 182439, "end": 182445, "normalized": "-20 °C"}
+{"marker": "⟦HW3_UNIT_00706⟧", "kind": "unit", "raw": "1 °C", "start": 182476, "end": 182480, "normalized": "1 °C"}
+{"marker": "⟦HW3_UNIT_00707⟧", "kind": "unit", "raw": "10 °C", "start": 182828, "end": 182833, "normalized": "10 °C"}
+{"marker": "⟦HW3_UNIT_00708⟧", "kind": "unit", "raw": "70-100 °C", "start": 183189, "end": 183198, "normalized": "70-100 °C"}
+{"marker": "⟦HW3_GRADE_00709⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 183592, "end": 183599, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00710⟧", "kind": "unit", "raw": "0,06 %", "start": 183641, "end": 183647, "normalized": "0,06 %"}
+{"marker": "⟦HW3_UNIT_00711⟧", "kind": "unit", "raw": "-20 °C", "start": 183722, "end": 183728, "normalized": "-20 °C"}
+{"marker": "⟦HW3_UNIT_00712⟧", "kind": "unit", "raw": "4 °C", "start": 183805, "end": 183809, "normalized": "4 °C"}
+{"marker": "⟦HW3_GRADE_00713⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 183847, "end": 183854, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00714⟧", "kind": "unit", "raw": "130 °C", "start": 184178, "end": 184184, "normalized": "130 °C"}
+{"marker": "⟦HW3_GRADE_00715⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 184360, "end": 184367, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00716⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 184503, "end": 184510, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00717⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 184635, "end": 184642, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00718⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 184842, "end": 184849, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00719⟧", "kind": "unit", "raw": "-20 °C", "start": 184922, "end": 184928, "normalized": "-20 °C"}
+{"marker": "⟦HW3_UNIT_00720⟧", "kind": "unit", "raw": "1300 °C", "start": 184956, "end": 184963, "normalized": "1300 °C"}
+{"marker": "⟦HW3_UNIT_00721⟧", "kind": "unit", "raw": "0,1 °C", "start": 185020, "end": 185026, "normalized": "0,1 °C"}
+{"marker": "⟦HW3_UNIT_00722⟧", "kind": "unit", "raw": "1 °C", "start": 185034, "end": 185038, "normalized": "1 °C"}
+{"marker": "⟦HW3_UNIT_00723⟧", "kind": "unit", "raw": "10 °C", "start": 185046, "end": 185051, "normalized": "10 °C"}
+{"marker": "⟦HW3_UNIT_00724⟧", "kind": "unit", "raw": "90 °C", "start": 185059, "end": 185064, "normalized": "90 °C"}
+{"marker": "⟦HW3_UNIT_00725⟧", "kind": "unit", "raw": "290 °C", "start": 185072, "end": 185078, "normalized": "290 °C"}
+{"marker": "⟦HW3_GRADE_00726⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 185152, "end": 185159, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00727⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 185176, "end": 185182, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00728⟧", "kind": "unit", "raw": "-20 °C", "start": 185324, "end": 185330, "normalized": "-20 °C"}
+{"marker": "⟦HW3_UNIT_00729⟧", "kind": "unit", "raw": "4 °C", "start": 185406, "end": 185410, "normalized": "4 °C"}
+{"marker": "⟦HW3_GRADE_00730⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 185626, "end": 185632, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00731⟧", "kind": "unit", "raw": "0,06 %", "start": 185636, "end": 185642, "normalized": "0,06 %"}
+{"marker": "⟦HW3_GRADE_00732⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 185651, "end": 185658, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00733⟧", "kind": "unit", "raw": "130 °C", "start": 185678, "end": 185684, "normalized": "130 °C"}
+{"marker": "⟦HW3_GRADE_00734⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 185992, "end": 185999, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00735⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 186467, "end": 186474, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00736⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 186538, "end": 186545, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00737⟧", "kind": "unit", "raw": "24,9 мм", "start": 186610, "end": 186617, "normalized": "24,9 мм"}
+{"marker": "⟦HW3_GRADE_00738⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 186682, "end": 186689, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00739⟧", "kind": "unit", "raw": "1180 °C", "start": 186803, "end": 186810, "normalized": "1180 °C"}
+{"marker": "⟦HW3_UNIT_00740⟧", "kind": "unit", "raw": "0,04-0,06 %", "start": 186898, "end": 186909, "normalized": "0,04-0,06 %"}
+{"marker": "⟦HW3_UNIT_00741⟧", "kind": "unit", "raw": "1000-960 °C", "start": 187282, "end": 187293, "normalized": "1000-960 °C"}
+{"marker": "⟦HW3_GRADE_00742⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 187948, "end": 187955, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00743⟧", "kind": "unit", "raw": "800-750 °C", "start": 188051, "end": 188061, "normalized": "800-750 °C"}
+{"marker": "⟦HW3_UNIT_00744⟧", "kind": "unit", "raw": "700-670 °C", "start": 188116, "end": 188126, "normalized": "700-670 °C"}
+{"marker": "⟦HW3_UNIT_00745⟧", "kind": "unit", "raw": "1,5-3 °C", "start": 188629, "end": 188637, "normalized": "1,5-3 °C"}
+{"marker": "⟦HW3_UNIT_00746⟧", "kind": "unit", "raw": "530-540 °C", "start": 188655, "end": 188665, "normalized": "530-540 °C"}
+{"marker": "⟦HW3_UNIT_00747⟧", "kind": "unit", "raw": "400 °C", "start": 188730, "end": 188736, "normalized": "400 °C"}
+{"marker": "⟦HW3_UNIT_00748⟧", "kind": "unit", "raw": "100 °C", "start": 188770, "end": 188776, "normalized": "100 °C"}
+{"marker": "⟦HW3_UNIT_00749⟧", "kind": "unit", "raw": "24,9 мм", "start": 189044, "end": 189051, "normalized": "24,9 мм"}
+{"marker": "⟦HW3_GRADE_00750⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 189069, "end": 189076, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00751⟧", "kind": "unit", "raw": "620 °C", "start": 189177, "end": 189183, "normalized": "620 °C"}
+{"marker": "⟦HW3_UNIT_00752⟧", "kind": "unit", "raw": "24,9 мм", "start": 189652, "end": 189659, "normalized": "24,9 мм"}
+{"marker": "⟦HW3_GRADE_00753⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 189669, "end": 189676, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_TABLE_00754⟧", "kind": "table", "raw": "<table><tr><td>No пропуска</td><td colspan=\"2\">H, мм</td><td colspan=\"2\">Давление, МН</td><td rowspan=\"2\" colspan=\"2\">Температура, °C</td></tr><tr><td>No раската</td><td>1</td><td>2</td><td>1</td><td>2</td></tr><tr><td colspan=\"7\">Черновая клеть</td></tr><tr><td>1</td><td>280</td><td>280</td><td>25,47</td><td>23,80</td><td>1060</td><td>1055</td></tr><tr><td>2</td><td>260</td><td>260</td><td>32,00</td><td>29,97</td><td></td><td></td></tr><tr><td>3</td><td>245</td><td>245</td><td>31,15</td><td>28,63</td><td></td><td></td></tr><tr><td>4</td><td>235</td><td>233</td><td>25,00</td><td>26,06</td><td></td><td></td></tr><tr><td>5</td><td>235</td><td>204</td><td>15,40</td><td>29,44</td><td></td><td></td></tr><tr><td>6</td><td>207</td><td>180</td><td>29,66</td><td>28,15</td><td></td><td></td></tr><tr><td>7</td><td>182</td><td>154,5</td><td>31,26</td><td>28,27</td><td></td><td></td></tr><tr><td>8</td><td>156</td><td>154,5</td><td>30,62</td><td>10,92</td><td></td><td></td></tr><tr><td>9</td><td>134</td><td>154,5</td><td>29,36</td><td>8,28</td><td></td><td></td></tr><tr><td>10</td><td>135</td><td>129,5</td><td>10,42</td><td>26,72</td><td></td><td></td></tr><tr><td>11</td><td>135</td><td>110</td><td>8,96</td><td>27,67</td><td></td><td></td></tr><tr><td>12</td><td>115</td><td>95</td><td>24,76</td><td>25,50</td><td></td><td></td></tr><tr><td>13</td><td>95,5</td><td>80</td><td>31,30</td><td>25,06</td><td></td><td></td></tr><tr><td>14</td><td>82</td><td>70</td><td>24,98</td><td>21,01</td><td></td><td></td></tr><tr><td>15</td><td>70</td><td></td><td>24,27</td><td></td><td>960</td><td>970</td></tr><tr><td colspan=\"7\">Чистовая клеть</td></tr><tr><td>1</td><td>65</td><td>64</td><td>28,71</td><td>15,11</td><td>750</td><td>770</td></tr><tr><td>2</td><td>57</td><td>58</td><td>33,58</td><td>27,61</td><td></td><td></td></tr><tr><td>3</td><td>50,5</td><td>50</td><td>35,14</td><td>32,84</td><td></td><td></td></tr><tr><td>4</td><td>45</td><td>44,5</td><td>35,07</td><td>33,13</td><td></td><td></td></tr><tr><td>5</td><td>40</td><td>39,5</td><td>34,90</td><td>33,30</td><td></td><td></td></tr><tr><td>6</td><td>36</td><td>35</td><td>34,50</td><td>34,43</td><td></td><td></td></tr><tr><td>7</td><td>32,3</td><td>31,1</td><td>34,10</td><td>34,49</td><td></td><td></td></tr><tr><td>8</td><td>29,5</td><td>28,4</td><td>31,95</td><td>33,79</td><td></td><td></td></tr><tr><td>9</td><td>26,8</td><td>26</td><td>31,24</td><td>31,99</td><td></td><td></td></tr><tr><td>10</td><td>25</td><td>24,4</td><td>29,39</td><td>29,19</td><td></td><td>700</td></tr><tr><td>11</td><td>25,8</td><td></td><td>15,11</td><td></td><td>690</td><td></td></tr></table>", "start": 189678, "end": 192318, "normalized": "<table><tr><td>No пропуска</td><td colspan=\"2\">H, мм</td><td colspan=\"2\">Давление, МН</td><td rowspan=\"2\" colspan=\"2\">Температура, °C</td></tr><tr><td>No раската</td><td>1</td><td>2</td><td>1</td><td>2</td></tr><tr><td colspan=\"7\">Черновая клеть</td></tr><tr><td>1</td><td>280</td><td>280</td><td>25,47</td><td>23,80</td><td>1060</td><td>1055</td></tr><tr><td>2</td><td>260</td><td>260</td><td>32,00</td><td>29,97</td><td></td><td></td></tr><tr><td>3</td><td>245</td><td>245</td><td>31,15</td><td>28,63</td><td></td><td></td></tr><tr><td>4</td><td>235</td><td>233</td><td>25,00</td><td>26,06</td><td></td><td></td></tr><tr><td>5</td><td>235</td><td>204</td><td>15,40</td><td>29,44</td><td></td><td></td></tr><tr><td>6</td><td>207</td><td>180</td><td>29,66</td><td>28,15</td><td></td><td></td></tr><tr><td>7</td><td>182</td><td>154,5</td><td>31,26</td><td>28,27</td><td></td><td></td></tr><tr><td>8</td><td>156</td><td>154,5</td><td>30,62</td><td>10,92</td><td></td><td></td></tr><tr><td>9</td><td>134</td><td>154,5</td><td>29,36</td><td>8,28</td><td></td><td></td></tr><tr><td>10</td><td>135</td><td>129,5</td><td>10,42</td><td>26,72</td><td></td><td></td></tr><tr><td>11</td><td>135</td><td>110</td><td>8,96</td><td>27,67</td><td></td><td></td></tr><tr><td>12</td><td>115</td><td>95</td><td>24,76</td><td>25,50</td><td></td><td></td></tr><tr><td>13</td><td>95,5</td><td>80</td><td>31,30</td><td>25,06</td><td></td><td></td></tr><tr><td>14</td><td>82</td><td>70</td><td>24,98</td><td>21,01</td><td></td><td></td></tr><tr><td>15</td><td>70</td><td></td><td>24,27</td><td></td><td>960</td><td>970</td></tr><tr><td colspan=\"7\">Чистовая клеть</td></tr><tr><td>1</td><td>65</td><td>64</td><td>28,71</td><td>15,11</td><td>750</td><td>770</td></tr><tr><td>2</td><td>57</td><td>58</td><td>33,58</td><td>27,61</td><td></td><td></td></tr><tr><td>3</td><td>50,5</td><td>50</td><td>35,14</td><td>32,84</td><td></td><td></td></tr><tr><td>4</td><td>45</td><td>44,5</td><td>35,07</td><td>33,13</td><td></td><td></td></tr><tr><td>5</td><td>40</td><td>39,5</td><td>34,90</td><td>33,30</td><td></td><td></td></tr><tr><td>6</td><td>36</td><td>35</td><td>34,50</td><td>34,43</td><td></td><td></td></tr><tr><td>7</td><td>32,3</td><td>31,1</td><td>34,10</td><td>34,49</td><td></td><td></td></tr><tr><td>8</td><td>29,5</td><td>28,4</td><td>31,95</td><td>33,79</td><td></td><td></td></tr><tr><td>9</td><td>26,8</td><td>26</td><td>31,24</td><td>31,99</td><td></td><td></td></tr><tr><td>10</td><td>25</td><td>24,4</td><td>29,39</td><td>29,19</td><td></td><td>700</td></tr><tr><td>11</td><td>25,8</td><td></td><td>15,11</td><td></td><td>690</td><td></td></tr></table>", "table": {"rows": 30, "cells": 193, "cell_text_sha256": "2d5a5df6909e956ddd77f2d6624eab3134e48ede795d39f9c6f1ac965abc577e"}}
+{"marker": "⟦HW3_GRADE_00755⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 192565, "end": 192572, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00756⟧", "kind": "unit", "raw": "24,9 мм", "start": 192650, "end": 192657, "normalized": "24,9 мм"}
+{"marker": "⟦HW3_UNIT_00757⟧", "kind": "unit", "raw": "0,22-0,25 %", "start": 192704, "end": 192715, "normalized": "0,22-0,25 %"}
+{"marker": "⟦HW3_UNIT_00758⟧", "kind": "unit", "raw": "16,8 мм", "start": 192732, "end": 192739, "normalized": "16,8 мм"}
+{"marker": "⟦HW3_UNIT_00759⟧", "kind": "unit", "raw": "0,15-0,18 %", "start": 192810, "end": 192821, "normalized": "0,15-0,18 %"}
+{"marker": "⟦HW3_UNIT_00760⟧", "kind": "unit", "raw": "18,7 мм", "start": 192881, "end": 192888, "normalized": "18,7 мм"}
+{"marker": "⟦HW3_GRADE_00761⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 192916, "end": 192922, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00762⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 193038, "end": 193045, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00763⟧", "kind": "unit", "raw": "10 мм", "start": 193230, "end": 193235, "normalized": "10 мм"}
+{"marker": "⟦HW3_UNIT_00764⟧", "kind": "unit", "raw": "51 мм", "start": 193306, "end": 193311, "normalized": "51 мм"}
+{"marker": "⟦HW3_GRADE_00765⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 193409, "end": 193416, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00766⟧", "kind": "unit", "raw": "0,22-0,25 %", "start": 193453, "end": 193464, "normalized": "0,22-0,25 %"}
+{"marker": "⟦HW3_UNIT_00767⟧", "kind": "unit", "raw": "0,2 %", "start": 193559, "end": 193564, "normalized": "0,2 %"}
+{"marker": "⟦HW3_UNIT_00768⟧", "kind": "unit", "raw": "24,9 мм", "start": 193609, "end": 193616, "normalized": "24,9 мм"}
+{"marker": "⟦HW3_UNIT_00769⟧", "kind": "unit", "raw": "620 °C", "start": 193654, "end": 193660, "normalized": "620 °C"}
+{"marker": "⟦HW3_GRADE_00770⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 193877, "end": 193884, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00771⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 193901, "end": 193907, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00772⟧", "kind": "unit", "raw": "16,8 мм", "start": 193978, "end": 193985, "normalized": "16,8 мм"}
+{"marker": "⟦HW3_GRADE_00773⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 194003, "end": 194010, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00774⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 194041, "end": 194047, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00775⟧", "kind": "unit", "raw": "24,9 мм", "start": 194195, "end": 194202, "normalized": "24,9 мм"}
+{"marker": "⟦HW3_UNIT_00776⟧", "kind": "unit", "raw": "24,9 мм", "start": 194348, "end": 194355, "normalized": "24,9 мм"}
+{"marker": "⟦HW3_UNIT_00777⟧", "kind": "unit", "raw": "650-700 °C", "start": 194596, "end": 194606, "normalized": "650-700 °C"}
+{"marker": "⟦HW3_GRADE_00778⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 194624, "end": 194631, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00779⟧", "kind": "unit", "raw": "24 мм", "start": 194969, "end": 194974, "normalized": "24 мм"}
+{"marker": "⟦HW3_GRADE_00780⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 194984, "end": 194991, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00781⟧", "kind": "unit", "raw": "620°C", "start": 195064, "end": 195069, "normalized": "620°C"}
+{"marker": "⟦HW3_UNIT_00782⟧", "kind": "unit", "raw": "1,4-2,7 %", "start": 195343, "end": 195352, "normalized": "1,4-2,7 %"}
+{"marker": "⟦HW3_UNIT_00783⟧", "kind": "unit", "raw": "20 °C", "start": 195838, "end": 195843, "normalized": "20 °C"}
+{"marker": "⟦HW3_UNIT_00784⟧", "kind": "unit", "raw": "80 °C", "start": 195975, "end": 195980, "normalized": "80 °C"}
+{"marker": "⟦HW3_UNIT_00785⟧", "kind": "unit", "raw": "16,8 мм", "start": 195999, "end": 196006, "normalized": "16,8 мм"}
+{"marker": "⟦HW3_UNIT_00786⟧", "kind": "unit", "raw": "24,9 мм", "start": 196046, "end": 196053, "normalized": "24,9 мм"}
+{"marker": "⟦HW3_UNIT_00787⟧", "kind": "unit", "raw": "620 °C", "start": 196099, "end": 196105, "normalized": "620 °C"}
+{"marker": "⟦HW3_UNIT_00788⟧", "kind": "unit", "raw": "24,9 мм", "start": 196129, "end": 196136, "normalized": "24,9 мм"}
+{"marker": "⟦HW3_UNIT_00789⟧", "kind": "unit", "raw": "-80 °C", "start": 196344, "end": 196350, "normalized": "-80 °C"}
+{"marker": "⟦HW3_UNIT_00790⟧", "kind": "unit", "raw": "16,8 мм", "start": 196439, "end": 196446, "normalized": "16,8 мм"}
+{"marker": "⟦HW3_GRADE_00791⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 196487, "end": 196494, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00792⟧", "kind": "unit", "raw": "80 °С", "start": 196551, "end": 196556, "normalized": "80 °C"}
+{"marker": "⟦HW3_GRADE_00793⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 196709, "end": 196716, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00794⟧", "kind": "unit", "raw": "60 °C", "start": 196761, "end": 196766, "normalized": "60 °C"}
+{"marker": "⟦HW3_FORMULA_00795⟧", "kind": "formula", "raw": "$^{-60}$", "start": 196771, "end": 196779, "normalized": "$^{-60}$"}
+{"marker": "⟦HW3_UNIT_00796⟧", "kind": "unit", "raw": "90 %", "start": 197030, "end": 197034, "normalized": "90 %"}
+{"marker": "⟦HW3_UNIT_00797⟧", "kind": "unit", "raw": "-20 °C", "start": 197053, "end": 197059, "normalized": "-20 °C"}
+{"marker": "⟦HW3_UNIT_00798⟧", "kind": "unit", "raw": "20,5 мм", "start": 197145, "end": 197152, "normalized": "20,5 мм"}
+{"marker": "⟦HW3_UNIT_00799⟧", "kind": "unit", "raw": "-20 °C", "start": 197208, "end": 197214, "normalized": "-20 °C"}
+{"marker": "⟦HW3_UNIT_00800⟧", "kind": "unit", "raw": "90-95 %", "start": 197266, "end": 197273, "normalized": "90-95 %"}
+{"marker": "⟦HW3_UNIT_00801⟧", "kind": "unit", "raw": "18,7 мм", "start": 197503, "end": 197510, "normalized": "18,7 мм"}
+{"marker": "⟦HW3_GRADE_00802⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 197521, "end": 197528, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00803⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 197531, "end": 197537, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_TABLE_00804⟧", "kind": "table", "raw": "<table><tr><td>Сталь</td><td>Плавка</td><td> $\\sigma_T, H/MM^2$ </td><td> $\\sigma_B, H/MM^2$ </td><td> $\\delta_5, \\%$ </td><td> $\\sigma_T / \\sigma_B$ </td><td> $KCV^{-20}$ </td><td> $KCU^{-60}$ </td><td> $ИПГ^{-20}, \\%$ </td></tr><tr><td rowspan=\"9\">05Г2МФБ</td><td>5</td><td>570</td><td>665</td><td>20</td><td>0,86</td><td>176-188-183</td><td>206-214-210</td><td>95</td></tr><tr><td>5</td><td>570</td><td>650</td><td>20</td><td>0,88</td><td>153-169-159</td><td>235-219-225</td><td>95</td></tr><tr><td>6</td><td>580</td><td>670</td><td>21</td><td>0,87</td><td>200-213-212</td><td>230-238-244</td><td>95</td></tr><tr><td>6</td><td>585</td><td>665</td><td>20</td><td>0,88</td><td>245-255-269</td><td>300-295-304</td><td>90</td></tr><tr><td>6</td><td>585</td><td>660</td><td>20</td><td>0,89</td><td>249-263-268</td><td>308-314-309</td><td>90</td></tr><tr><td>7</td><td>605</td><td>690</td><td>20</td><td>0,88</td><td>165-156-163</td><td>193-181-188</td><td>90</td></tr><tr><td>8</td><td>600</td><td>675</td><td>20</td><td>0,89</td><td>263-258-250</td><td>275-281-291</td><td>95</td></tr><tr><td>8</td><td>593</td><td>657</td><td>21</td><td>0,9</td><td>228-234-235</td><td>202-193-198</td><td>95</td></tr><tr><td>8</td><td>590</td><td>660</td><td>23</td><td>0,89</td><td>316-313-318</td><td>348-350-254</td><td>90</td></tr><tr><td>10Г2ФБ</td><td>9</td><td>515</td><td>580</td><td>21</td><td>0,88</td><td>152-160-155</td><td>159-165-163</td><td>95</td></tr></table>", "start": 197552, "end": 199012, "normalized": "<table><tr><td>Сталь</td><td>Плавка</td><td> $\\sigma_T, H/MM^2$ </td><td> $\\sigma_B, H/MM^2$ </td><td> $\\delta_5, \\%$ </td><td> $\\sigma_T / \\sigma_B$ </td><td> $KCV^{-20}$ </td><td> $KCU^{-60}$ </td><td> $ИПГ^{-20}, \\%$ </td></tr><tr><td rowspan=\"9\">05Г2МФБ</td><td>5</td><td>570</td><td>665</td><td>20</td><td>0,86</td><td>176-188-183</td><td>206-214-210</td><td>95</td></tr><tr><td>5</td><td>570</td><td>650</td><td>20</td><td>0,88</td><td>153-169-159</td><td>235-219-225</td><td>95</td></tr><tr><td>6</td><td>580</td><td>670</td><td>21</td><td>0,87</td><td>200-213-212</td><td>230-238-244</td><td>95</td></tr><tr><td>6</td><td>585</td><td>665</td><td>20</td><td>0,88</td><td>245-255-269</td><td>300-295-304</td><td>90</td></tr><tr><td>6</td><td>585</td><td>660</td><td>20</td><td>0,89</td><td>249-263-268</td><td>308-314-309</td><td>90</td></tr><tr><td>7</td><td>605</td><td>690</td><td>20</td><td>0,88</td><td>165-156-163</td><td>193-181-188</td><td>90</td></tr><tr><td>8</td><td>600</td><td>675</td><td>20</td><td>0,89</td><td>263-258-250</td><td>275-281-291</td><td>95</td></tr><tr><td>8</td><td>593</td><td>657</td><td>21</td><td>0,9</td><td>228-234-235</td><td>202-193-198</td><td>95</td></tr><tr><td>8</td><td>590</td><td>660</td><td>23</td><td>0,89</td><td>316-313-318</td><td>348-350-254</td><td>90</td></tr><tr><td>10Г2ФБ</td><td>9</td><td>515</td><td>580</td><td>21</td><td>0,88</td><td>152-160-155</td><td>159-165-163</td><td>95</td></tr></table>", "table": {"rows": 11, "cells": 91, "cell_text_sha256": "6bdea37ff175e95bdf78f6427ccc21ef62bb84afaae8a47d9a4be83d1788b583"}}
+{"marker": "⟦HW3_UNIT_00805⟧", "kind": "unit", "raw": "20,5 мм", "start": 199052, "end": 199059, "normalized": "20,5 мм"}
+{"marker": "⟦HW3_GRADE_00806⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 199069, "end": 199076, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_TABLE_00807⟧", "kind": "table", "raw": "<table><tr><td colspan=\"5\">Образцы Ø 10мм ГОСТ 1497</td><td colspan=\"4\">Образцы плоские 2&quot; ASTM</td><td colspan=\"2\">Ударная вязкость, Дж/см2</td><td rowspan=\"2\">ИПГ-20,%</td></tr><tr><td> $\\sigma_T, H/MM^2$ </td><td> $\\sigma_B, H/MM^2$ </td><td>δ,%</td><td>L.El,%</td><td> $\\sigma_T / \\sigma_B$ </td><td> $\\sigma_T, H/MM^2$ </td><td> $\\sigma_B, H/MM^2$ </td><td>δ(2&quot;),%</td><td> $\\sigma_T / \\sigma_B$ </td><td> $KCV^{-20}$ </td><td> $KCU^{-60}$ </td></tr><tr><td colspan=\"12\">Контролируемая прокатка</td></tr><tr><td>580</td><td>677</td><td>23,8</td><td>0,9</td><td>0,86</td><td>590</td><td>670</td><td>49,0</td><td>0,88</td><td>280-278-311</td><td>329-354-367</td><td>95</td></tr><tr><td>522</td><td>677</td><td>24,7</td><td>0</td><td>0,77</td><td>530</td><td>690</td><td>38,0</td><td>0,77</td><td>168-144-132</td><td>213-204-215</td><td>95</td></tr><tr><td>575</td><td>673</td><td>22,2</td><td>0,5</td><td>0,85</td><td>580</td><td>675</td><td>47,0</td><td>0,86</td><td>259-320-302</td><td>244-246-270</td><td>95</td></tr><tr><td>540</td><td>649</td><td>24,8</td><td>0</td><td>0,83</td><td>515</td><td>660</td><td>47,0</td><td>0,78</td><td>143-176-149</td><td>254-263-230</td><td>95</td></tr><tr><td>526</td><td>650</td><td>25,9</td><td>0</td><td>0,81</td><td>530</td><td>660</td><td>49,0</td><td>0,80</td><td>291-186-230</td><td>263-245-288</td><td>95</td></tr><tr><td>562</td><td>670</td><td>20,8</td><td>0</td><td>0,84</td><td>540</td><td>665</td><td>47,0</td><td>0,81</td><td>194-180-148</td><td>153-168-213</td><td>95</td></tr><tr><td>560</td><td>662</td><td>24,0</td><td>0</td><td>0,85</td><td>585</td><td>665</td><td>48,0</td><td>0,88</td><td>281-266-274</td><td>295-275-288</td><td>95</td></tr><tr><td>564</td><td>648</td><td>23,6</td><td>0</td><td>0,87</td><td>555</td><td>645</td><td>48,0</td><td>0,86</td><td>250-272-290</td><td>269-250-290</td><td>95</td></tr><tr><td>560</td><td>650</td><td>25,0</td><td>0</td><td>0,86</td><td>560</td><td>660</td><td>49,0</td><td>0,85</td><td>196-210-245</td><td>220-240-275</td><td>90</td></tr><tr><td>532</td><td>679</td><td>21,8</td><td>0</td><td>0,78</td><td>530</td><td>670</td><td>37,0</td><td>0,79</td><td>220-222-156</td><td>252-228-279</td><td>95</td></tr></table>", "start": 199102, "end": 201333, "normalized": "<table><tr><td colspan=\"5\">Образцы Ø 10мм ГОСТ 1497</td><td colspan=\"4\">Образцы плоские 2&quot; ASTM</td><td colspan=\"2\">Ударная вязкость, Дж/см2</td><td rowspan=\"2\">ИПГ-20,%</td></tr><tr><td> $\\sigma_T, H/MM^2$ </td><td> $\\sigma_B, H/MM^2$ </td><td>δ,%</td><td>L.El,%</td><td> $\\sigma_T / \\sigma_B$ </td><td> $\\sigma_T, H/MM^2$ </td><td> $\\sigma_B, H/MM^2$ </td><td>δ(2&quot;),%</td><td> $\\sigma_T / \\sigma_B$ </td><td> $KCV^{-20}$ </td><td> $KCU^{-60}$ </td></tr><tr><td colspan=\"12\">Контролируемая прокатка</td></tr><tr><td>580</td><td>677</td><td>23,8</td><td>0,9</td><td>0,86</td><td>590</td><td>670</td><td>49,0</td><td>0,88</td><td>280-278-311</td><td>329-354-367</td><td>95</td></tr><tr><td>522</td><td>677</td><td>24,7</td><td>0</td><td>0,77</td><td>530</td><td>690</td><td>38,0</td><td>0,77</td><td>168-144-132</td><td>213-204-215</td><td>95</td></tr><tr><td>575</td><td>673</td><td>22,2</td><td>0,5</td><td>0,85</td><td>580</td><td>675</td><td>47,0</td><td>0,86</td><td>259-320-302</td><td>244-246-270</td><td>95</td></tr><tr><td>540</td><td>649</td><td>24,8</td><td>0</td><td>0,83</td><td>515</td><td>660</td><td>47,0</td><td>0,78</td><td>143-176-149</td><td>254-263-230</td><td>95</td></tr><tr><td>526</td><td>650</td><td>25,9</td><td>0</td><td>0,81</td><td>530</td><td>660</td><td>49,0</td><td>0,80</td><td>291-186-230</td><td>263-245-288</td><td>95</td></tr><tr><td>562</td><td>670</td><td>20,8</td><td>0</td><td>0,84</td><td>540</td><td>665</td><td>47,0</td><td>0,81</td><td>194-180-148</td><td>153-168-213</td><td>95</td></tr><tr><td>560</td><td>662</td><td>24,0</td><td>0</td><td>0,85</td><td>585</td><td>665</td><td>48,0</td><td>0,88</td><td>281-266-274</td><td>295-275-288</td><td>95</td></tr><tr><td>564</td><td>648</td><td>23,6</td><td>0</td><td>0,87</td><td>555</td><td>645</td><td>48,0</td><td>0,86</td><td>250-272-290</td><td>269-250-290</td><td>95</td></tr><tr><td>560</td><td>650</td><td>25,0</td><td>0</td><td>0,86</td><td>560</td><td>660</td><td>49,0</td><td>0,85</td><td>196-210-245</td><td>220-240-275</td><td>90</td></tr><tr><td>532</td><td>679</td><td>21,8</td><td>0</td><td>0,78</td><td>530</td><td>670</td><td>37,0</td><td>0,79</td><td>220-222-156</td><td>252-228-279</td><td>95</td></tr></table>", "table": {"rows": 13, "cells": 136, "cell_text_sha256": "7f37c41a4f15478d4017e8f6c5cf905b40068f32b95cb1e012feaab4cbedffff"}}
+{"marker": "⟦HW3_TABLE_00808⟧", "kind": "table", "raw": "<table><tr><td colspan=\"5\">Образцы Ø 10мм ГОСТ 1497</td><td colspan=\"4\">Образцы плоские 2&quot; ASTM</td><td colspan=\"2\">Ударная вязкость, Дж/см2</td><td rowspan=\"2\">ИПГ-20,%</td></tr><tr><td>σТ, H/мм2</td><td>σВ, H/мм2</td><td>δ, %</td><td>L.El, %</td><td>σT / σB</td><td>σТ, H/мм2</td><td>σВ, H/мм2</td><td>δ(2&quot;), %</td><td>σТ / σВ</td><td>KCV-20</td><td>KCU-60</td></tr><tr><td colspan=\"12\">Контролируемая прокатка</td></tr><tr><td>580</td><td>677</td><td>23,8</td><td>0,9</td><td>0,86</td><td>590</td><td>670</td><td>49,0</td><td>0,88</td><td>280-278-311</td><td>329-354-361</td><td>90-90</td></tr><tr><td>522</td><td>677</td><td>24,7</td><td>0</td><td>0,77</td><td>530</td><td>690</td><td>38,0</td><td>0,77</td><td>168-144-132</td><td>213-204-215</td><td>95-95</td></tr><tr><td>575</td><td>673</td><td>22,2</td><td>1,0</td><td>0,85</td><td>580</td><td>675</td><td>47,0</td><td>0,86</td><td>259-320-302</td><td>244-246-270</td><td>90-90</td></tr><tr><td>540</td><td>649</td><td>24,8</td><td>0</td><td>0,83</td><td>515</td><td>660</td><td>47,0</td><td>0,78</td><td>143-176-149</td><td>245-263-230</td><td>95-95</td></tr><tr><td>526</td><td>650</td><td>26,0</td><td>0</td><td>0,81</td><td>530</td><td>660</td><td>49,0</td><td>0,80</td><td>291-186-230</td><td>263-245-288</td><td>90-100</td></tr><tr><td>534</td><td>649</td><td>24,5</td><td>0</td><td>0,82</td><td>535</td><td>665</td><td>48,0</td><td>0,80</td><td>286-263-274</td><td>295-289-280</td><td>95-95</td></tr><tr><td>562</td><td>670</td><td>21,0</td><td>0,5</td><td>0,84</td><td>540</td><td>665</td><td>47,0</td><td>0,81</td><td>194-180-148</td><td>153-168-213</td><td>90-90</td></tr><tr><td>532</td><td>679</td><td>22,0</td><td>0</td><td>0,78</td><td>530</td><td>670</td><td>37,0</td><td>0,79</td><td>220-222-156</td><td>252-228-279</td><td>90-90</td></tr><tr><td colspan=\"12\">Контролируемая прокатка + отпуск 620°C, 0,5 ч</td></tr><tr><td>600</td><td>681</td><td>24,6</td><td>2,40</td><td>0,88</td><td>585</td><td>684</td><td>50,0</td><td>0,85</td><td>273-213-263</td><td>302-356-362</td><td>90-90</td></tr><tr><td>615</td><td>703</td><td>24,7</td><td>1,24</td><td>0,87</td><td>616</td><td>706</td><td>42,0</td><td>0,87</td><td>210-269-252</td><td>306-302-325</td><td>90-90</td></tr><tr><td>587</td><td>691</td><td>25,0</td><td>1,36</td><td>0,85</td><td>605</td><td>700</td><td>44,0</td><td>0,86</td><td>304-338-353</td><td>321-315-325</td><td>100-90</td></tr><tr><td>596</td><td>678</td><td>26,0</td><td>2,60</td><td>0,88</td><td>590</td><td>678</td><td>45,0</td><td>0,87</td><td>250-275-258</td><td>308-320-314</td><td>100-90</td></tr><tr><td>608</td><td>688</td><td>24,0</td><td>2,41</td><td>0,88</td><td>592</td><td>684</td><td>44,0</td><td>0,87</td><td>120-120-128</td><td>205-128-153</td><td>90-90</td></tr><tr><td>627</td><td>699</td><td>25,0</td><td>2,30</td><td>0,89</td><td>605</td><td>680</td><td>49,0</td><td>0,89</td><td>278-275-158</td><td>320-330-330</td><td>90-90</td></tr><tr><td>607</td><td>676</td><td>26,0</td><td>2,41</td><td>0,90</td><td>605</td><td>690</td><td>47,0</td><td>0,88</td><td>290-159-300</td><td>319-338-330</td><td>90-90</td></tr><tr><td>600</td><td>682</td><td>25,0</td><td>2,66</td><td>0,88</td><td>600</td><td>680</td><td>49,0</td><td>0,88</td><td>169-222-252</td><td>336-338-340</td><td>90-90</td></tr></table>", "start": 201335, "end": 204652, "normalized": "<table><tr><td colspan=\"5\">Образцы Ø 10мм ГОСТ 1497</td><td colspan=\"4\">Образцы плоские 2&quot; ASTM</td><td colspan=\"2\">Ударная вязкость, Дж/см2</td><td rowspan=\"2\">ИПГ-20,%</td></tr><tr><td>σТ, H/мм2</td><td>σВ, H/мм2</td><td>δ, %</td><td>L.El, %</td><td>σT / σB</td><td>σТ, H/мм2</td><td>σВ, H/мм2</td><td>δ(2&quot;), %</td><td>σТ / σВ</td><td>KCV-20</td><td>KCU-60</td></tr><tr><td colspan=\"12\">Контролируемая прокатка</td></tr><tr><td>580</td><td>677</td><td>23,8</td><td>0,9</td><td>0,86</td><td>590</td><td>670</td><td>49,0</td><td>0,88</td><td>280-278-311</td><td>329-354-361</td><td>90-90</td></tr><tr><td>522</td><td>677</td><td>24,7</td><td>0</td><td>0,77</td><td>530</td><td>690</td><td>38,0</td><td>0,77</td><td>168-144-132</td><td>213-204-215</td><td>95-95</td></tr><tr><td>575</td><td>673</td><td>22,2</td><td>1,0</td><td>0,85</td><td>580</td><td>675</td><td>47,0</td><td>0,86</td><td>259-320-302</td><td>244-246-270</td><td>90-90</td></tr><tr><td>540</td><td>649</td><td>24,8</td><td>0</td><td>0,83</td><td>515</td><td>660</td><td>47,0</td><td>0,78</td><td>143-176-149</td><td>245-263-230</td><td>95-95</td></tr><tr><td>526</td><td>650</td><td>26,0</td><td>0</td><td>0,81</td><td>530</td><td>660</td><td>49,0</td><td>0,80</td><td>291-186-230</td><td>263-245-288</td><td>90-100</td></tr><tr><td>534</td><td>649</td><td>24,5</td><td>0</td><td>0,82</td><td>535</td><td>665</td><td>48,0</td><td>0,80</td><td>286-263-274</td><td>295-289-280</td><td>95-95</td></tr><tr><td>562</td><td>670</td><td>21,0</td><td>0,5</td><td>0,84</td><td>540</td><td>665</td><td>47,0</td><td>0,81</td><td>194-180-148</td><td>153-168-213</td><td>90-90</td></tr><tr><td>532</td><td>679</td><td>22,0</td><td>0</td><td>0,78</td><td>530</td><td>670</td><td>37,0</td><td>0,79</td><td>220-222-156</td><td>252-228-279</td><td>90-90</td></tr><tr><td colspan=\"12\">Контролируемая прокатка + отпуск 620°C, 0,5 ч</td></tr><tr><td>600</td><td>681</td><td>24,6</td><td>2,40</td><td>0,88</td><td>585</td><td>684</td><td>50,0</td><td>0,85</td><td>273-213-263</td><td>302-356-362</td><td>90-90</td></tr><tr><td>615</td><td>703</td><td>24,7</td><td>1,24</td><td>0,87</td><td>616</td><td>706</td><td>42,0</td><td>0,87</td><td>210-269-252</td><td>306-302-325</td><td>90-90</td></tr><tr><td>587</td><td>691</td><td>25,0</td><td>1,36</td><td>0,85</td><td>605</td><td>700</td><td>44,0</td><td>0,86</td><td>304-338-353</td><td>321-315-325</td><td>100-90</td></tr><tr><td>596</td><td>678</td><td>26,0</td><td>2,60</td><td>0,88</td><td>590</td><td>678</td><td>45,0</td><td>0,87</td><td>250-275-258</td><td>308-320-314</td><td>100-90</td></tr><tr><td>608</td><td>688</td><td>24,0</td><td>2,41</td><td>0,88</td><td>592</td><td>684</td><td>44,0</td><td>0,87</td><td>120-120-128</td><td>205-128-153</td><td>90-90</td></tr><tr><td>627</td><td>699</td><td>25,0</td><td>2,30</td><td>0,89</td><td>605</td><td>680</td><td>49,0</td><td>0,89</td><td>278-275-158</td><td>320-330-330</td><td>90-90</td></tr><tr><td>607</td><td>676</td><td>26,0</td><td>2,41</td><td>0,90</td><td>605</td><td>690</td><td>47,0</td><td>0,88</td><td>290-159-300</td><td>319-338-330</td><td>90-90</td></tr><tr><td>600</td><td>682</td><td>25,0</td><td>2,66</td><td>0,88</td><td>600</td><td>680</td><td>49,0</td><td>0,88</td><td>169-222-252</td><td>336-338-340</td><td>90-90</td></tr></table>", "table": {"rows": 20, "cells": 209, "cell_text_sha256": "e99c22363233a67077bb16a2bc1a509867f342958d2f75d8bea9ecb91e8a9819"}}
+{"marker": "⟦HW3_GRADE_00809⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 204866, "end": 204873, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00810⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 204890, "end": 204896, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00811⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 204911, "end": 204918, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00812⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 204924, "end": 204930, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00813⟧", "kind": "unit", "raw": "1 — 16,8 мм", "start": 204960, "end": 204971, "normalized": "1 — 16,8 мм"}
+{"marker": "⟦HW3_UNIT_00814⟧", "kind": "unit", "raw": "2 — 21 мм", "start": 204973, "end": 204982, "normalized": "2 — 21 мм"}
+{"marker": "⟦HW3_UNIT_00815⟧", "kind": "unit", "raw": "4 — 24,9 мм", "start": 204987, "end": 204998, "normalized": "4 — 24,9 мм"}
+{"marker": "⟦HW3_UNIT_00816⟧", "kind": "unit", "raw": "5 — 18,7 мм", "start": 205000, "end": 205011, "normalized": "5 — 18,7 мм"}
+{"marker": "⟦HW3_UNIT_00817⟧", "kind": "unit", "raw": "16,8 мм", "start": 205122, "end": 205129, "normalized": "16,8 мм"}
+{"marker": "⟦HW3_GRADE_00818⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 205139, "end": 205146, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00819⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 205284, "end": 205291, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00820⟧", "kind": "unit", "raw": "20,5 мм", "start": 205427, "end": 205434, "normalized": "20,5 мм"}
+{"marker": "⟦HW3_GRADE_00821⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 205441, "end": 205448, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00822⟧", "kind": "unit", "raw": "2-3 %", "start": 206782, "end": 206787, "normalized": "2-3 %"}
+{"marker": "⟦HW3_GRADE_00823⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 207656, "end": 207662, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00824⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 207673, "end": 207680, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00825⟧", "kind": "unit", "raw": "12,5мм", "start": 207810, "end": 207816, "normalized": "12,5мм"}
+{"marker": "⟦HW3_GRADE_00826⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 208025, "end": 208031, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_FORMULA_00827⟧", "kind": "formula", "raw": "$\\sigma_{0.2}$", "start": 208389, "end": 208403, "normalized": "$\\sigma_{0.2}$"}
+{"marker": "⟦HW3_FORMULA_00828⟧", "kind": "formula", "raw": "$mm^{2}$", "start": 208407, "end": 208415, "normalized": "$mm^{2}$"}
+{"marker": "⟦HW3_FORMULA_00829⟧", "kind": "formula", "raw": "$\\sigma_{B}$", "start": 208418, "end": 208430, "normalized": "$\\sigma_{B}$"}
+{"marker": "⟦HW3_FORMULA_00830⟧", "kind": "formula", "raw": "$mm^{2}$", "start": 208434, "end": 208442, "normalized": "$mm^{2}$"}
+{"marker": "⟦HW3_FORMULA_00831⟧", "kind": "formula", "raw": "$\\sigma_{0.2}/\\sigma_{B}$", "start": 208445, "end": 208470, "normalized": "$\\sigma_{0.2}/\\sigma_{B}$"}
+{"marker": "⟦HW3_GRADE_00832⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 208523, "end": 208529, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00833⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 208566, "end": 208573, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00834⟧", "kind": "unit", "raw": "0,19 %", "start": 208574, "end": 208580, "normalized": "0,19 %"}
+{"marker": "⟦HW3_GRADE_00835⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 208621, "end": 208628, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00836⟧", "kind": "unit", "raw": "0,25 %", "start": 208629, "end": 208635, "normalized": "0,25 %"}
+{"marker": "⟦HW3_GRADE_00837⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 208745, "end": 208751, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00838⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 208754, "end": 208761, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00839⟧", "kind": "unit", "raw": "0,25 %", "start": 208782, "end": 208788, "normalized": "0,25 %"}
+{"marker": "⟦HW3_GRADE_00840⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 208894, "end": 208900, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00841⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 208903, "end": 208910, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00842⟧", "kind": "unit", "raw": "0,19 %", "start": 208913, "end": 208919, "normalized": "0,19 %"}
+{"marker": "⟦HW3_GRADE_00843⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 208965, "end": 208972, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00844⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 209070, "end": 209077, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00845⟧", "kind": "unit", "raw": "0,19 %", "start": 209080, "end": 209086, "normalized": "0,19 %"}
+{"marker": "⟦HW3_GRADE_00846⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 209204, "end": 209211, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00847⟧", "kind": "unit", "raw": "0,25 %", "start": 209214, "end": 209220, "normalized": "0,25 %"}
+{"marker": "⟦HW3_GRADE_00848⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 209295, "end": 209302, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00849⟧", "kind": "unit", "raw": "0,19 %", "start": 209305, "end": 209311, "normalized": "0,19 %"}
+{"marker": "⟦HW3_GRADE_00850⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 209476, "end": 209483, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00851⟧", "kind": "unit", "raw": "0,2 %", "start": 209544, "end": 209549, "normalized": "0,2 %"}
+{"marker": "⟦HW3_GRADE_00852⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 209606, "end": 209612, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00853⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 209615, "end": 209622, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00854⟧", "kind": "unit", "raw": "0,19 %", "start": 209625, "end": 209631, "normalized": "0,19 %"}
+{"marker": "⟦HW3_GRADE_00855⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 209818, "end": 209824, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00856⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 209878, "end": 209885, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00857⟧", "kind": "unit", "raw": "0,19 %", "start": 209888, "end": 209894, "normalized": "0,19 %"}
+{"marker": "⟦HW3_GRADE_00858⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 210105, "end": 210111, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00859⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 210140, "end": 210147, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00860⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 210274, "end": 210281, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00861⟧", "kind": "unit", "raw": "5 %", "start": 211051, "end": 211054, "normalized": "5 %"}
+{"marker": "⟦HW3_GRADE_00862⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 211094, "end": 211101, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00863⟧", "kind": "unit", "raw": "0,16 %", "start": 211104, "end": 211110, "normalized": "0,16 %"}
+{"marker": "⟦HW3_UNIT_00864⟧", "kind": "unit", "raw": "1 %", "start": 211132, "end": 211135, "normalized": "1 %"}
+{"marker": "⟦HW3_UNIT_00865⟧", "kind": "unit", "raw": "1,1 %", "start": 211194, "end": 211199, "normalized": "1,1 %"}
+{"marker": "⟦HW3_GRADE_00866⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 211209, "end": 211216, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00867⟧", "kind": "unit", "raw": "0,25 %", "start": 211219, "end": 211225, "normalized": "0,25 %"}
+{"marker": "⟦HW3_UNIT_00868⟧", "kind": "unit", "raw": "5 %", "start": 211250, "end": 211253, "normalized": "5 %"}
+{"marker": "⟦HW3_UNIT_00869⟧", "kind": "unit", "raw": "3 %", "start": 211308, "end": 211311, "normalized": "3 %"}
+{"marker": "⟦HW3_GRADE_00870⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 211342, "end": 211349, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00871⟧", "kind": "unit", "raw": "0,25 %", "start": 211352, "end": 211358, "normalized": "0,25 %"}
+{"marker": "⟦HW3_GRADE_00872⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 211417, "end": 211424, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00873⟧", "kind": "unit", "raw": "0,16 %", "start": 211427, "end": 211433, "normalized": "0,16 %"}
+{"marker": "⟦HW3_GRADE_00874⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 211519, "end": 211525, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00875⟧", "kind": "unit", "raw": "3 %", "start": 211564, "end": 211567, "normalized": "3 %"}
+{"marker": "⟦HW3_GRADE_00876⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 211917, "end": 211924, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00877⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 211941, "end": 211947, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00878⟧", "kind": "unit", "raw": "18,7 мм", "start": 212194, "end": 212201, "normalized": "18,7 мм"}
+{"marker": "⟦HW3_GRADE_00879⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 212230, "end": 212236, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00880⟧", "kind": "unit", "raw": "24,9 мм", "start": 212402, "end": 212409, "normalized": "24,9 мм"}
+{"marker": "⟦HW3_GRADE_00881⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 212653, "end": 212660, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00882⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 212663, "end": 212669, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00883⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 212685, "end": 212691, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_UNIT_00884⟧", "kind": "unit", "raw": "18,7 мм", "start": 212706, "end": 212713, "normalized": "18,7 мм"}
+{"marker": "⟦HW3_GRADE_00885⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 212722, "end": 212729, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00886⟧", "kind": "unit", "raw": "0,15-0,19 %", "start": 212732, "end": 212743, "normalized": "0,15-0,19 %"}
+{"marker": "⟦HW3_UNIT_00887⟧", "kind": "unit", "raw": "16,8мм", "start": 212761, "end": 212767, "normalized": "16,8мм"}
+{"marker": "⟦HW3_GRADE_00888⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 212776, "end": 212783, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00889⟧", "kind": "unit", "raw": "0,22-0,25 %", "start": 212786, "end": 212797, "normalized": "0,22-0,25 %"}
+{"marker": "⟦HW3_UNIT_00890⟧", "kind": "unit", "raw": "20,5 мм", "start": 212815, "end": 212822, "normalized": "20,5 мм"}
+{"marker": "⟦HW3_UNIT_00891⟧", "kind": "unit", "raw": "20,5 мм", "start": 212899, "end": 212906, "normalized": "20,5 мм"}
+{"marker": "⟦HW3_GRADE_00892⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 212978, "end": 212985, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00893⟧", "kind": "unit", "raw": "0,15-0,19 %", "start": 213126, "end": 213137, "normalized": "0,15-0,19 %"}
+{"marker": "⟦HW3_UNIT_00894⟧", "kind": "unit", "raw": "0,22-0,25 %", "start": 213170, "end": 213181, "normalized": "0,22-0,25 %"}
+{"marker": "⟦HW3_GRADE_00895⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 213427, "end": 213434, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00896⟧", "kind": "unit", "raw": "2-3 %", "start": 213889, "end": 213894, "normalized": "2-3 %"}
+{"marker": "⟦HW3_GRADE_00897⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 214696, "end": 214703, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_TABLE_00898⟧", "kind": "table", "raw": "<table><tr><td rowspan=\"2\">Сталь</td><td rowspan=\"2\">Толщина листа, мм</td><td rowspan=\"2\">Состояние</td><td colspan=\"4\">Образцы А370</td></tr><tr><td> $\\sigma_{\\text{T}}$ , H/ $\\text{мм}^{2}$ </td><td> $\\sigma_{\\text{В}}$ , H/ $\\text{мм}^{2}$ </td><td> $\\delta_{2''}, \\delta_{5} \\%$ </td><td> $\\sigma_{\\text{T}}/\\sigma_{\\text{В}}$ </td></tr><tr><td rowspan=\"3\">X80(0,22-0,25 % Mo)</td><td rowspan=\"3\">20,5</td><td>лист</td><td>582</td><td>671</td><td>44</td><td>0,866</td></tr><tr><td>труба</td><td>637</td><td>694</td><td>39</td><td>0,917</td></tr><tr><td> $\\Delta$ </td><td>+55</td><td>+23</td><td>-5</td><td>+0,051</td></tr><tr><td rowspan=\"3\">X80(0,15-0,19 % Mo)</td><td rowspan=\"3\">16,8</td><td>лист</td><td>588</td><td>664</td><td>22</td><td>0,880</td></tr><tr><td>труба</td><td>584</td><td>670</td><td>19</td><td>0,877</td></tr><tr><td> $\\Delta$ </td><td>-4</td><td>+6</td><td>-3</td><td>-0,03</td></tr><tr><td rowspan=\"3\">X70(без молибдена)</td><td rowspan=\"3\">18,7</td><td>лист</td><td>510</td><td>580</td><td>22</td><td>0,878</td></tr><tr><td>труба</td><td>492</td><td>594</td><td>19</td><td>0,828</td></tr><tr><td> $\\Delta$ </td><td>-18</td><td>+14</td><td>-3</td><td>-0,05</td></tr></table>", "start": 214734, "end": 215937, "normalized": "<table><tr><td rowspan=\"2\">Сталь</td><td rowspan=\"2\">Толщина листа, мм</td><td rowspan=\"2\">Состояние</td><td colspan=\"4\">Образцы А370</td></tr><tr><td> $\\sigma_{\\text{T}}$ , H/ $\\text{мм}^{2}$ </td><td> $\\sigma_{\\text{В}}$ , H/ $\\text{мм}^{2}$ </td><td> $\\delta_{2''}, \\delta_{5} \\%$ </td><td> $\\sigma_{\\text{T}}/\\sigma_{\\text{В}}$ </td></tr><tr><td rowspan=\"3\">X80(0,22-0,25 % Mo)</td><td rowspan=\"3\">20,5</td><td>лист</td><td>582</td><td>671</td><td>44</td><td>0,866</td></tr><tr><td>труба</td><td>637</td><td>694</td><td>39</td><td>0,917</td></tr><tr><td> $\\Delta$ </td><td>+55</td><td>+23</td><td>-5</td><td>+0,051</td></tr><tr><td rowspan=\"3\">X80(0,15-0,19 % Mo)</td><td rowspan=\"3\">16,8</td><td>лист</td><td>588</td><td>664</td><td>22</td><td>0,880</td></tr><tr><td>труба</td><td>584</td><td>670</td><td>19</td><td>0,877</td></tr><tr><td> $\\Delta$ </td><td>-4</td><td>+6</td><td>-3</td><td>-0,03</td></tr><tr><td rowspan=\"3\">X70(без молибдена)</td><td rowspan=\"3\">18,7</td><td>лист</td><td>510</td><td>580</td><td>22</td><td>0,878</td></tr><tr><td>труба</td><td>492</td><td>594</td><td>19</td><td>0,828</td></tr><tr><td> $\\Delta$ </td><td>-18</td><td>+14</td><td>-3</td><td>-0,05</td></tr></table>", "table": {"rows": 11, "cells": 59, "cell_text_sha256": "c4c24e5a6f65c12d5b3c95bfaa3ea17b9e294256b8c35c332a31178e7bace6fd"}}
+{"marker": "⟦HW3_UNIT_00899⟧", "kind": "unit", "raw": "24,9 мм", "start": 216195, "end": 216202, "normalized": "24,9 мм"}
+{"marker": "⟦HW3_UNIT_00900⟧", "kind": "unit", "raw": "1420 мм", "start": 216303, "end": 216310, "normalized": "1420 мм"}
+{"marker": "⟦HW3_GRADE_00901⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 216354, "end": 216361, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_FORMULA_00902⟧", "kind": "formula", "raw": "$\\sigma_{\\mathrm{B}} = 650 - 690 \\mathrm{~H} / \\mathrm{mm}^{2}$", "start": 216401, "end": 216464, "normalized": "$\\sigma_{\\mathrm{B}} = 650 - 690 \\mathrm{~H} / \\mathrm{mm}^{2}$"}
+{"marker": "⟦HW3_FORMULA_00903⟧", "kind": "formula", "raw": "$\\sigma_{\\mathrm{T}} = 530 - 600 \\mathrm{~H} / \\mathrm{mm}^{2}$", "start": 216466, "end": 216529, "normalized": "$\\sigma_{\\mathrm{T}} = 530 - 600 \\mathrm{~H} / \\mathrm{mm}^{2}$"}
+{"marker": "⟦HW3_FORMULA_00904⟧", "kind": "formula", "raw": "$\\delta_{5} = 20 - 21 \\%$", "start": 216531, "end": 216556, "normalized": "$\\delta_{5} = 20 - 21 \\%$"}
+{"marker": "⟦HW3_FORMULA_00905⟧", "kind": "formula", "raw": "$\\mathrm{KCV}^{-20} = 150 - 280 \\mathrm{~Дж} / \\mathrm{см}^{2}$", "start": 216559, "end": 216622, "normalized": "$\\mathrm{KCV}^{-20} = 150 - 280 \\mathrm{~Дж} / \\mathrm{см}^{2}$"}
+{"marker": "⟦HW3_FORMULA_00906⟧", "kind": "formula", "raw": "$\\mathrm{KCU}^{-60} = 190 - 330 \\mathrm{~Дж} / \\mathrm{см}^{2}$", "start": 216624, "end": 216687, "normalized": "$\\mathrm{KCU}^{-60} = 190 - 330 \\mathrm{~Дж} / \\mathrm{см}^{2}$"}
+{"marker": "⟦HW3_FORMULA_00907⟧", "kind": "formula", "raw": "$-20^{\\circ} \\mathrm{C} = 90 - 95 \\%$", "start": 216695, "end": 216732, "normalized": "$-20^{\\circ} \\mathrm{C} = 90 - 95 \\%$"}
+{"marker": "⟦HW3_FORMULA_00908⟧", "kind": "formula", "raw": "$\\mathrm{C}_{3} = 0,40 - 0,43 \\%$", "start": 216735, "end": 216768, "normalized": "$\\mathrm{C}_{3} = 0,40 - 0,43 \\%$"}
+{"marker": "⟦HW3_FORMULA_00909⟧", "kind": "formula", "raw": "$\\mathrm{P}_{\\mathrm{см}} = 0,16 - 0,18 \\%$", "start": 216771, "end": 216814, "normalized": "$\\mathrm{P}_{\\mathrm{см}} = 0,16 - 0,18 \\%$"}
+{"marker": "⟦HW3_GRADE_00910⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 217398, "end": 217404, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00911⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 217503, "end": 217510, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00912⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 217926, "end": 217933, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00913⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 218071, "end": 218078, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00914⟧", "kind": "unit", "raw": "0,04-0,06%", "start": 218277, "end": 218287, "normalized": "0,04-0,06%"}
+{"marker": "⟦HW3_UNIT_00915⟧", "kind": "unit", "raw": "1,65-1,80%", "start": 218291, "end": 218301, "normalized": "1,65-1,80%"}
+{"marker": "⟦HW3_UNIT_00916⟧", "kind": "unit", "raw": "0,15-0,25%", "start": 218306, "end": 218316, "normalized": "0,15-0,25%"}
+{"marker": "⟦HW3_FORMULA_00917⟧", "kind": "formula", "raw": "$\\sigma_{\\mathrm{B}} = 650 - 690 \\mathrm{H} / \\mathrm{mm}^{2}$", "start": 218440, "end": 218502, "normalized": "$\\sigma_{\\mathrm{B}} = 650 - 690 \\mathrm{H} / \\mathrm{mm}^{2}$"}
+{"marker": "⟦HW3_FORMULA_00918⟧", "kind": "formula", "raw": "$\\sigma_{\\mathrm{T}} = 530 - 600 \\mathrm{H} / \\mathrm{mm}^{2}$", "start": 218504, "end": 218566, "normalized": "$\\sigma_{\\mathrm{T}} = 530 - 600 \\mathrm{H} / \\mathrm{mm}^{2}$"}
+{"marker": "⟦HW3_FORMULA_00919⟧", "kind": "formula", "raw": "$\\delta_{5} = 20 - 21\\%$", "start": 218568, "end": 218592, "normalized": "$\\delta_{5} = 20 - 21\\%$"}
+{"marker": "⟦HW3_FORMULA_00920⟧", "kind": "formula", "raw": "$\\mathrm{KCV}^{-20} = 150 - 280 \\mathrm{Дж} / \\mathrm{см}^{2}$", "start": 218594, "end": 218656, "normalized": "$\\mathrm{KCV}^{-20} = 150 - 280 \\mathrm{Дж} / \\mathrm{см}^{2}$"}
+{"marker": "⟦HW3_FORMULA_00921⟧", "kind": "formula", "raw": "$\\mathrm{KCU}^{-60} = 190 - 330 \\mathrm{Дж} / \\mathrm{см}^{2}$", "start": 218658, "end": 218720, "normalized": "$\\mathrm{KCU}^{-60} = 190 - 330 \\mathrm{Дж} / \\mathrm{см}^{2}$"}
+{"marker": "⟦HW3_FORMULA_00922⟧", "kind": "formula", "raw": "$-20^{\\circ}\\mathrm{C} = 90 - 95\\%$", "start": 218773, "end": 218808, "normalized": "$-20^{\\circ}\\mathrm{C} = 90 - 95\\%$"}
+{"marker": "⟦HW3_FORMULA_00923⟧", "kind": "formula", "raw": "$\\mathrm{C}_{3} = 0,40 - 0,43\\%$", "start": 218810, "end": 218842, "normalized": "$\\mathrm{C}_{3} = 0,40 - 0,43\\%$"}
+{"marker": "⟦HW3_FORMULA_00924⟧", "kind": "formula", "raw": "$\\mathrm{P}_{\\mathrm{см}} = 0,16 - 0,18\\%$", "start": 218844, "end": 218886, "normalized": "$\\mathrm{P}_{\\mathrm{см}} = 0,16 - 0,18\\%$"}
+{"marker": "⟦HW3_UNIT_00925⟧", "kind": "unit", "raw": "1160-1180 °C", "start": 219058, "end": 219070, "normalized": "1160-1180 °C"}
+{"marker": "⟦HW3_UNIT_00926⟧", "kind": "unit", "raw": "1050-960 °C", "start": 219114, "end": 219125, "normalized": "1050-960 °C"}
+{"marker": "⟦HW3_UNIT_00927⟧", "kind": "unit", "raw": "800-690°C", "start": 219186, "end": 219195, "normalized": "800-690°C"}
+{"marker": "⟦HW3_UNIT_00928⟧", "kind": "unit", "raw": "1,5-3 °C", "start": 219236, "end": 219244, "normalized": "1,5-3 °C"}
+{"marker": "⟦HW3_UNIT_00929⟧", "kind": "unit", "raw": "500-550 °C", "start": 219264, "end": 219274, "normalized": "500-550 °C"}
+{"marker": "⟦HW3_UNIT_00930⟧", "kind": "unit", "raw": "400-100 °C", "start": 219330, "end": 219340, "normalized": "400-100 °C"}
+{"marker": "⟦HW3_UNIT_00931⟧", "kind": "unit", "raw": "0,5 °C", "start": 219477, "end": 219483, "normalized": "0,5 °C"}
+{"marker": "⟦HW3_UNIT_00932⟧", "kind": "unit", "raw": "130 °C", "start": 219489, "end": 219495, "normalized": "130 °C"}
+{"marker": "⟦HW3_UNIT_00933⟧", "kind": "unit", "raw": "850-800 °C", "start": 219686, "end": 219696, "normalized": "850-800 °C"}
+{"marker": "⟦HW3_FORMULA_00934⟧", "kind": "formula", "raw": "$_{r3}$", "start": 219831, "end": 219838, "normalized": "$_{r3}$"}
+{"marker": "⟦HW3_UNIT_00935⟧", "kind": "unit", "raw": "15-20 °C", "start": 219853, "end": 219861, "normalized": "15-20 °C"}
+{"marker": "⟦HW3_FORMULA_00936⟧", "kind": "formula", "raw": "$B_{H}$", "start": 219927, "end": 219934, "normalized": "$B_{H}$"}
+{"marker": "⟦HW3_FORMULA_00937⟧", "kind": "formula", "raw": "$M_{H}$", "start": 219953, "end": 219960, "normalized": "$M_{H}$"}
+{"marker": "⟦HW3_UNIT_00938⟧", "kind": "unit", "raw": "10-15 °C", "start": 219987, "end": 219995, "normalized": "10-15 °C"}
+{"marker": "⟦HW3_FORMULA_00939⟧", "kind": "formula", "raw": "$\\gamma+\\alpha$", "start": 220041, "end": 220056, "normalized": "$\\gamma+\\alpha$"}
+{"marker": "⟦HW3_UNIT_00940⟧", "kind": "unit", "raw": "15-20 °C", "start": 220155, "end": 220163, "normalized": "15-20 °C"}
+{"marker": "⟦HW3_GRADE_00941⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 220295, "end": 220302, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00942⟧", "kind": "unit", "raw": "1-3 °C", "start": 220453, "end": 220459, "normalized": "1-3 °C"}
+{"marker": "⟦HW3_GRADE_00943⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 220582, "end": 220588, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00944⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 220768, "end": 220775, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00945⟧", "kind": "grade", "raw": "10Г2ФБ", "start": 220811, "end": 220817, "normalized": "10Г2ФБ"}
+{"marker": "⟦HW3_GRADE_00946⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 220987, "end": 220994, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_GRADE_00947⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 221136, "end": 221143, "normalized": "05Г2МФБ"}
+{"marker": "⟦HW3_UNIT_00948⟧", "kind": "unit", "raw": "620 – 650 °C", "start": 221188, "end": 221200, "normalized": "620 – 650 °C"}
+{"marker": "⟦HW3_GRADE_00949⟧", "kind": "grade", "raw": "05Г2МФБ", "start": 221931, "end": 221938, "normalized": "05Г2МФБ"}

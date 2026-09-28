@@ -1,0 +1,71 @@
+{
+  "source": "C:\\Users\\qa1ro\\OneDrive\\Рабочий стол\\projects\\graph_hw\\hw3\\input\\vanadiy_review.md",
+  "source_sha256": "fd6b82f8a05be30dd902e693f9d942246a71a240e13a00f2e61fb57534adac0c",
+  "output": "C:\\Users\\qa1ro\\OneDrive\\Рабочий стол\\projects\\graph_hw\\local_runs\\hw3_pair_15da3303dce3\\prepared\\vanadiy_review",
+  "encoding_for_counts": "o200k_base (GraphRAG 3.1.0 default; proxy, not Qwen tokenizer)",
+  "settings": {
+    "target_tokens": 750,
+    "max_tokens": 1024,
+    "overlap_tokens": 0
+  },
+  "extraction": {
+    "source_characters": 26657,
+    "source_is_baseline_mineru_input": true
+  },
+  "protection": {
+    "formula": 18,
+    "unit": 40
+  },
+  "chunking": {
+    "chunks": 10,
+    "table_chunks": 0,
+    "mean_tokens": 669.2,
+    "median_tokens": 755.0,
+    "std_tokens": 185.0,
+    "max_tokens": 779,
+    "over_1024_tokens": 0,
+    "over_1024_table_chunks": 0,
+    "broken_formulas": 0,
+    "broken_tables": 0
+  },
+  "cleaning": {
+    "image_placeholders_removed": 0,
+    "control_characters_removed": 0,
+    "wrapped_compound_words_joined": 0,
+    "escaped_tildes_unescaped": 4,
+    "reviewed_ocr_corrections": 2,
+    "repeated_whitespace_collapsed": 9,
+    "image_placeholders_remaining": 0,
+    "ambiguous_standalone_numbers_preserved": 0
+  },
+  "normalization": {
+    "unit_typography_changes": 0,
+    "units_validated_with_pint": 40,
+    "abbreviations": {
+      "ТМКП": "термомеханическая контролируемая прокатка",
+      "ОШЗ": "околошовная зона",
+      "МА": "мартенситно-аустенитный"
+    },
+    "word_lemmas_differing_from_surface": 1909,
+    "note": "Lemmas are token metadata; prose is not rewritten to dictionary form."
+  },
+  "tokenization": {
+    "sentences": 136,
+    "tokens": 3714,
+    "table_cells_tokenized_separately": 0,
+    "by_kind": {
+      "word": 3656,
+      "formula": 18,
+      "unit": 40
+    }
+  },
+  "integrity": {
+    "all_formula_occurrences_preserved": true,
+    "all_html_tables_preserved": true,
+    "all_token_offsets_valid": true,
+    "all_protected_items_recovered_as_tokens": true,
+    "source_formula_occurrences": 18,
+    "source_html_tables": 0
+  },
+  "review_flags": 0
+}

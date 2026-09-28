@@ -1,0 +1,18 @@
+{
+  "pipeline_version": "joint-hw3-v1",
+  "documents": {
+    "ganoshenko.md": {
+      "source_sha256": "3876cc0e01e5ce9591c8da7f2c761b7807db0879982011cbd2584ed021d0d2ff",
+      "cleaned_sha256": "c0c768488cc0c116bbfc8830991ec639490f65e58cc81a2069162c265c7d9827",
+      "chunks": 111
+    },
+    "vanadiy_review.md": {
+      "source_sha256": "fd6b82f8a05be30dd902e693f9d942246a71a240e13a00f2e61fb57534adac0c",
+      "cleaned_sha256": "6353a97b720a74bbd76c6c03a9b95ba3c3bac3911bc3bf1631b77947e4a7a9a2",
+      "chunks": 10
+    }
+  },
+  "before": "hw3/graphs/data/before",
+  "after": "hw3/graphs/data/after",
+  "run_id": "hw3_pair_15da3303dce3"
+}

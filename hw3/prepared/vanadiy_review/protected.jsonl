@@ -1,0 +1,58 @@
+{"marker": "⟦HW3_FORMULA_00001⟧", "kind": "formula", "raw": "$10^{-1}$", "start": 397, "end": 406, "normalized": "$10^{-1}$"}
+{"marker": "⟦HW3_FORMULA_00002⟧", "kind": "formula", "raw": "$S_{v}$", "start": 3050, "end": 3057, "normalized": "$S_{v}$"}
+{"marker": "⟦HW3_FORMULA_00003⟧", "kind": "formula", "raw": "$T_{95}$", "start": 3595, "end": 3603, "normalized": "$T_{95}$"}
+{"marker": "⟦HW3_FORMULA_00004⟧", "kind": "formula", "raw": "$T_{5}$", "start": 3646, "end": 3653, "normalized": "$T_{5}$"}
+{"marker": "⟦HW3_FORMULA_00005⟧", "kind": "formula", "raw": "$T_{5}$", "start": 3859, "end": 3866, "normalized": "$T_{5}$"}
+{"marker": "⟦HW3_UNIT_00006⟧", "kind": "unit", "raw": "900-950°C", "start": 4198, "end": 4207, "normalized": "900-950°C"}
+{"marker": "⟦HW3_UNIT_00007⟧", "kind": "unit", "raw": "100-180 °C", "start": 4337, "end": 4347, "normalized": "100-180 °C"}
+{"marker": "⟦HW3_UNIT_00008⟧", "kind": "unit", "raw": "0,1%", "start": 5129, "end": 5133, "normalized": "0,1%"}
+{"marker": "⟦HW3_FORMULA_00009⟧", "kind": "formula", "raw": "$\\gamma$", "start": 6184, "end": 6192, "normalized": "$\\gamma$"}
+{"marker": "⟦HW3_FORMULA_00010⟧", "kind": "formula", "raw": "$NbC_{\\gamma}$", "start": 6196, "end": 6210, "normalized": "$NbC_{\\gamma}$"}
+{"marker": "⟦HW3_FORMULA_00011⟧", "kind": "formula", "raw": "$NbC, [Nb]_{\\gamma}$", "start": 6245, "end": 6265, "normalized": "$NbC, [Nb]_{\\gamma}$"}
+{"marker": "⟦HW3_FORMULA_00012⟧", "kind": "formula", "raw": "$[Nb]_{\\gamma}$", "start": 6293, "end": 6308, "normalized": "$[Nb]_{\\gamma}$"}
+{"marker": "⟦HW3_FORMULA_00013⟧", "kind": "formula", "raw": "$\\alpha$", "start": 6340, "end": 6348, "normalized": "$\\alpha$"}
+{"marker": "⟦HW3_FORMULA_00014⟧", "kind": "formula", "raw": "$NbC_{\\gamma}$", "start": 6352, "end": 6366, "normalized": "$NbC_{\\gamma}$"}
+{"marker": "⟦HW3_FORMULA_00015⟧", "kind": "formula", "raw": "$NbC_{\\alpha}$", "start": 6397, "end": 6411, "normalized": "$NbC_{\\alpha}$"}
+{"marker": "⟦HW3_FORMULA_00016⟧", "kind": "formula", "raw": "$d^{-1/2}$", "start": 9003, "end": 9013, "normalized": "$d^{-1/2}$"}
+{"marker": "⟦HW3_UNIT_00017⟧", "kind": "unit", "raw": "0,18%", "start": 10376, "end": 10381, "normalized": "0,18%"}
+{"marker": "⟦HW3_FORMULA_00018⟧", "kind": "formula", "raw": "$T_{кп}$", "start": 10431, "end": 10439, "normalized": "$T_{кп}$"}
+{"marker": "⟦HW3_UNIT_00019⟧", "kind": "unit", "raw": "920 °C", "start": 10442, "end": 10448, "normalized": "920 °C"}
+{"marker": "⟦HW3_UNIT_00020⟧", "kind": "unit", "raw": "9,5 мкм", "start": 10495, "end": 10502, "normalized": "9,5 мкм"}
+{"marker": "⟦HW3_FORMULA_00021⟧", "kind": "formula", "raw": "$T_{кп} = 740^{\\circ}C$", "start": 10795, "end": 10818, "normalized": "$T_{кп} = 740^{\\circ}C$"}
+{"marker": "⟦HW3_UNIT_00022⟧", "kind": "unit", "raw": "4,5 мкм", "start": 10881, "end": 10888, "normalized": "4,5 мкм"}
+{"marker": "⟦HW3_UNIT_00023⟧", "kind": "unit", "raw": "40°C", "start": 10956, "end": 10960, "normalized": "40°C"}
+{"marker": "⟦HW3_UNIT_00024⟧", "kind": "unit", "raw": "0,03 %", "start": 12133, "end": 12139, "normalized": "0,03 %"}
+{"marker": "⟦HW3_UNIT_00025⟧", "kind": "unit", "raw": "0,10%", "start": 12144, "end": 12149, "normalized": "0,10%"}
+{"marker": "⟦HW3_UNIT_00026⟧", "kind": "unit", "raw": "0,09%", "start": 12155, "end": 12160, "normalized": "0,09%"}
+{"marker": "⟦HW3_FORMULA_00027⟧", "kind": "formula", "raw": "$\\sim$", "start": 12832, "end": 12838, "normalized": "$\\sim$"}
+{"marker": "⟦HW3_UNIT_00028⟧", "kind": "unit", "raw": "35°C", "start": 12843, "end": 12847, "normalized": "35°C"}
+{"marker": "⟦HW3_UNIT_00029⟧", "kind": "unit", "raw": "0,03%", "start": 12861, "end": 12866, "normalized": "0,03%"}
+{"marker": "⟦HW3_UNIT_00030⟧", "kind": "unit", "raw": "20°C", "start": 12978, "end": 12982, "normalized": "20°C"}
+{"marker": "⟦HW3_FORMULA_00031⟧", "kind": "formula", "raw": "$\\sim$", "start": 13069, "end": 13075, "normalized": "$\\sim$"}
+{"marker": "⟦HW3_UNIT_00032⟧", "kind": "unit", "raw": "10°C", "start": 13080, "end": 13084, "normalized": "10°C"}
+{"marker": "⟦HW3_UNIT_00033⟧", "kind": "unit", "raw": "0,08%", "start": 14146, "end": 14151, "normalized": "0,08%"}
+{"marker": "⟦HW3_UNIT_00034⟧", "kind": "unit", "raw": "0,08%", "start": 14185, "end": 14190, "normalized": "0,08%"}
+{"marker": "⟦HW3_UNIT_00035⟧", "kind": "unit", "raw": "20 мм", "start": 14269, "end": 14274, "normalized": "20 мм"}
+{"marker": "⟦HW3_UNIT_00036⟧", "kind": "unit", "raw": "1000°C", "start": 14293, "end": 14299, "normalized": "1000°C"}
+{"marker": "⟦HW3_UNIT_00037⟧", "kind": "unit", "raw": "0,03-0,04%", "start": 14320, "end": 14330, "normalized": "0,03-0,04%"}
+{"marker": "⟦HW3_FORMULA_00038⟧", "kind": "formula", "raw": "$_{50}$", "start": 14767, "end": 14774, "normalized": "$_{50}$"}
+{"marker": "⟦HW3_UNIT_00039⟧", "kind": "unit", "raw": "0,09%", "start": 15127, "end": 15132, "normalized": "0,09%"}
+{"marker": "⟦HW3_UNIT_00040⟧", "kind": "unit", "raw": "0,03%", "start": 15245, "end": 15250, "normalized": "0,03%"}
+{"marker": "⟦HW3_UNIT_00041⟧", "kind": "unit", "raw": "0,04%", "start": 15369, "end": 15374, "normalized": "0,04%"}
+{"marker": "⟦HW3_UNIT_00042⟧", "kind": "unit", "raw": "0,05%", "start": 17070, "end": 17075, "normalized": "0,05%"}
+{"marker": "⟦HW3_UNIT_00043⟧", "kind": "unit", "raw": "0,07%", "start": 17240, "end": 17245, "normalized": "0,07%"}
+{"marker": "⟦HW3_UNIT_00044⟧", "kind": "unit", "raw": "0,015%", "start": 20470, "end": 20476, "normalized": "0,015%"}
+{"marker": "⟦HW3_UNIT_00045⟧", "kind": "unit", "raw": "60 ppm", "start": 20542, "end": 20548, "normalized": "60 ppm"}
+{"marker": "⟦HW3_UNIT_00046⟧", "kind": "unit", "raw": "700°C", "start": 20649, "end": 20654, "normalized": "700°C"}
+{"marker": "⟦HW3_UNIT_00047⟧", "kind": "unit", "raw": "50 нм", "start": 21025, "end": 21030, "normalized": "50 нм"}
+{"marker": "⟦HW3_UNIT_00048⟧", "kind": "unit", "raw": "10 нм", "start": 21411, "end": 21416, "normalized": "10 нм"}
+{"marker": "⟦HW3_UNIT_00049⟧", "kind": "unit", "raw": "1000°C", "start": 21439, "end": 21445, "normalized": "1000°C"}
+{"marker": "⟦HW3_UNIT_00050⟧", "kind": "unit", "raw": "0,04%", "start": 21509, "end": 21514, "normalized": "0,04%"}
+{"marker": "⟦HW3_UNIT_00051⟧", "kind": "unit", "raw": "0,12%", "start": 21741, "end": 21746, "normalized": "0,12%"}
+{"marker": "⟦HW3_UNIT_00052⟧", "kind": "unit", "raw": "0,21%", "start": 23787, "end": 23792, "normalized": "0,21%"}
+{"marker": "⟦HW3_UNIT_00053⟧", "kind": "unit", "raw": "0,16%", "start": 23796, "end": 23801, "normalized": "0,16%"}
+{"marker": "⟦HW3_UNIT_00054⟧", "kind": "unit", "raw": "1,38%", "start": 23806, "end": 23811, "normalized": "1,38%"}
+{"marker": "⟦HW3_UNIT_00055⟧", "kind": "unit", "raw": "0,04%", "start": 23904, "end": 23909, "normalized": "0,04%"}
+{"marker": "⟦HW3_UNIT_00056⟧", "kind": "unit", "raw": "0,08-0,1%", "start": 23932, "end": 23941, "normalized": "0,08-0,1%"}
+{"marker": "⟦HW3_UNIT_00057⟧", "kind": "unit", "raw": "2 нм", "start": 24495, "end": 24499, "normalized": "2 нм"}
+{"marker": "⟦HW3_UNIT_00058⟧", "kind": "unit", "raw": "20-50%", "start": 24905, "end": 24911, "normalized": "20-50%"}

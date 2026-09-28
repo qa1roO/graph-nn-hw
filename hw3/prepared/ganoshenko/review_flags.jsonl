@@ -1,0 +1,14 @@
+{"reason": "table_exceeds_1024_tokens", "chunk_id": "chunk-0046", "token_count": 1227}
+{"reason": "table_exceeds_1024_tokens", "chunk_id": "chunk-0095", "token_count": 1359}
+{"reason": "table_exceeds_1024_tokens", "chunk_id": "chunk-0101", "token_count": 1155}
+{"reason": "table_exceeds_1024_tokens", "chunk_id": "chunk-0102", "token_count": 1770}
+{"reason": "heading_interrupts_sentence_in_mineru_output", "excerpt": "ния сталей для газопроводных труб большого диаметра внесли труды Д.А. Литвиненко,\n\n## ВВЕДЕНИЕ\n\nС.А. Голованенко, М.Л. Бернштейна, Н.П. Лякишева, П.Д. Одесского,\nВ.Н."}
+{"reason": "ambiguous_standalone_number_preserved", "value": "6", "source_start": 157427, "excerpt": "\n\n![](image-omitted)\n\na\n\n![](image-omitted)\n\n6\n\nРис.4.2. Тип диаграмм напряжение-деформация"}
+{"reason": "ambiguous_standalone_number_preserved", "value": "6", "source_start": 159476, "excerpt": "ed)\n\n![](image-omitted)\n\n![](image-omitted)\n\n6\n\nРис.4.4. Микроструктура стали 05Г2МФБ в исх"}
+{"reason": "ambiguous_standalone_number_preserved", "value": "6", "source_start": 159684, "excerpt": "; б — травление в растворе Lepera [155].\n\na\n\n6\n\n![](image-omitted)\n\nTMKΠ\n\n![](image-omitted"}
+{"reason": "ambiguous_standalone_number_preserved", "value": "6", "source_start": 166633, "excerpt": "age-omitted)\n\na\n\n×15000\n\n![](image-omitted)\n\n6\n\n×10000\n\n![](image-omitted)\n\nB\n\n![](image-om"}
+{"reason": "ambiguous_standalone_number_preserved", "value": "6", "source_start": 168717, "excerpt": "\n\n![](image-omitted)\n\na\n\n![](image-omitted)\n\n6\n\n![](image-omitted)\n\n![](image-omitted)\n\nΓ\n\n"}
+{"reason": "ambiguous_standalone_number_preserved", "value": "6", "source_start": 170640, "excerpt": "mage-omitted)\n\na\n\n×1500\n\n![](image-omitted)\n\n6\n\n×10000\n\n![](image-omitted)\n\nB\n\n![](image-om"}
+{"reason": "ambiguous_standalone_number_preserved", "value": "6", "source_start": 179457, "excerpt": "\n\na\n\n![](image-omitted)\n\n![](image-omitted)\n\n6\n\nB\n\n![](image-omitted)\n\nД\n\n![](image-omitted"}
+{"reason": "ambiguous_standalone_number_preserved", "value": "6", "source_start": 181923, "excerpt": "\n\n![](image-omitted)\n\na\n\n![](image-omitted)\n\n6\n\n![](image-omitted)\n\nB\n\n![](image-omitted)\n\n"}
+{"reason": "ambiguous_standalone_number_preserved", "value": "6", "source_start": 184688, "excerpt": "\n\n![](image-omitted)\n\na\n\n![](image-omitted)\n\n6\n\n![](image-omitted)\n\nB\n\n![](image-omitted)\n\n"}

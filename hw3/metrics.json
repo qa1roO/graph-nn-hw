@@ -1,0 +1,985 @@
+{
+  "documents": [
+    "ganoshenko.md",
+    "vanadiy_review.md"
+  ],
+  "run_info": {
+    "pipeline_version": "joint-hw3-v1",
+    "documents": {
+      "ganoshenko.md": {
+        "source_sha256": "3876cc0e01e5ce9591c8da7f2c761b7807db0879982011cbd2584ed021d0d2ff",
+        "cleaned_sha256": "c0c768488cc0c116bbfc8830991ec639490f65e58cc81a2069162c265c7d9827",
+        "chunks": 111
+      },
+      "vanadiy_review.md": {
+        "source_sha256": "fd6b82f8a05be30dd902e693f9d942246a71a240e13a00f2e61fb57534adac0c",
+        "cleaned_sha256": "6353a97b720a74bbd76c6c03a9b95ba3c3bac3911bc3bf1631b77947e4a7a9a2",
+        "chunks": 10
+      }
+    },
+    "before": "C:\\Users\\qa1ro\\OneDrive\\Рабочий стол\\projects\\graph_hw\\local_runs\\hw3_pair_15da3303dce3\\before",
+    "after": "C:\\Users\\qa1ro\\OneDrive\\Рабочий стол\\projects\\graph_hw\\local_runs\\hw3_pair_15da3303dce3\\after"
+  },
+  "models": {
+    "before": {
+      "qwen3.5-graph:latest": "65c91eafb7118d6f7175252fe54f6879fbb3ce9d3232fc12f36b00070b6fd4ff",
+      "bge-m3-cpu:latest": "607a07b8c4e494a75617df498348981829ae94289c18e8ebe27156e891278269"
+    },
+    "after": {
+      "qwen3.5-graph:latest": "65c91eafb7118d6f7175252fe54f6879fbb3ce9d3232fc12f36b00070b6fd4ff",
+      "bge-m3-cpu:latest": "607a07b8c4e494a75617df498348981829ae94289c18e8ebe27156e891278269"
+    }
+  },
+  "preprocessing": {
+    "ganoshenko.md": {
+      "chunks": 111,
+      "mean_tokens": 592.6,
+      "std_tokens": 302.3,
+      "over_1024_tokens": 4,
+      "source_paragraphs": 700,
+      "split_paragraphs": 29,
+      "split_paragraph_fraction": 0.0414,
+      "sentence_atoms": 1429,
+      "split_sentences": 0,
+      "formulas_preserved": 204,
+      "tables_preserved": 11,
+      "protected_elements": {
+        "formula": 147,
+        "unit": 558,
+        "grade": 233,
+        "table": 11
+      },
+      "valid_token_offsets": 29233,
+      "tokens": 29233,
+      "number_occurrences": 2983,
+      "numbers_missing": 0,
+      "numbers_added": 0,
+      "cleaning_changes": {
+        "image_placeholders_removed": 93,
+        "control_characters_removed": 0,
+        "wrapped_compound_words_joined": 1,
+        "escaped_tildes_unescaped": 24,
+        "reviewed_ocr_corrections": 1,
+        "repeated_whitespace_collapsed": 68,
+        "image_placeholders_remaining": 0,
+        "ambiguous_standalone_numbers_preserved": 9
+      },
+      "units_validated_with_pint": 558,
+      "unit_typography_changes": 3,
+      "lemmas_different_from_surface": 14266,
+      "token_types": {
+        "word": 28182,
+        "formula": 147,
+        "unit": 558,
+        "abbreviation": 102,
+        "grade": 233,
+        "table": 11
+      }
+    },
+    "vanadiy_review.md": {
+      "chunks": 10,
+      "mean_tokens": 669.2,
+      "std_tokens": 185.0,
+      "over_1024_tokens": 0,
+      "source_paragraphs": 76,
+      "split_paragraphs": 6,
+      "split_paragraph_fraction": 0.0789,
+      "sentence_atoms": 150,
+      "split_sentences": 0,
+      "formulas_preserved": 18,
+      "tables_preserved": 0,
+      "protected_elements": {
+        "formula": 18,
+        "unit": 40
+      },
+      "valid_token_offsets": 3714,
+      "tokens": 3714,
+      "number_occurrences": 81,
+      "numbers_missing": 0,
+      "numbers_added": 0,
+      "cleaning_changes": {
+        "image_placeholders_removed": 0,
+        "control_characters_removed": 0,
+        "wrapped_compound_words_joined": 0,
+        "escaped_tildes_unescaped": 4,
+        "reviewed_ocr_corrections": 2,
+        "repeated_whitespace_collapsed": 9,
+        "image_placeholders_remaining": 0,
+        "ambiguous_standalone_numbers_preserved": 0
+      },
+      "units_validated_with_pint": 40,
+      "unit_typography_changes": 0,
+      "lemmas_different_from_surface": 1909,
+      "token_types": {
+        "word": 3656,
+        "formula": 18,
+        "unit": 40
+      }
+    },
+    "total": {
+      "documents": 2,
+      "chunks": 121,
+      "mean_tokens": 598.9,
+      "std_tokens": 295.2,
+      "over_1024_tokens": 4,
+      "formulas_preserved": 222,
+      "tables_preserved": 11,
+      "tokens": 32947,
+      "valid_token_offsets": 32947,
+      "number_occurrences": 3064,
+      "numbers_missing": 0,
+      "numbers_added": 0,
+      "split_paragraphs": 35,
+      "split_sentences": 0,
+      "source_paragraphs": 776,
+      "units_validated_with_pint": 598
+    }
+  },
+  "graphs": {
+    "before": {
+      "run": "C:\\Users\\qa1ro\\OneDrive\\Рабочий стол\\projects\\graph_hw\\local_runs\\hw3_pair_15da3303dce3\\before",
+      "graph": {
+        "nodes": 792,
+        "relationships": 1475,
+        "by_entity_type": {
+          "МИКРОСТРУКТУРА": 256,
+          "ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС": 155,
+          "СВОЙСТВО": 143,
+          "МАТЕРИАЛ": 133,
+          "СОЕДИНЕНИЕ": 57,
+          "ХИМИЧЕСКИЙ_ЭЛЕМЕНТ": 43,
+          "ОРГАНИЗАЦИЯ": 4,
+          "ТЕМПЕРАТУРА": 1
+        },
+        "by_relationship_type_pair": {
+          "МАТЕРИАЛ / МАТЕРИАЛ": 60,
+          "МАТЕРИАЛ / МИКРОСТРУКТУРА": 162,
+          "МАТЕРИАЛ / ОРГАНИЗАЦИЯ": 7,
+          "МАТЕРИАЛ / СВОЙСТВО": 137,
+          "МАТЕРИАЛ / СОЕДИНЕНИЕ": 20,
+          "МАТЕРИАЛ / ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС": 147,
+          "МАТЕРИАЛ / ХИМИЧЕСКИЙ_ЭЛЕМЕНТ": 96,
+          "МИКРОСТРУКТУРА / МИКРОСТРУКТУРА": 131,
+          "МИКРОСТРУКТУРА / СВОЙСТВО": 76,
+          "МИКРОСТРУКТУРА / СОЕДИНЕНИЕ": 44,
+          "МИКРОСТРУКТУРА / ТЕМПЕРАТУРА": 1,
+          "МИКРОСТРУКТУРА / ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС": 167,
+          "МИКРОСТРУКТУРА / ХИМИЧЕСКИЙ_ЭЛЕМЕНТ": 97,
+          "ОРГАНИЗАЦИЯ / СВОЙСТВО": 1,
+          "СВОЙСТВО / СВОЙСТВО": 8,
+          "СВОЙСТВО / СОЕДИНЕНИЕ": 17,
+          "СВОЙСТВО / ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС": 44,
+          "СВОЙСТВО / ХИМИЧЕСКИЙ_ЭЛЕМЕНТ": 59,
+          "СОЕДИНЕНИЕ / СОЕДИНЕНИЕ": 5,
+          "СОЕДИНЕНИЕ / ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС": 27,
+          "СОЕДИНЕНИЕ / ХИМИЧЕСКИЙ_ЭЛЕМЕНТ": 35,
+          "ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС / ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС": 44,
+          "ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС / ХИМИЧЕСКИЙ_ЭЛЕМЕНТ": 61,
+          "ХИМИЧЕСКИЙ_ЭЛЕМЕНТ / ХИМИЧЕСКИЙ_ЭЛЕМЕНТ": 29
+        },
+        "connected_components": 108,
+        "largest_component_nodes": 659,
+        "largest_component_fraction": 0.8321,
+        "isolated_nodes": 92,
+        "bridges": 312,
+        "cycle_rank": 718,
+        "self_loops": 0,
+        "mean_degree": 3.54,
+        "median_degree": 2.0,
+        "max_degree": 168,
+        "pronoun_nodes": 0,
+        "marked_for_review": 5,
+        "formula_or_html_like_titles": 2
+      },
+      "raw_graph": {
+        "nodes": 794,
+        "relationships": 1476
+      },
+      "text_unit_coverage": {
+        "units_with_entities": 144,
+        "units_with_relationships": 135,
+        "text_units": 153
+      },
+      "technical_integrity": {
+        "formulas": {
+          "intact_in_text_units": 222,
+          "source_occurrences": 222,
+          "fraction": 1.0
+        },
+        "html_tables": {
+          "intact_in_text_units": 3,
+          "source_occurrences": 11,
+          "fraction": 0.2727
+        }
+      },
+      "evidence": {
+        "relationships_with_quotes": 1439,
+        "all_quotes_found_in_linked_units": 1018,
+        "unmatched_or_missing_quote": 457,
+        "exact_quote_fraction_among_quoted": 0.7074,
+        "note": "A matching quote does not prove that the relationship has the right meaning."
+      },
+      "vectors": {
+        "available": true,
+        "entity_description": {
+          "available": true,
+          "rows": 794,
+          "expected_rows": 794,
+          "unique_ids": 794,
+          "dimension": 1024,
+          "nonfinite_vectors": 0,
+          "zero_norm_vectors": 0,
+          "median_norm": 1.0
+        },
+        "text_unit_text": {
+          "available": true,
+          "rows": 153,
+          "expected_rows": 153,
+          "unique_ids": 153,
+          "dimension": 1024,
+          "nonfinite_vectors": 0,
+          "zero_norm_vectors": 0,
+          "median_norm": 1.0
+        }
+      },
+      "documents": {
+        "ganoshenko.md": {
+          "text_units": 139,
+          "units_with_entities": 130,
+          "units_with_relationships": 122
+        },
+        "vanadiy_review.md": {
+          "text_units": 14,
+          "units_with_entities": 14,
+          "units_with_relationships": 13
+        },
+        "nodes_grounded_in_both_documents": 61,
+        "relationships_grounded_in_both_documents": 29
+      },
+      "extraction_completion": {
+        "responses": 153,
+        "stopped_normally": 25,
+        "stopped_at_limit": 128
+      }
+    },
+    "after": {
+      "run": "C:\\Users\\qa1ro\\OneDrive\\Рабочий стол\\projects\\graph_hw\\local_runs\\hw3_pair_15da3303dce3\\after",
+      "graph": {
+        "nodes": 493,
+        "relationships": 981,
+        "by_entity_type": {
+          "МИКРОСТРУКТУРА": 107,
+          "ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС": 107,
+          "МАТЕРИАЛ": 93,
+          "СВОЙСТВО": 88,
+          "СОЕДИНЕНИЕ": 56,
+          "ХИМИЧЕСКИЙ_ЭЛЕМЕНТ": 34,
+          "ОРГАНИЗАЦИЯ": 7,
+          "СФЕРА ПРИМЕНЕНИЯ": 1
+        },
+        "by_relationship_type_pair": {
+          "МАТЕРИАЛ / МАТЕРИАЛ": 55,
+          "МАТЕРИАЛ / МИКРОСТРУКТУРА": 105,
+          "МАТЕРИАЛ / ОРГАНИЗАЦИЯ": 8,
+          "МАТЕРИАЛ / СВОЙСТВО": 94,
+          "МАТЕРИАЛ / СОЕДИНЕНИЕ": 29,
+          "МАТЕРИАЛ / ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС": 86,
+          "МАТЕРИАЛ / ХИМИЧЕСКИЙ_ЭЛЕМЕНТ": 114,
+          "МИКРОСТРУКТУРА / МИКРОСТРУКТУРА": 28,
+          "МИКРОСТРУКТУРА / ОРГАНИЗАЦИЯ": 2,
+          "МИКРОСТРУКТУРА / СВОЙСТВО": 32,
+          "МИКРОСТРУКТУРА / СОЕДИНЕНИЕ": 30,
+          "МИКРОСТРУКТУРА / ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС": 80,
+          "МИКРОСТРУКТУРА / ХИМИЧЕСКИЙ_ЭЛЕМЕНТ": 56,
+          "ОРГАНИЗАЦИЯ / ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС": 2,
+          "СВОЙСТВО / СВОЙСТВО": 11,
+          "СВОЙСТВО / СОЕДИНЕНИЕ": 13,
+          "СВОЙСТВО / ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС": 34,
+          "СВОЙСТВО / ХИМИЧЕСКИЙ_ЭЛЕМЕНТ": 38,
+          "СОЕДИНЕНИЕ / СОЕДИНЕНИЕ": 7,
+          "СОЕДИНЕНИЕ / ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС": 35,
+          "СОЕДИНЕНИЕ / ХИМИЧЕСКИЙ_ЭЛЕМЕНТ": 15,
+          "СФЕРА ПРИМЕНЕНИЯ / ХИМИЧЕСКИЙ_ЭЛЕМЕНТ": 1,
+          "ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС / ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС": 49,
+          "ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС / ХИМИЧЕСКИЙ_ЭЛЕМЕНТ": 47,
+          "ХИМИЧЕСКИЙ_ЭЛЕМЕНТ / ХИМИЧЕСКИЙ_ЭЛЕМЕНТ": 10
+        },
+        "connected_components": 50,
+        "largest_component_nodes": 435,
+        "largest_component_fraction": 0.8824,
+        "isolated_nodes": 42,
+        "bridges": 215,
+        "cycle_rank": 473,
+        "self_loops": 3,
+        "mean_degree": 3.716,
+        "median_degree": 1.0,
+        "max_degree": 95,
+        "pronoun_nodes": 0,
+        "marked_for_review": 8,
+        "formula_or_html_like_titles": 0
+      },
+      "raw_graph": {
+        "nodes": 493,
+        "relationships": 981
+      },
+      "text_unit_coverage": {
+        "units_with_entities": 108,
+        "units_with_relationships": 101,
+        "text_units": 121
+      },
+      "technical_integrity": {
+        "formulas": {
+          "intact_in_text_units": 222,
+          "source_occurrences": 222,
+          "fraction": 1.0
+        },
+        "html_tables": {
+          "intact_in_text_units": 11,
+          "source_occurrences": 11,
+          "fraction": 1.0
+        }
+      },
+      "evidence": {
+        "relationships_with_quotes": 957,
+        "all_quotes_found_in_linked_units": 629,
+        "unmatched_or_missing_quote": 352,
+        "exact_quote_fraction_among_quoted": 0.6573,
+        "note": "A matching quote does not prove that the relationship has the right meaning."
+      },
+      "vectors": {
+        "available": true,
+        "entity_description": {
+          "available": true,
+          "rows": 493,
+          "expected_rows": 493,
+          "unique_ids": 493,
+          "dimension": 1024,
+          "nonfinite_vectors": 0,
+          "zero_norm_vectors": 0,
+          "median_norm": 1.0
+        },
+        "text_unit_text": {
+          "available": true,
+          "rows": 121,
+          "expected_rows": 121,
+          "unique_ids": 121,
+          "dimension": 1024,
+          "nonfinite_vectors": 0,
+          "zero_norm_vectors": 0,
+          "median_norm": 1.0
+        }
+      },
+      "documents": {
+        "ganoshenko.md": {
+          "text_units": 111,
+          "units_with_entities": 98,
+          "units_with_relationships": 91
+        },
+        "vanadiy_review.md": {
+          "text_units": 10,
+          "units_with_entities": 10,
+          "units_with_relationships": 10
+        },
+        "nodes_grounded_in_both_documents": 45,
+        "relationships_grounded_in_both_documents": 18
+      },
+      "extraction_completion": {
+        "responses": 121,
+        "stopped_normally": 31,
+        "stopped_at_limit": 90
+      }
+    },
+    "node_jaccard": 0.2635,
+    "edge_jaccard": 0.1118
+  },
+  "vectorization": {
+    "before": {
+      "adjacent_mean": 0.8027,
+      "random_mean": 0.6248,
+      "pairs": 151
+    },
+    "after": {
+      "adjacent_mean": 0.7141,
+      "random_mean": 0.5891,
+      "pairs": 119
+    }
+  },
+  "retrieval": {
+    "before": {
+      "all": {
+        "queries": 14,
+        "answerable": 14,
+        "hit_rate_at_10": 1.0,
+        "mrr_at_10": 0.744,
+        "ndcg_at_10": 0.7561
+      },
+      "by_document": {
+        "ganoshenko.md": {
+          "queries": 7,
+          "answerable": 7,
+          "hit_rate_at_10": 1.0,
+          "mrr_at_10": 0.881,
+          "ndcg_at_10": 0.8533
+        },
+        "vanadiy_review.md": {
+          "queries": 7,
+          "answerable": 7,
+          "hit_rate_at_10": 1.0,
+          "mrr_at_10": 0.6071,
+          "ndcg_at_10": 0.6589
+        }
+      },
+      "details": [
+        {
+          "document": "ganoshenko.md",
+          "question": "Какие трубы применяли для магистральных газопроводов до перехода на более прочные стали?",
+          "relevant_units": 1,
+          "first_relevant_rank": 1,
+          "hit_at_10": true,
+          "rr_at_10": 1.0,
+          "ndcg_at_10": 1.0
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Какое оборудование учитывалось при разработке стали категории К65?",
+          "relevant_units": 5,
+          "first_relevant_rank": 1,
+          "hit_at_10": true,
+          "rr_at_10": 1.0,
+          "ndcg_at_10": 0.5502528928628452
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Какой диапазон отношения кальция к сере указан для глобуляризации сульфидов?",
+          "relevant_units": 1,
+          "first_relevant_rank": 1,
+          "hit_at_10": true,
+          "rr_at_10": 1.0,
+          "ndcg_at_10": 1.0
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Как обрабатывают металл для предотвращения удлинённых сульфидов марганца?",
+          "relevant_units": 1,
+          "first_relevant_rank": 1,
+          "hit_at_10": true,
+          "rr_at_10": 1.0,
+          "ndcg_at_10": 1.0
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Какой прибор использовали для построения термокинетических диаграмм?",
+          "relevant_units": 1,
+          "first_relevant_rank": 1,
+          "hit_at_10": true,
+          "rr_at_10": 1.0,
+          "ndcg_at_10": 1.0
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Как назвали диаграмму без площадки текучести?",
+          "relevant_units": 1,
+          "first_relevant_rank": 1,
+          "hit_at_10": true,
+          "rr_at_10": 1.0,
+          "ndcg_at_10": 1.0
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Каков диапазон содержания молибдена в плавках 1–4?",
+          "relevant_units": 2,
+          "first_relevant_rank": 6,
+          "hit_at_10": true,
+          "rr_at_10": 0.16666666666666666,
+          "ndcg_at_10": 0.4227898344066503
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Как ведут себя нитрид и карбид ванадия в аустените?",
+          "relevant_units": 2,
+          "first_relevant_rank": 4,
+          "hit_at_10": true,
+          "rr_at_10": 0.25,
+          "ndcg_at_10": 0.45749452618986164
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Какой элемент эффективен для повышения температуры остановки рекристаллизации аустенита?",
+          "relevant_units": 2,
+          "first_relevant_rank": 1,
+          "hit_at_10": true,
+          "rr_at_10": 1.0,
+          "ndcg_at_10": 0.8175295903539445
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Как ванадий влияет на рост зерна и рекристаллизацию аустенита?",
+          "relevant_units": 1,
+          "first_relevant_rank": 1,
+          "hit_at_10": true,
+          "rr_at_10": 1.0,
+          "ndcg_at_10": 1.0
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "В каких областях применяют стали с ниобием?",
+          "relevant_units": 1,
+          "first_relevant_rank": 2,
+          "hit_at_10": true,
+          "rr_at_10": 0.5,
+          "ndcg_at_10": 0.6309297535714575
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Что вносит основной вклад в упрочнение при микролегировании ванадием?",
+          "relevant_units": 1,
+          "first_relevant_rank": 3,
+          "hit_at_10": true,
+          "rr_at_10": 0.3333333333333333,
+          "ndcg_at_10": 0.5
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Какие элементы ниобий превосходит по результирующему воздействию на структуру стали?",
+          "relevant_units": 2,
+          "first_relevant_rank": 1,
+          "hit_at_10": true,
+          "rr_at_10": 1.0,
+          "ndcg_at_10": 0.8503449055347546
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Как изменяется размер зерна феррита при увеличении содержания ниобия?",
+          "relevant_units": 1,
+          "first_relevant_rank": 6,
+          "hit_at_10": true,
+          "rr_at_10": 0.16666666666666666,
+          "ndcg_at_10": 0.3562071871080222
+        }
+      ]
+    },
+    "after": {
+      "all": {
+        "queries": 14,
+        "answerable": 14,
+        "hit_rate_at_10": 1.0,
+        "mrr_at_10": 0.6167,
+        "ndcg_at_10": 0.6904
+      },
+      "by_document": {
+        "ganoshenko.md": {
+          "queries": 7,
+          "answerable": 7,
+          "hit_rate_at_10": 1.0,
+          "mrr_at_10": 0.719,
+          "ndcg_at_10": 0.7494
+        },
+        "vanadiy_review.md": {
+          "queries": 7,
+          "answerable": 7,
+          "hit_rate_at_10": 1.0,
+          "mrr_at_10": 0.5143,
+          "ndcg_at_10": 0.6314
+        }
+      },
+      "details": [
+        {
+          "document": "ganoshenko.md",
+          "question": "Какие трубы применяли для магистральных газопроводов до перехода на более прочные стали?",
+          "relevant_units": 1,
+          "first_relevant_rank": 1,
+          "hit_at_10": true,
+          "rr_at_10": 1.0,
+          "ndcg_at_10": 1.0
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Какое оборудование учитывалось при разработке стали категории К65?",
+          "relevant_units": 4,
+          "first_relevant_rank": 2,
+          "hit_at_10": true,
+          "rr_at_10": 0.5,
+          "ndcg_at_10": 0.35914753008966527
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Какой диапазон отношения кальция к сере указан для глобуляризации сульфидов?",
+          "relevant_units": 1,
+          "first_relevant_rank": 1,
+          "hit_at_10": true,
+          "rr_at_10": 1.0,
+          "ndcg_at_10": 1.0
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Как обрабатывают металл для предотвращения удлинённых сульфидов марганца?",
+          "relevant_units": 1,
+          "first_relevant_rank": 1,
+          "hit_at_10": true,
+          "rr_at_10": 1.0,
+          "ndcg_at_10": 1.0
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Какой прибор использовали для построения термокинетических диаграмм?",
+          "relevant_units": 1,
+          "first_relevant_rank": 3,
+          "hit_at_10": true,
+          "rr_at_10": 0.3333333333333333,
+          "ndcg_at_10": 0.5
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Как назвали диаграмму без площадки текучести?",
+          "relevant_units": 1,
+          "first_relevant_rank": 1,
+          "hit_at_10": true,
+          "rr_at_10": 1.0,
+          "ndcg_at_10": 1.0
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Каков диапазон содержания молибдена в плавках 1–4?",
+          "relevant_units": 1,
+          "first_relevant_rank": 5,
+          "hit_at_10": true,
+          "rr_at_10": 0.2,
+          "ndcg_at_10": 0.38685280723454163
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Как ведут себя нитрид и карбид ванадия в аустените?",
+          "relevant_units": 1,
+          "first_relevant_rank": 3,
+          "hit_at_10": true,
+          "rr_at_10": 0.3333333333333333,
+          "ndcg_at_10": 0.5
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Какой элемент эффективен для повышения температуры остановки рекристаллизации аустенита?",
+          "relevant_units": 1,
+          "first_relevant_rank": 1,
+          "hit_at_10": true,
+          "rr_at_10": 1.0,
+          "ndcg_at_10": 1.0
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Как ванадий влияет на рост зерна и рекристаллизацию аустенита?",
+          "relevant_units": 1,
+          "first_relevant_rank": 3,
+          "hit_at_10": true,
+          "rr_at_10": 0.3333333333333333,
+          "ndcg_at_10": 0.5
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "В каких областях применяют стали с ниобием?",
+          "relevant_units": 1,
+          "first_relevant_rank": 1,
+          "hit_at_10": true,
+          "rr_at_10": 1.0,
+          "ndcg_at_10": 1.0
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Что вносит основной вклад в упрочнение при микролегировании ванадием?",
+          "relevant_units": 1,
+          "first_relevant_rank": 2,
+          "hit_at_10": true,
+          "rr_at_10": 0.5,
+          "ndcg_at_10": 0.6309297535714575
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Какие элементы ниобий превосходит по результирующему воздействию на структуру стали?",
+          "relevant_units": 1,
+          "first_relevant_rank": 3,
+          "hit_at_10": true,
+          "rr_at_10": 0.3333333333333333,
+          "ndcg_at_10": 0.5
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Как изменяется размер зерна феррита при увеличении содержания ниобия?",
+          "relevant_units": 1,
+          "first_relevant_rank": 10,
+          "hit_at_10": true,
+          "rr_at_10": 0.1,
+          "ndcg_at_10": 0.2890648263178879
+        }
+      ]
+    }
+  },
+  "judge": {
+    "before": {
+      "run": "C:\\Users\\qa1ro\\OneDrive\\Рабочий стол\\projects\\graph_hw\\local_runs\\hw3_pair_15da3303dce3\\before",
+      "probes": 14,
+      "coverage_count": 6,
+      "contradiction_count": 2,
+      "details": [
+        {
+          "document": "ganoshenko.md",
+          "question": "Какие трубы применяли для магистральных газопроводов до перехода на более прочные стали?",
+          "evidence": "трубы категории прочности до К60",
+          "candidate_relations": 8,
+          "covered": false,
+          "contradicts_source": false,
+          "reason": "Граф содержит связи между 'СТАЛЬ' и категориями прочности (К60, К65, X70, X80), а также свойствами (прочность, свариваемость). Однако граф не содержит узла или связи, указывающих на конкретный тип труб (например, 'БЕСТУБНАЯ ТРУБА' или 'ТРУБА Б/ШВ'), которые применялись до перехода. Источник упоминает применение 'труб категории прочности до К60', но не называет их конструктивный тип (стальное сечение, отсутствие швов и т.д.), который является ответом на вопрос о том, *какие* трубы применяли. Следовательно, существенный факт источника (тип труб) в графе отсутствует."
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Какое оборудование учитывалось при разработке стали категории К65?",
+          "evidence": "листового стана 3600",
+          "candidate_relations": 8,
+          "covered": false,
+          "contradicts_source": false,
+          "reason": "Граф содержит связи между элементами (Хром, Марганец) и технологическими процессами/структурами, но не устанавливает прямой связи между 'СТАЛЬ' и 'ЛИСТОВОЙ СТАН 3600' как условием разработки именно стали категории К65. Хотя в тексте упоминается стан 3600 в контексте создания сталей для газопроводов категории К65, граф не передает этот конкретный факт (связь 'СТАЛЬ-К65' -> 'используется ЛИСТОВОЙ СТАН 3600'). Остальные связи графа касаются влияния легирующих элементов на структуру и фазовые превращения, что не является ответом на вопрос о оборудовании для стали К65."
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Какой диапазон отношения кальция к сере указан для глобуляризации сульфидов?",
+          "evidence": "2 < [Ca]/[S] < 8",
+          "candidate_relations": 8,
+          "covered": false,
+          "contradicts_source": false,
+          "reason": "Граф не содержит связей, описывающих диапазон отношения кальция к сере (2 < [Ca]/[S] < 8) для глобуляризации сульфидов. Все связи в графе касаются влияния вытянутости сульфидов марганца на ударную вязкость, обработки силикокальцием или влияния марганца на сопротивление хрупкому разрушению, но не содержат фактов о количественных соотношениях Ca/S."
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Как обрабатывают металл для предотвращения удлинённых сульфидов марганца?",
+          "evidence": "обработка металла в разливочном ковше силикокальцием",
+          "candidate_relations": 8,
+          "covered": true,
+          "contradicts_source": false,
+          "reason": "Граф корректно отражает информацию источника: обработка силикокальцием является заключительным этапом десульфурации и необходима именно для предотвращения появления удлиненных сульфидов марганца. Связи между 'Обработка...', 'Десульфурация', 'Сульфиды марганца' и 'Удлиненные сульфиды марганца' верны по смыслу и направлению."
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Какой прибор использовали для построения термокинетических диаграмм?",
+          "evidence": "быстродействующем дилатометре ИМЕТ-ДБ",
+          "candidate_relations": 8,
+          "covered": true,
+          "contradicts_source": false,
+          "reason": "Граф содержит связь между 'РЕГИСТРИРУЮЩИЕ ПРИБОРЫ' и 'КРИВАЯ ОХЛАЖДЕНИЯ', а также упоминает использование дилатометра для построения диаграмм. Однако в источнике прямо указано, что для построения термокинетических диаграмм использовался 'быстродействующий дилатометр ИМЕТ-ДБ'. В графе нет узла или связи, явно указывающей на использование именно дилатометра как прибора для построения этих конкретных диаграмм (связи с 'РЕГИСТРИРУЮЩИЕ ПРИБОРЫ' слишком абстрактны и не передают существенный факт о конкретном приборе ИМЕТ-ДБ). Более того, связь 'РЕГИСТРИРУЮЩИЕ ПРИБОРЫ' -> 'КРИВАЯ ОХЛАЖДЕНИЯ' с описанием 'Используются для вычерчивания кривых' не передает факт о том, что именно дилатометр использовался для построения термокинетических диаграмм превращения аустенита, так как в источнике это делается через дилатометр, а не через абстрактные 'регистрирующие приборы' (которые обычно ассоциируются с потенциометрами для кривых охлаждения). Таким образом, существенный факт о конкретном приборе (дилато"
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Как назвали диаграмму без площадки текучести?",
+          "evidence": "диаграмму без площадки текучести — диаграммой II типа",
+          "candidate_relations": 8,
+          "covered": true,
+          "contradicts_source": false,
+          "reason": "Граф корректно отражает факт из источника: диаграммы без площадки текучести называются диаграммами II типа. Связи для сталей 05Г2МФБ и стали 10Г2ФБ подтверждают классификацию (II тип = нет площадки, I тип = есть площадка). Связи для бейнитных и двухфазных сталей также верны по источнику (нет площадки). Единственная связь с ферритно-перлитной сталью указывает на наличие площадки, что не противоречит вопросу, а лишь описывает другой случай. Все утверждения графа соответствуют тексту источника."
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Каков диапазон содержания молибдена в плавках 1–4?",
+          "evidence": "молибдена 0,22-0,25 %",
+          "candidate_relations": 7,
+          "covered": true,
+          "contradicts_source": false,
+          "reason": "Связь 'МОЛИБДЕН' -> 'СТАЛЬ 05Г2МФБ' корректно передаёт факт источника: содержание молибдена в плавках 1–4 (для листов толщиной 20,5 и 24,9 мм) составляет 0,22-0,25 %. Другие связи либо не относятся к вопросу (ниобий, углерод), либо содержат неточности относительно конкретных плавок 1-4 (например, указание диапазона 0,15-0,18% относится к плавкам 5-8 или другим толщинам)."
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Как ведут себя нитрид и карбид ванадия в аустените?",
+          "evidence": "Нитрид и карбид ванадия полностью растворяются в аустените",
+          "candidate_relations": 8,
+          "covered": true,
+          "contradicts_source": false,
+          "reason": "Граф корректно отражает ключевые факты источника: нитрид и карбид ванадия полностью растворяются в аустените (при высоких температурах) и не оказывают влияния на рост зерна аустенита при высокотемпературном нагреве. Также верно указано, что выделения этих фаз тормозят рекристаллизацию/рост зерна."
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Какой элемент эффективен для повышения температуры остановки рекристаллизации аустенита?",
+          "evidence": "эффективно использовать только ниобий",
+          "candidate_relations": 8,
+          "covered": false,
+          "contradicts_source": true,
+          "reason": "Граф содержит связи, которые противоречат источнику. Источник утверждает: «для повышения температуры рекристаллизации T5 эффективно использовать только ниобий». Граф же содержит связь «НИОБИЙ» -> «РОСТ ЗЕРНА АУСТЕНИТА» с описанием «Ниобий оказывает благоприятное влияние на рост зерна аустенита...», что прямо противоречит цели повышения температуры остановки рекристаллизации (которая требует торможения роста/рекристаллизации). Также граф содержит связь «НИОБИЙ» -> «РЕКРИСТАЛЛИЗАЦИЯ АУСТЕНИТА» с описанием «Ниобий тормозит рекристаллизацию», что формально верно, но в контексте вопроса о повышении температуры остановки (T5) наличие связи про «благоприятное влияние на рост зерна» делает граф некорректным представлением источника, так как источник подчеркивает именно эффективность ниобия для повышения T5 (торможения), а не роста. Более того, связь «НИОБИЙ» -> «РОСТ ЗЕРНА АУСТЕНИТА» с описанием «благоприятное влияние на рост» является смысловым противоречием к факту, что ниобий повышает темпе"
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Как ванадий влияет на рост зерна и рекристаллизацию аустенита?",
+          "evidence": "Ванадий оказывает слабое влияние на рост зерна и кинетику рекристаллизации аустенита",
+          "candidate_relations": 8,
+          "covered": false,
+          "contradicts_source": false,
+          "reason": "Граф содержит связи для ниобия и карбонитридов ванадия, но не содержит прямой связи между элементом 'ВАНАДИЙ' и свойством 'РОСТ ЗЕРНА АУСТЕНИТА', которая была бы подтверждена источником. Хотя в источнике есть фраза о слабом влиянии ванадия на рост зерна, она не представлена как отдельная связь в графе (есть только общая связка с рекристаллизацией). Связи для ниобия противоречат друг другу (один утверждает благоприятное влияние, другой предотвращение роста), но это не является прямым противоречием с источником текста, так как источник лишь упоминает ниобий в контексте дисперсионного твердения без детального описания его влияния на рост зерна в данном фрагменте. Таким образом, граф не покрывает факт из источника (отсутствует конкретная связь Ванадий-Рост зерна) и не содержит явного противоречия с текстом."
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "В каких областях применяют стали с ниобием?",
+          "evidence": "стали для автомобильной промышленности",
+          "candidate_relations": 8,
+          "covered": false,
+          "contradicts_source": false,
+          "reason": "Граф содержит связи между 'ГОРЯЧАЯ ПРОКАТКА' и различными типами сталей/элементов с описанием 'Применяется в стали для...'. Однако источник утверждает, что ниобий применяется в сталях для трубопроводов, автомобильной промышленности и строительных конструкций. Граф ошибочно связывает саму технологию 'ГОРЯЧАЯ ПРОКАТКА' как субъект применения или причину использования ниобия в этих областях (описывая связь как 'Применяется в стали...'), тогда как текст говорит о применении *сталей* с ниобием. Более того, граф связывает 'ГОРЯЧАЯ ПРОКАТКА' с 'УГЛЕРОД', что не является фактом применения сталей с ниобием в указанных областях. Связи искажают смысл: прокатка — это процесс, а не область применения стали с ниобием. Ни одна связь не передает существенный факт о том, *где* применяются стали с ниобием (трубопроводы, автопром, стройка) как результат использования ниобия, а связывает процесс прокатки с этими областями неверно."
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Что вносит основной вклад в упрочнение при микролегировании ванадием?",
+          "evidence": "основной вклад в упрочнение вносят дисперсные частицы",
+          "candidate_relations": 8,
+          "covered": false,
+          "contradicts_source": true,
+          "reason": "Граф содержит связи, где ниобий (Nb) описывается как обеспечивающий упрочнение за счет дисперсионного твердения и выделения дисперсной фазы. Однако источник прямо утверждает, что при микролегировании именно ванадием (V) основной вклад вносит дисперсионное твердение (дисперсные частицы), а измельчение зерна мало. При этом ниобий упрочняет преимущественно за счет измельчения зерна. Таким образом, граф ошибочно приписывает механизм дисперсионного твердения ниобию, игнорируя ключевую роль ванадия в этом механизме согласно источнику, что является смысловым противоречием."
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Какие элементы ниобий превосходит по результирующему воздействию на структуру стали?",
+          "evidence": "ниобий превосходит и титан и ванадий",
+          "candidate_relations": 8,
+          "covered": false,
+          "contradicts_source": false,
+          "reason": "Граф содержит связи между ниобием и другими элементами (ванадий, титан), но описывает их как добавляемые вместе или используемые вместо друг друга в контексте микролегирования. Ни одна связь не передает факт 'превосходства ниобия по результирующему воздействию на структуру стали' над этими элементами, который является ключевым выводом источника. Связи с аустенитом, рекристаллизацией и прочими понятиями описывают механизмы действия ниобия, но не отвечают на вопрос сравнения его эффективности с другими легирующими элементами по итоговому воздействию."
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Как изменяется размер зерна феррита при увеличении содержания ниобия?",
+          "evidence": "измельчению зерна феррита от 21 до 9,5 мкм",
+          "candidate_relations": 8,
+          "covered": true,
+          "contradicts_source": false,
+          "reason": "Граф корректно отражает факт источника: увеличение содержания ниобия приводит к измельчению зерна феррита (уменьшению его размера). Связь 'НИОБИЙ' -> 'ЗЕРНО' с описанием 'Приводит к измельчению зерна феррита' полностью соответствует цитате из источника. Другие связи также верны или являются следствиями основного факта."
+        }
+      ]
+    },
+    "after": {
+      "run": "C:\\Users\\qa1ro\\OneDrive\\Рабочий стол\\projects\\graph_hw\\local_runs\\hw3_pair_15da3303dce3\\after",
+      "probes": 14,
+      "coverage_count": 6,
+      "contradiction_count": 3,
+      "details": [
+        {
+          "document": "ganoshenko.md",
+          "question": "Какие трубы применяли для магистральных газопроводов до перехода на более прочные стали?",
+          "evidence": "трубы категории прочности до К60",
+          "candidate_relations": 8,
+          "covered": false,
+          "contradicts_source": false,
+          "reason": "Граф не содержит связи, описывающей переход от старых сталей к более прочным (например, связь 'СТАЛИ' -> 'БЫВШИЕ СТАЛИ' или 'СТАЛИ' -> 'НОВЫЕ СТАЛИ' с указанием временного контекста перехода). Источник упоминает текущее применение К60 и необходимость создания новых сталей (К65), но не описывает исторический процесс замены или конкретные предыдущие категории прочности, которые были заменены. Следовательно, существенный факт источника 'до перехода на более прочные стали' не передан графом."
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Какое оборудование учитывалось при разработке стали категории К65?",
+          "evidence": "листового стана 3600",
+          "candidate_relations": 8,
+          "covered": false,
+          "contradicts_source": false,
+          "reason": "Граф содержит связи между категориями сталей (К55-К60), элементами легирования и оборудованием, однако ни одна связь не передает факт о том, какое именно оборудование учитывалось при разработке стали К65. Источник упоминает толстолистовой стан 3600 как условие производства, но не утверждает, что разработка велась с учетом этого оборудования (или других), в качестве ключевого фактора выбора; граф лишь связывает их контекстуально без указания на процесс 'учета' при разработке."
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Какой диапазон отношения кальция к сере указан для глобуляризации сульфидов?",
+          "evidence": "2 < [Ca]/[S] < 8",
+          "candidate_relations": 3,
+          "covered": false,
+          "contradicts_source": false,
+          "reason": "Граф не содержит связей, описывающих диапазон отношения кальция к сере (2 < [Ca]/[S] < 8) для глобуляризации сульфидов. Все связи в графе касаются других тем: формы сульфидов марганца при определенных условиях содержания марганца и сегрегации фосфора в феррите."
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Как обрабатывают металл для предотвращения удлинённых сульфидов марганца?",
+          "evidence": "обработка металла в разливочном ковше силикокальцием",
+          "candidate_relations": 8,
+          "covered": false,
+          "contradicts_source": true,
+          "reason": "Граф содержит связи, утверждающие, что сульфиды марганца присутствуют в стали и являются местами для водорода (что верно), но не подтверждает связь между обработкой силикокальцием и предотвращением удлиненных сульфидов. Более того, граф не отражает ключевой факт источника: обработка силикокальцием необходима именно для предотвращения появления удлиненных сульфидов марганца. Отсутствие связи 'ОБРАБОТКА СИЛИКОКАЛЬЦИЕМ' -> 'СУЛЬФИДЫ МАРГАНЦА' (с целью предотвращения) делает граф неполным по отношению к вопросу, а отсутствие утверждения о предотвращении в связях с сульфидами марганца может быть расценено как противоречие контексту источника, где это является основной причиной проведения обработки."
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Какой прибор использовали для построения термокинетических диаграмм?",
+          "evidence": "быстродействующем дилатометре ИМЕТ-ДБ",
+          "candidate_relations": 8,
+          "covered": false,
+          "contradicts_source": false,
+          "reason": "Граф не содержит узла или связи, прямо отвечающих на вопрос о названии прибора. Хотя в графе есть связь 'ДИЛАТОМЕТР ИМЕТ-ДБ' -> 'НАГРЕВ ТОКАМИ ВЫСОКОЙ ЧАСТОТЫ', она описывает функцию нагрева, а не факт использования именно этого прибора для построения диаграмм. Источник утверждает: «Исследование проводили на быстродействующем дилатометре ИМЕТ-ДБ... посредством построения термокинетических диаграмм». Граф не связывает узел 'ТЕРМОКИНЕТИЧЕСКИЕ ДИАГРАММЫ' напрямую с узлом 'ДИЛАТОМЕТР ИМЕТ-ДБ', а лишь опосредованно через процесс нагрева. Следовательно, существенный факт (прибор = дилатометр ИМЕТ-ДБ) не передан в графе."
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Как назвали диаграмму без площадки текучести?",
+          "evidence": "диаграмму без площадки текучести — диаграммой II типа",
+          "candidate_relations": 8,
+          "covered": true,
+          "contradicts_source": false,
+          "reason": "Граф корректно отражает факт из источника: диаграммы без площадки текучести называются «диаграммой II типа». Связи в графе подтверждают это (например, связь СТАЛЬ 05Г2МФБ -> ДИАГРАММА II ТИПА с описанием отсутствия площадки текучести) и не содержат противоречий."
+        },
+        {
+          "document": "ganoshenko.md",
+          "question": "Каков диапазон содержания молибдена в плавках 1–4?",
+          "evidence": "молибдена 0,22-0,25 %",
+          "candidate_relations": 8,
+          "covered": true,
+          "contradicts_source": false,
+          "reason": "Граф содержит связь 'МОЛИБДЕН' -> 'СТАЛЬ 10Г2ФБ' с описанием диапазона содержания молибдена 0,15-0,25 %. Хотя в источнике указано, что для плавок 1–4 диапазон составляет 0,22-0,25 %, а для плавок 5–8 — 0,15-0,18 %, общая формулировка графа (0,15-0,25 %) охватывает оба диапазона из источника. Следовательно, связь передает существенный факт (содержание элемента в сплаве) с верным направлением и условиями (диапазон значений), не противореча источнику."
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Как ведут себя нитрид и карбид ванадия в аустените?",
+          "evidence": "Нитрид и карбид ванадия полностью растворяются в аустените",
+          "candidate_relations": 8,
+          "covered": true,
+          "contradicts_source": false,
+          "reason": "Граф корректно отражает факт из источника: нитрид и карбид ванадия полностью растворяются в аустените. Связи между 'ВАНАДИЙ', 'НИТРИД ВАНАДИЯ', 'КАРБИД ВАНАДИЯ' и 'АУСТЕНИТ' верны согласно тексту. Остальные связи (с ниобием) также соответствуют источнику, хотя вопрос касался именно ванадия; наличие дополнительной информации не делает граф ошибочным, а лишь расширяет его."
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Какой элемент эффективен для повышения температуры остановки рекристаллизации аустенита?",
+          "evidence": "эффективно использовать только ниобий",
+          "candidate_relations": 8,
+          "covered": false,
+          "contradicts_source": true,
+          "reason": "Граф содержит связи между ниобием и ванадием (например, связь 'ВАНАДИЙ' -> 'НИОБИЙ'), которые не подтверждаются источником. Источник утверждает: «для повышения температуры рекристаллизации T5 эффективно использовать только ниобий», а также указывает, что ванадий эффективен для дисперсионного твердения в феррите, но не для повышения температуры остановки рекристаллизации аустенита. Графическая связь между ванадием и ниобием как равнозначных элементов по этому параметру противоречит условию «только ниобий». Кроме того, граф не содержит связи, подтверждающей утверждение источника о том, что именно ниобий эффективен для повышения температуры остановки рекристаллизации аустенита (T5), так как в графе ниобий связан с ростом зерна и превращением, но не с конкретным фактом повышения T5."
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Как ванадий влияет на рост зерна и рекристаллизацию аустенита?",
+          "evidence": "Ванадий оказывает слабое влияние на рост зерна и кинетику рекристаллизации аустенита",
+          "candidate_relations": 8,
+          "covered": false,
+          "contradicts_source": true,
+          "reason": "Граф содержит связи, утверждающие, что ванадий 'тормозит' или оказывает сильное влияние на рекристаллизацию аустенита. Однако источник прямо указывает: «Ванадий оказывает слабое влияние на рост зерна и кинетику рекристаллизации аустенита». Утверждение о том, что эффект ощутим лишь при температурах ниже 850°C, не отменяет общего вывода источника о слабости влияния в отличие от ниобия. Таким образом, граф противоречит источнику по силе и характеру влияния (торможение vs слабое влияние)."
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "В каких областях применяют стали с ниобием?",
+          "evidence": "стали для автомобильной промышленности",
+          "candidate_relations": 8,
+          "covered": false,
+          "contradicts_source": false,
+          "reason": "Граф не содержит связей, описывающих области применения сталей с ниобием (кроме одной связи 'НИОБИЙ' -> 'СТАЛЬ', которая подтверждает применение в микролегированных сталях, но не перечисляет конкретные отрасли). В графе отсутствует связь между 'НИОБИЙ' и 'АВТОМОБИЛЬНАЯ ПРОМЫШЛЕННОСТЬ', а также связи с 'ТРУБОПРОВОДАМИ' или 'СТРОИТЕЛЬНЫМИ КОНСТРУКЦИЯМИ', которые указаны в источнике как основные области применения. Следовательно, граф не передает существенные факты источника о конкретных областях применения."
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Что вносит основной вклад в упрочнение при микролегировании ванадием?",
+          "evidence": "основной вклад в упрочнение вносят дисперсные частицы",
+          "candidate_relations": 8,
+          "covered": true,
+          "contradicts_source": false,
+          "reason": "Граф содержит связь 'МИКРОЛЕГИРОВАНИЕ ВАНАДИЕМ' -> 'УПРОЧНЕНИЕ', которая опирается на доказательство из источника: «При микролегировании ванадием основной вклад в упрочнение вносят дисперсные частицы». Это передает существенный факт источника с верным направлением и условиями."
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Какие элементы ниобий превосходит по результирующему воздействию на структуру стали?",
+          "evidence": "ниобий превосходит и титан и ванадий",
+          "candidate_relations": 8,
+          "covered": true,
+          "contradicts_source": false,
+          "reason": "Граф содержит связь 'МИКРОЛЕГИРОВАНИЕ НИОБИЕМ' -> 'УПРОЧНЕНИЕ' (и другие эффекты), которая подтверждается источником: «увеличение содержания ниобия приводит к упрочнению стали». Также граф отражает факт превосходства ниобия над титаном и ванадием по результирующему воздействию на структуру, что прямо указано в источнике («по результатующему воздействию на конечную структуру стали ниобий превосходит и титан и ванадий»). Направления связей (Niobium -> Strengthening/Structure) соответствуют тексту."
+        },
+        {
+          "document": "vanadiy_review.md",
+          "question": "Как изменяется размер зерна феррита при увеличении содержания ниобия?",
+          "evidence": "измельчению зерна феррита от 21 до 9,5 мкм",
+          "candidate_relations": 8,
+          "covered": true,
+          "contradicts_source": false,
+          "reason": "Граф корректно отражает факт из источника: увеличение содержания ниобия приводит к измельчению зерна феррита (связь 'НИОБИЙ' -> 'ЗЕРНО ФЕРРИТА'). Источник прямо указывает на уменьшение размера зерна с 21 до 9,5 мкм при увеличении концентрации ниобия, что соответствует описанию в графе."
+        }
+      ]
+    }
+  }
+}

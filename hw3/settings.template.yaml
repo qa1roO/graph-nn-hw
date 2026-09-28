@@ -1,0 +1,89 @@
+cache:
+  storage:
+    base_dir: __RUN__/cache
+    type: file
+  type: json
+chunking:
+  overlap: 120
+  size: 600
+completion_models:
+  default_completion_model:
+    api_base: http://127.0.0.1:11434
+    api_key: ollama
+    call_args:
+      max_tokens: 6144
+      reasoning_effort: none
+      temperature: 0.1
+      timeout: 600
+    model: qwen3.5-graph:latest
+    model_provider: ollama_chat
+    type: litellm
+concurrent_requests: 1
+embed_text:
+  batch_size: 1
+  embedding_model_id: default_embedding_model
+  names:
+  - entity_description
+  - text_unit_text
+embedding_models:
+  default_embedding_model:
+    api_base: http://127.0.0.1:11434/v1
+    api_key: ollama
+    call_args:
+      timeout: 180
+    model: bge-m3-cpu:latest
+    model_provider: openai
+    retry:
+      base_delay: 2.0
+      max_delay: 10.0
+      max_retries: 3
+      type: exponential_backoff
+    type: litellm
+extract_graph:
+  completion_model_id: default_completion_model
+  entity_types:
+  - ХИМИЧЕСКИЙ_ЭЛЕМЕНТ
+  - МАТЕРИАЛ
+  - СОЕДИНЕНИЕ
+  - МИКРОСТРУКТУРА
+  - ТЕХНОЛОГИЧЕСКИЙ_ПРОЦЕСС
+  - СВОЙСТВО
+  max_gleanings: 0
+  prompt: __REPO__/prompts/extract_metallurgy.txt
+input:
+  encoding: utf-8
+  file_pattern: .*\.md\Z
+  type: text
+input_storage:
+  base_dir: __RUN__/input
+  type: file
+output_storage:
+  base_dir: __RUN__/output/artifacts
+  type: file
+reporting:
+  base_dir: __RUN__/output/reports
+  type: file
+snapshots:
+  graphml: true
+summarize_descriptions:
+  completion_model_id: default_completion_model
+  max_input_length: 4000
+  max_length: 500
+  prompt: __REPO__/prompts/summarize_metallurgy.txt
+update_output_storage:
+  base_dir: __RUN__/update_output
+  type: file
+vector_store:
+  db_uri: __RUN__/output/lancedb
+  type: lancedb
+  vector_size: 1024
+workflows:
+- load_input_documents
+- create_base_text_units
+- create_final_documents
+- extract_graph
+- finalize_graph
+- extract_covariates
+- create_communities
+- create_final_text_units
+- generate_text_embeddings
